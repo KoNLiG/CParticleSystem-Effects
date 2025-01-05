@@ -1,2661 +1,2659 @@
-Name
-----
-particles/barrel_burning_engine_smoke2.vpcf_c | 
-particles/barrel_burning_engine_smoke_cheap.vpcf_c |
-particles/weapon_muzzle_flash_huntingrifle_main.vpcf_c |
-particles/weapons/models/grenade/molotov/weapon_molotov/molotov_ragfx.vsnap_c |
-particles/weapons/keychains/missinglink/vmdl/kc_missinglink_sam_diamond/kc_body.vsnap_c |
-particles/weapons/keychains/missinglink/vmdl/kc_missinglink_sam_diamond/kc_feet.vsnap_c |
-particles/weapons/keychains/missinglink/vmdl/kc_missinglink_sam_diamond/kc_head.vsnap_c |
-particles/weapons/cs_weapon_fx/bumpmine_active.vpcf_c |
-particles/weapons/cs_weapon_fx/bumpmine_active_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/bumpmine_active_glow2.vpcf_c |
-particles/weapons/cs_weapon_fx/bumpmine_active_glow_outer.vpcf_c |
-particles/weapons/cs_weapon_fx/bumpmine_player_trail.vpcf_c |
-particles/weapons/cs_weapon_fx/confettib_a.vpcf_c |
-particles/weapons/cs_weapon_fx/confettib_a_omni.vpcf_c |
-particles/weapons/cs_weapon_fx/confettib_b.vpcf_c |
-particles/weapons/cs_weapon_fx/confettib_b_omni.vpcf_c |
-particles/weapons/cs_weapon_fx/confettib_c.vpcf_c |
-particles/weapons/cs_weapon_fx/confettib_c_omni.vpcf_c |
-particles/weapons/cs_weapon_fx/confetti_a.vpcf_c |
-particles/weapons/cs_weapon_fx/confetti_a_omni.vpcf_c |
-particles/weapons/cs_weapon_fx/confetti_b.vpcf_c |
-particles/weapons/cs_weapon_fx/confetti_balloons.vpcf_c |
-particles/weapons/cs_weapon_fx/confetti_b_omni.vpcf_c |
-particles/weapons/cs_weapon_fx/confetti_c.vpcf_c |
-particles/weapons/cs_weapon_fx/confetti_c_omni.vpcf_c |
-particles/weapons/cs_weapon_fx/dronegun_laser_sight.vpcf_c |
-particles/weapons/cs_weapon_fx/dronegun_laser_sight_dot.vpcf_c |
-particles/weapons/cs_weapon_fx/dronegun_laser_sight_dot_0.vpcf_c |
-particles/weapons/cs_weapon_fx/mvp_tracers_bg.vpcf_c |
-particles/weapons/cs_weapon_fx/mvp_tracer_here.vpcf_c |
-particles/weapons/cs_weapon_fx/snowball_pile.vpcf_c |
-particles/weapons/cs_weapon_fx/snowball_pile_puddle.vpcf_c |
-particles/weapons/cs_weapon_fx/snowball_pile_snow.vpcf_c |
-particles/weapons/cs_weapon_fx/snow_hit_player_screeneffect.vpcf_c |
-particles/weapons/cs_weapon_fx/snow_hit_player_screeneffect_b.vpcf_c |
-particles/weapons/cs_weapon_fx/snow_hit_player_screeneffect_bb.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_confetti.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_confetti_balloons.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_confetti_cheap.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_confetti_omni.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_confetti_omni_cheap.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_confetti_sparks.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_confetti_sparks_2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_decoy_ground_effect.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_decoy_ground_effect_shot.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_decoy_ground_embers_01.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_decoy_ground_low_02.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_decoy_ground_low_03.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_decoy_ground_low_04.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_decoy_ground_primary_01.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_decoy_ground_smoke_01.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_empty.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_grenade_pin.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_grenade_spoon.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_incend_core_sparks.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_incend_held.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_incend_held_fps.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_incend_held_sparks.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_incend_thrown.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire3b.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire3c.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire3d.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire_blue.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_fp_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_fp_wick.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_held.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_held_fps.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_thrown.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_thrown_child1.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_thrown_child3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_molotov_thrown_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzleflash_illumination.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzleflash_illumination_add.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_confetti_shooter.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_fallback2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_main.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_main_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_main_sub1.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_main_sub2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_main_sub3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_parent_silenced.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_silenced.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_silenced_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_vent.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_vent_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_vent_fire.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_vent_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_vent_fp_cheap.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assualtrifle_flame.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_fallback2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_fp_cheap.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_main.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_main2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_main3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_awp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_awp_tracer.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_fp_cheap.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_main.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_main2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_main_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_vent1.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_b.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_fallback2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_flash.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_fp_cheap.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_main.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_main2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_main_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_tracers.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_vent1.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_core.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_core2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_elite.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_elite_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_fallback2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_fp_cheap.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_main.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_main2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_main2_silenced.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_silenced.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_fp_cheap.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_glow2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_glow3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_main.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_main2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_backup.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_fallback2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_fp_cheap.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_glow2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_glow3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_glow_silenced.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_main.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_main2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_main_silenced.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_parent.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_parent_silenced.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_silenced.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_silenced_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_silenced_fp_cheap.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_medium.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_small.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_small2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_small3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_small4.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_smallest.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks4.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks5.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks6.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks7.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_taser.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_taser_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_flash_taser_fallback2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_smoke.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_smoke_b.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_smoke_b_version_2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_smoke_long.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_muzzle_smoke_long_b.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_beeplight.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_beeplight_inner.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_debris.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_detlight.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_detlight_child01.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_detlight_child02.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_detonate.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_glowring.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_smoke.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_spark_01.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_spark_02.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_spark_02b.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_spark_03.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_sensorgren_wiggly.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_45acp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_50cal.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_50cal_bonus.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_50cal_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_57.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_9mm.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_9mm_backup.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_9mm_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_9mm_fp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_9mm_fp_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_awp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_candycorn.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_deagle.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_minigun.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_minigun_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_rifle.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_rifle_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_shotgun.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_shotgun_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_shotgun_nova.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail_base.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail_smoke.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail_sparks.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail_sparks2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_assrifle2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_assrifle3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_awp2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_awp3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_para2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_para3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_pistol1.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_pistol2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_pistol3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_pistol_elite.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_rifle2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_rifle3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_shotgun1.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_shotgun2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_shotgun3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_smg1.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_smg3.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_snowball_impact.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_snowball_impact_child_base.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_snowball_impact_child_smoke_puff.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_snowball_impact_screen.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_snowball_impact_splash.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_snowball_impact_splat.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_snowball_impact_splat_2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_snowball_impact_stuck_wall.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_snowball_trail.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_snowball_trail_2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_taser_flash.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_taser_flash_impact.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_taser_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_taser_glow_impact.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_taser_sparks.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_taser_sparks_impact.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_50cal.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_50cal_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_50cal_low.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_50cal_low_glow.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_assrifle.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_assrifle_aug.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_assrifle_aug_b.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_backup.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_mach.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_original.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_pistol.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_rifle.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_rifle_scar.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_rifle_ssg.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_rifle_wisp.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_rifle_wisp_cpsetup.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_rifle_wisp_scar.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_rifle_wisp_ssg.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_shot.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_smg.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_taser.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_taser_fallback.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_taser_fallback2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_taser_wire1a.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_taser_wire1b.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_tracers_taser_wire2.vpcf_c |
-particles/weapons/cs_weapon_fx/weapon_wallbang_risidual_tracers.vpcf_c |
-particles/water_impact/boat_foam.vpcf_c |
-particles/water_impact/boat_foam_small.vpcf_c |
-particles/water_impact/slime_splash_01.vpcf_c |
-particles/water_impact/slime_splash_01_droplets.vpcf_c |
-particles/water_impact/slime_splash_01_reversed.vpcf_c |
-particles/water_impact/slime_splash_01_surface.vpcf_c |
-particles/water_impact/slime_splash_02.vpcf_c |
-particles/water_impact/slime_splash_03.vpcf_c |
-particles/water_impact/water_bubble_ambient_1.vpcf_c |
-particles/water_impact/water_bubble_trail_1.vpcf_c |
-particles/water_impact/water_foam_01c.vpcf_c |
-particles/water_impact/water_foam_01d.vpcf_c |
-particles/water_impact/water_foam_line_longb.vpcf_c |
-particles/water_impact/water_foam_line_longc.vpcf_c |
-particles/water_impact/water_foam_line_shortb.vpcf_c |
-particles/water_impact/water_foam_line_shortc.vpcf_c |
-particles/water_impact/water_gunk_1.vpcf_c |
-particles/water_impact/water_impact_bubbles_1.vpcf_c |
-particles/water_impact/water_impact_bubbles_1b.vpcf_c |
-particles/water_impact/water_impact_bubbles_1c.vpcf_c |
-particles/water_impact/water_splash_01.vpcf_c |
-particles/water_impact/water_splash_01_blood.vpcf_c |
-particles/water_impact/water_splash_01_bubbles.vpcf_c |
-particles/water_impact/water_splash_01_column.vpcf_c |
-particles/water_impact/water_splash_01_droplets.vpcf_c |
-particles/water_impact/water_splash_01_droplets_fallback.vpcf_c |
-particles/water_impact/water_splash_01_droplet_trails.vpcf_c |
-particles/water_impact/water_splash_01_droplet_trails_fallback.vpcf_c |
-particles/water_impact/water_splash_01_fallback.vpcf_c |
-particles/water_impact/water_splash_01_fish.vpcf_c |
-particles/water_impact/water_splash_01_foam.vpcf_c |
-particles/water_impact/water_splash_01_foam_delay.vpcf_c |
-particles/water_impact/water_splash_01_foam_surface.vpcf_c |
-particles/water_impact/water_splash_01_ripple_rings.vpcf_c |
-particles/water_impact/water_splash_01_ripple_rings_secondary.vpcf_c |
-particles/water_impact/water_splash_01_ripple_splash.vpcf_c |
-particles/water_impact/water_splash_01_silt.vpcf_c |
-particles/water_impact/water_splash_01_silt_gradual.vpcf_c |
-particles/water_impact/water_splash_01_splash.vpcf_c |
-particles/water_impact/water_splash_01_splash_secondary.vpcf_c |
-particles/water_impact/water_splash_01_splash_tall.vpcf_c |
-particles/water_impact/water_splash_01_surface2.vpcf_c |
-particles/water_impact/water_splash_01_surface3.vpcf_c |
-particles/water_impact/water_splash_01_surface3_dist.vpcf_c |
-particles/water_impact/water_splash_01_surface3_fallback.vpcf_c |
-particles/water_impact/water_splash_01_surface4.vpcf_c |
-particles/water_impact/water_splash_01_surface4_after.vpcf_c |
-particles/water_impact/water_splash_01_surface_delay.vpcf_c |
-particles/water_impact/water_splash_02.vpcf_c |
-particles/water_impact/water_splash_02_continuous.vpcf_c |
-particles/water_impact/water_splash_02_droplets.vpcf_c |
-particles/water_impact/water_splash_02_droplets_version_2.vpcf_c |
-particles/water_impact/water_splash_02_froth.vpcf_c |
-particles/water_impact/water_splash_02_froth2.vpcf_c |
-particles/water_impact/water_splash_02_surface2.vpcf_c |
-particles/water_impact/water_splash_02_vertical.vpcf_c |
-particles/water_impact/water_splash_03.vpcf_c |
-particles/water_impact/water_splash_03_column.vpcf_c |
-particles/water_impact/water_splash_03_fallback.vpcf_c |
-particles/water_impact/water_splash_03_foam_surface_2nd.vpcf_c |
-particles/water_impact/water_splash_base_splash.vpcf_c |
-particles/water_impact/water_splash_column_wide.vpcf_c |
-particles/water_impact/water_splash_leakypipe_silo.vpcf_c |
-particles/water_impact/water_splash_leakypipe_silo_froth2.vpcf_c |
-particles/water_impact/water_splash_leakypipe_vertical.vpcf_c |
-particles/water_impact/water_splash_object_ripple_rings.vpcf_c |
-particles/water_impact/water_splash_object_splash.vpcf_c |
-particles/water_impact/water_splash_object_surface_foam.vpcf_c |
-particles/water_impact/water_splash_player_small.vpcf_c |
-particles/water_impact/water_splash_player_small_droplets.vpcf_c |
-particles/water_impact/water_splash_player_small_ripple.vpcf_c |
-particles/water_impact/water_splash_player_small_surface.vpcf_c |
-particles/water_fx/waterfall_anubis.vpcf_c |
-particles/water_fx/waterfall_anubis_base_foam.vpcf_c |
-particles/water_fx/waterfall_base.vpcf_c |
-particles/water_fx/waterfall_base_bubbles.vpcf_c |
-particles/water_fx/waterfall_base_colliders.vpcf_c |
-particles/water_fx/waterfall_base_collision_bounce.vpcf_c |
-particles/water_fx/waterfall_base_fish.vpcf_c |
-particles/water_fx/waterfall_base_foam.vpcf_c |
-particles/water_fx/waterfall_base_foam_flat.vpcf_c |
-particles/water_fx/waterfall_base_ripples.vpcf_c |
-particles/water_fx/waterfall_base_splash_blobs.vpcf_c |
-particles/water_fx/water_wake_continuous_droplets.vpcf_c |
-particles/water_fx/water_wake_continuous_ripple_colliders.vpcf_c |
-particles/water_fx/water_wake_continuous_ripple_sides.vpcf_c |
-particles/water_fx/water_wake_continuous_silt.vpcf_c |
-particles/water_fx/water_wake_continuous_splash.vpcf_c |
-particles/water_fx/water_wake_continuous_surface_bubbles.vpcf_c |
-particles/water_fx/water_wake_fast.vpcf_c |
-particles/water_fx/water_wake_fast_droplets.vpcf_c |
-particles/water_fx/water_wake_fast_foam.vpcf_c |
-particles/water_fx/water_wake_fast_ripple_colliders.vpcf_c |
-particles/water_fx/water_wake_fast_ripple_rings.vpcf_c |
-particles/water_fx/water_wake_fast_ripple_rings_collision_bounce.vpcf_c |
-particles/water_fx/water_wake_fast_ripple_rings_foam.vpcf_c |
-particles/water_fx/water_wake_fast_ripple_rings_secondary.vpcf_c |
-particles/water_fx/water_wake_fast_ripple_ropes.vpcf_c |
-particles/water_fx/water_wake_fast_ripple_sides.vpcf_c |
-particles/water_fx/water_wake_fast_silt.vpcf_c |
-particles/water_fx/water_wake_fast_splash.vpcf_c |
-particles/water_fx/water_wake_fast_surface_bubbles.vpcf_c |
-particles/water_fx/water_wake_fixed_ripple_rings.vpcf_c |
-particles/water_fx/water_wake_fixed_silt.vpcf_c |
-particles/water_fx/water_wake_medium.vpcf_c |
-particles/water_fx/water_wake_slow.vpcf_c |
-particles/water_fx/water_wake_slow_ripple_left.vpcf_c |
-particles/water_fx/water_wake_slow_ripple_right.vpcf_c |
-particles/water_fx/water_wake_slow_ripple_rings.vpcf_c |
-particles/water_fx/water_wake_slow_ripple_rings_constant.vpcf_c |
-particles/water_fx/water_wake_slow_ripple_rings_later.vpcf_c |
-particles/water_fx/water_wake_slow_ripple_sides.vpcf_c |
-particles/water_fx/water_wake_slow_silt.vpcf_c |
-particles/water_fx/water_wake_slow_surface_bubbles.vpcf_c |
-particles/water_fx/water_wake_splash.vpcf_c |
-particles/water_fx/water_wake_splash_foam_surface.vpcf_c |
-particles/water_fx/water_wake_splash_foam_surface_2nd.vpcf_c |
-particles/water_fx/water_wake_splash_splash.vpcf_c |
-particles/water_fx/water_wake_splash_splash_2nd.vpcf_c |
-particles/water_fx/water_wake_splash_upward.vpcf_c |
-particles/water_fx/water_wake_trail.vpcf_c |
-particles/water_fx/water_wake_trail_left.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_ak47.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_ak47_compensator_flash.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_ak47_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_ak47_primaryflash.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_ak47_primaryflash_alt.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_aug.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_aug_compensator_flash.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_aug_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_aug_fps_ironsight.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_aug_ironsight.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_aug_primarybeam.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_aug_primaryflash.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_awp_primaryflash.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_awp_primaryflash_alt.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_deagle.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_deagle_compensator_flash.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_deagle_fakelight.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_deagle_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_deagle_gen_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_deagle_primaryflash.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_deagle_primaryflash_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_fakelight.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_fakelight_64.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_fakelight_ironsight.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_g3sg1_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_gen_beam.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_gen_empty.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_gen_empty_gp1.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_gen_large_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_gen_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_gen_smokeleft.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_gen_smokeright.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_gen_spark.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_ground_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_mach.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_mach_compensator_flash.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_mach_empty_gp1.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_mach_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_mach_primarybeam.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_mach_primaryflash.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_mach_primaryflash_alt.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_mach_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_mach_spark.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_riffle.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_riffle_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_riffle_lrg.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_riffle_lrg_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_sg_fps_ironsight.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_shot.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_shot_compensator_flash.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_shot_empty_gp1.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_shot_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_shot_primarybeam.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_shot_primaryflash.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_shot_primaryflash_alt.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_shot_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_shot_spark.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_ssg08n_rightbreak.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzflsh_ssg08_leftbreak.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzsilenced_p90subm.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzsilenced_p90subm_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzsilenced_rif.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzsilenced_rif_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzsilenced_subm.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzsilenced_subm_beam.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzsilenced_subm_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzsilenced_subm_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist_beam.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist_empty.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist_fakelight.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist_fire.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist_fire_alt.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist_fire_revolver.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist_revolver.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist_revolver_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_pist_spark.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_revolver_empty.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_revolver_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_rifl_break.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_rifl_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_subm.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_subm_beam.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_subm_empty.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_subm_fakelight.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_subm_fire.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_subm_fire_alt.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_subm_fps.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_subm_p90beam.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_subm_smoke.vpcf_c |
-particles/unified_weapon_fx/uweapon_muzzleflash_subm_spark.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_awp_flare.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_awp_spark.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_basic.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_basic_empty.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_basic_fire.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_basic_fire_alt.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_basic_fire_long.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_basic_smoke.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_basic_spark.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_snip.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_snip_ar.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_snip_ar_fps.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_snip_fps.vpcf_c |
-particles/unified_weapon_fx/weapon_muzzleflash_ssg08.vpcf_c |
-particles/ui/premier_matchstakes_promo_vert.vpcf_c |
-particles/ui/premier_matchstakes_relegation_vert.vpcf_c |
-particles/ui/premier_ratings_bg.vpcf_c |
-particles/ui/premier_ratings_bg_delay.vpcf_c |
-particles/ui/premier_ratings_bot_mask.vpcf_c |
-particles/ui/premier_ratings_delay.vpcf_c |
-particles/ui/premier_ratings_edge.vpcf_c |
-particles/ui/premier_ratings_first.vpcf_c |
-particles/ui/premier_ratings_ispromo.vpcf_c |
-particles/ui/premier_ratings_ispromo_vert.vpcf_c |
-particles/ui/premier_ratings_isrele.vpcf_c |
-particles/ui/premier_ratings_isrele_vert.vpcf_c |
-particles/ui/premier_ratings_mask.vpcf_c |
-particles/ui/premier_ratings_matchstakes.vpcf_c |
-particles/ui/premier_ratings_matchstakes_promo.vpcf_c |
-particles/ui/premier_ratings_matchstakes_relegation.vpcf_c |
-particles/ui/premier_ratings_matchstakes_wipe.vpcf_c |
-particles/ui/premier_ratings_matchstart.vpcf_c |
-particles/ui/premier_ratings_matchstart_promo.vpcf_c |
-particles/ui/premier_ratings_matchstart_vert.vpcf_c |
-particles/ui/premier_ratings_promomatch.vpcf_c |
-particles/ui/premier_ratings_promotion_bars.vpcf_c |
-particles/ui/premier_ratings_relegation.vpcf_c |
-particles/ui/premier_ratings_relegation_bars.vpcf_c |
-particles/ui/premier_ratings_relegation_delay.vpcf_c |
-particles/ui/premier_ratings_relegation_first.vpcf_c |
-particles/ui/premier_ratings_relegation_second.vpcf_c |
-particles/ui/premier_ratings_right_mask.vpcf_c |
-particles/ui/premier_ratings_sparks.vpcf_c |
-particles/ui/premier_ratings__second.vpcf_c |
-particles/ui/rank_carepackage_bg_base.vpcf_c |
-particles/ui/rank_carepackage_bg_endcap.vpcf_c |
-particles/ui/rank_carepackage_bg_mask.vpcf_c |
-particles/ui/rank_carepackage_bg_top.vpcf_c |
-particles/ui/rank_carepackage_bg_top_electraical.vpcf_c |
-particles/ui/rank_carepackage_recieve.vpcf_c |
-particles/ui/rank_carepackage_recieve_hit.vpcf_c |
-particles/ui/rank_carepackage_recieve_mask.vpcf_c |
-particles/ui/rank_carepackage_recieve_radar.vpcf_c |
-particles/ui/tournament_tile.vpcf_c |
-particles/ui/tournament_tile_cubes.vpcf_c |
-particles/ui/tournament_tile_glow.vpcf_c |
-particles/ui/tournament_tile_lineglow.vpcf_c |
-particles/ui/tournament_tile_radiate.vpcf_c |
-particles/ui/tournament_tile_splash.vpcf_c |
-particles/ui/ui_circle_play.vpcf_c |
-particles/ui/ui_electric_exp_glow.vpcf_c |
-particles/ui/ui_electric_gold.vpcf_c |
-particles/ui/ui_electric_gold_elec.vpcf_c |
-particles/ui/ui_electric_gold_ends.vpcf_c |
-particles/ui/ui_element_horiz_star.vpcf_c |
-particles/ui/ui_element_horiz_star_glitter.vpcf_c |
-particles/ui/ui_element_horiz_star_glow.vpcf_c |
-particles/ui/ui_experience_award.vpcf_c |
-particles/ui/ui_experience_award_a.vpcf_c |
-particles/ui/ui_experience_award_electricshock.vpcf_c |
-particles/ui/ui_experience_award_innerpoint.vpcf_c |
-particles/ui/ui_experience_award_outer.vpcf_c |
-particles/ui/ui_experience_award_rollingrings.vpcf_c |
-particles/ui/ui_experience_award_rollingrings_inner.vpcf_c |
-particles/ui/ui_experience_max.vpcf_c |
-particles/ui/ui_experience_max_b.vpcf_c |
-particles/ui/ui_experience_max_elec.vpcf_c |
-particles/ui/ui_experience_max_innerpoints.vpcf_c |
-particles/ui/ui_experience_max_outer.vpcf_c |
-particles/ui/ui_experience_ring.vpcf_c |
-particles/ui/ui_experience_ring_a.vpcf_c |
-particles/ui/ui_experience_static.vpcf_c |
-particles/ui/ui_exp_streak.vpcf_c |
-particles/ui/ui_exp_streak_base.vpcf_c |
-particles/ui/ui_exp_streak_emblem.vpcf_c |
-particles/ui/ui_exp_streak_t0.vpcf_c |
-particles/ui/ui_exp_streak_t1.vpcf_c |
-particles/ui/ui_exp_streak_t2.vpcf_c |
-particles/ui/ui_exp_streak_t3.vpcf_c |
-particles/ui/ui_exp_streak_t4.vpcf_c |
-particles/ui/ui_exp_streak_t5.vpcf_c |
-particles/ui/ui_exp_streak_t6.vpcf_c |
-particles/ui/ui_exp_streak_t7.vpcf_c |
-particles/ui/ui_gold_award_tier_1.vpcf_c |
-particles/ui/ui_gold_award_tier_1_burst.vpcf_c |
-particles/ui/ui_gold_award_tier_1_burst_circle.vpcf_c |
-particles/ui/ui_gold_award_tier_1_rays.vpcf_c |
-particles/ui/ui_gold_award_tier_1_spark.vpcf_c |
-particles/ui/ui_gold_award_tier_2.vpcf_c |
-particles/ui/ui_gold_award_tier_2_flare.vpcf_c |
-particles/ui/ui_gold_award_tier_3.vpcf_c |
-particles/ui/ui_gold_award_tier_3_a.vpcf_c |
-particles/ui/ui_gold_award_tier_3_b.vpcf_c |
-particles/ui/ui_gold_award_tier_3_c.vpcf_c |
-particles/ui/ui_gold_halo_flare.vpcf_c |
-particles/ui/ui_gold_halo_rays.vpcf_c |
-particles/ui/ui_gold_halo_rays_radiate.vpcf_c |
-particles/ui/ui_gold_halo_rays_roll.vpcf_c |
-particles/ui/ui_gold_halo_rays_rot.vpcf_c |
-particles/ui/ui_gold_halo_sparkles.vpcf_c |
-particles/ui/ui_hud_kill_lvl_base.vpcf_c |
-particles/ui/ui_hud_kill_lvl_glow.vpcf_c |
-particles/ui/ui_hud_kill_lvl_motion.vpcf_c |
-particles/ui/ui_hud_kill_lvl_steamy.vpcf_c |
-particles/ui/ui_item_highrank_init.vpcf_c |
-particles/ui/ui_item_oscilliscope_follow.vpcf_c |
-particles/ui/ui_item_oscilliscope_guide_follow.vpcf_c |
-particles/ui/ui_item_oscilliscope_guide_init.vpcf_c |
-particles/ui/ui_item_oscilliscope_init.vpcf_c |
-particles/ui/ui_item_oscilliscope_shooter.vpcf_c |
-particles/ui/ui_item_present_bgglow_boid.vpcf_c |
-particles/ui/ui_item_present_bgglow_burst.vpcf_c |
-particles/ui/ui_item_present_bgglow_rays.vpcf_c |
-particles/ui/ui_item_present_bgglow_void.vpcf_c |
-particles/ui/ui_item_present_bokeh.vpcf_c |
-particles/ui/ui_item_present_floating.vpcf_c |
-particles/ui/ui_item_present_lighting.vpcf_c |
-particles/ui/ui_item_present_miltary_radar.vpcf_c |
-particles/ui/ui_item_present_rainbowflare.vpcf_c |
-particles/ui/ui_item_present_rays.vpcf_c |
-particles/ui/ui_mainmenu_active_search.vpcf_c |
-particles/ui/ui_mainmenu_active_search_glowedge.vpcf_c |
-particles/ui/ui_mainmenu_active_search_glowedge_gold.vpcf_c |
-particles/ui/ui_mainmenu_active_search_gold.vpcf_c |
-particles/ui/ui_mainmenu_active_search_gold_glowedge.vpcf_c |
-particles/ui/ui_mainmenu_active_search_gold_lines.vpcf_c |
-particles/ui/ui_mainmenu_active_search_gold_sprks.vpcf_c |
-particles/ui/ui_mainmenu_active_search_lines.vpcf_c |
-particles/ui/ui_mainmenu_navbar_press.vpcf_c |
-particles/ui/ui_mainmenu_navbar_press_b.vpcf_c |
-particles/ui/ui_mainmenu_nav_hover.vpcf_c |
-particles/ui/ui_mainmenu_nav_play.vpcf_c |
-particles/ui/ui_mainmenu_nav_play_mg.vpcf_c |
-particles/ui/ui_mainmenu_nav_play_mg_horizontal.vpcf_c |
-particles/ui/ui_mainmenu_nav_play_mg_mask.vpcf_c |
-particles/ui/ui_mainmenu_playaction_active.vpcf_c |
-particles/ui/ui_mainmenu_playaction_active_clouds.vpcf_c |
-particles/ui/ui_mainmenu_playaction_active_gold.vpcf_c |
-particles/ui/ui_mainmenu_playaction_active_gold_burst.vpcf_c |
-particles/ui/ui_mainmenu_playaction_active_gold_clouds.vpcf_c |
-particles/ui/ui_mainmenu_playaction_active_gold_press.vpcf_c |
-particles/ui/ui_mainmenu_playaction_active_lines.vpcf_c |
-particles/ui/ui_mainmenu_playaction_mask_scanline.vpcf_c |
-particles/ui/ui_mainmenu_playaction_press.vpcf_c |
-particles/ui/ui_map_mvp_fire_embers.vpcf_c |
-particles/ui/ui_mvp_embers.vpcf_c |
-particles/ui/ui_new_item_present.vpcf_c |
-particles/ui/ui_position_test.vpcf_c |
-particles/ui/ui_press_target_circles.vpcf_c |
-particles/ui/ui_radial_web.vpcf_c |
-particles/ui/xpshop/hex_grid_psf.vsnap_c |
-particles/ui/xpshop/hex_screen.vpcf_c |
-particles/ui/xpshop/ui_activate_cirlces.vpcf_c |
-particles/ui/xpshop/xpshop_ambient_embers_black.vpcf_c |
-particles/ui/xpshop/xpshop_ambient_embers_bright.vpcf_c |
-particles/ui/xpshop/xpshop_ambient_embers_falling.vpcf_c |
-particles/ui/xpshop/xpshop_ambient_highlight.vpcf_c |
-particles/ui/xpshop/xpshop_ambient_highlight_select.vpcf_c |
-particles/ui/xpshop/xpshop_ambient_highlight_uplight.vpcf_c |
-particles/ui/xpshop/xpshop_highrank_init.vpcf_c |
-particles/ui/xpshop/xpshop_oscilliscope_follow.vpcf_c |
-particles/ui/xpshop/xpshop_oscilliscope_guns.vpcf_c |
-particles/ui/xpshop/xpshop_oscilliscope_runner.vpcf_c |
-particles/ui/xpshop/xpshop_oscilliscope_shooter.vpcf_c |
-particles/ui/xpshop/xpshop_oscilliscope_shooter_room.vpcf_c |
-particles/ui/xpshop/xpshop_oscilliscope__shooter_room.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_blank.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_edge_bottom.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_edge_left.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_edge_right.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_edge_top.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_glam_burst.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_glam_energy.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_glam_flow.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_glam_flow_sparks.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_glam_glow.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_glam_rays.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_title.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_title_glow.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_title_plasma.vpcf_c |
-particles/ui/xpshop/xpshop_panel_corners_title_rays.vpcf_c |
-particles/ui/xpshop/xpshop_panel_right_glow.vpcf_c |
-particles/ui/xpshop/xpshop_panel_rising_squares.vpcf_c |
-particles/ui/xpshop/xpshop_panel_select.vpcf_c |
-particles/ui/xpshop/xpshop_panel_select_cubes.vpcf_c |
-particles/ui/xpshop/xpshop_panel_select_glow.vpcf_c |
-particles/ui/xpshop/xpshop_panel_select_lineglow.vpcf_c |
-particles/ui/xpshop/xpshop_panel_select_radiate.vpcf_c |
-particles/ui/xpshop/xpshop_panel_select_splash.vpcf_c |
-particles/ui/xpshop/xpshop_present_bgglow_boid.vpcf_c |
-particles/ui/xpshop/xpshop_present_bgglow_burst.vpcf_c |
-particles/ui/xpshop/xpshop_present_bgglow_rays.vpcf_c |
-particles/ui/xpshop/xpshop_present_floating.vpcf_c |
-particles/ui/xpshop/xpshop_present_miltary_radar.vpcf_c |
-particles/ui/xpshop/xpshop_present_rays.vpcf_c |
-particles/ui/xpshop/xpshop_present_request_item.vpcf_c |
-particles/ui/xpshop/xp_track_radial_feedbak_glow.vpcf_c |
-particles/ui/xpshop/xp_track_radial_feedbak_starhit.vpcf_c |
-particles/ui/xpshop/xp_track_radial_fringhold_glow.vpcf_c |
-particles/ui/xpshop/xp_track_radial_ring.vpcf_c |
-particles/ui/xpshop/xp_track_radial_ring_endcap.vpcf_c |
-particles/ui/ui_hud/ui_map_mvp_fire.vpcf_c |
-particles/ui/ui_hud/ui_map_mvp_fire_body.vpcf_c |
-particles/ui/ui_hud/ui_map_mvp_fire_bodyfire.vpcf_c |
-particles/ui/ui_hud/ui_map_mvp_fire_deathfire.vpcf_c |
-particles/ui/status_levels/shield_trace.vsnap_c |
-particles/ui/status_levels/ui_item_present_bgglow.vpcf_c |
-particles/ui/status_levels/ui_status_level7_lightning.vpcf_c |
-particles/ui/status_levels/ui_status_level7_lightninga.vpcf_c |
-particles/ui/status_levels/ui_status_level7_lightninga0.vpcf_c |
-particles/ui/status_levels/ui_status_level_1.vpcf_c |
-particles/ui/status_levels/ui_status_level_1_a.vpcf_c |
-particles/ui/status_levels/ui_status_level_1_a_right.vpcf_c |
-particles/ui/status_levels/ui_status_level_1_base.vpcf_c |
-particles/ui/status_levels/ui_status_level_1_baseglow.vpcf_c |
-particles/ui/status_levels/ui_status_level_2.vpcf_c |
-particles/ui/status_levels/ui_status_level_3.vpcf_c |
-particles/ui/status_levels/ui_status_level_3a.vpcf_c |
-particles/ui/status_levels/ui_status_level_3b.vpcf_c |
-particles/ui/status_levels/ui_status_level_3c.vpcf_c |
-particles/ui/status_levels/ui_status_level_3d.vpcf_c |
-particles/ui/status_levels/ui_status_level_3_base.vpcf_c |
-particles/ui/status_levels/ui_status_level_4.vpcf_c |
-particles/ui/status_levels/ui_status_level_4_energycirc.vpcf_c |
-particles/ui/status_levels/ui_status_level_5.vpcf_c |
-particles/ui/status_levels/ui_status_level_6.vpcf_c |
-particles/ui/status_levels/ui_status_level_6_shieldglow.vpcf_c |
-particles/ui/status_levels/ui_status_level_7.vpcf_c |
-particles/ui/status_levels/ui_status_level_7_energycirc.vpcf_c |
-particles/ui/status_levels/ui_status_level_7_shieldglow.vpcf_c |
-particles/ui/status_levels/ui_status_level_7_sparkles.vpcf_c |
-particles/ui/status_levels/ui_status_level_8.vpcf_c |
-particles/ui/status_levels/ui_status_level_8_energycirc.vpcf_c |
-particles/ui/status_levels/ui_status_level_interactive_burst.vpcf_c |
-particles/ui/status_levels/ui_status_level_wings.vpcf_c |
-particles/ui/status_levels/ui_status_level_wings_flares.vpcf_c |
-particles/ui/status_levels/ui_status_level_wings_ropes.vpcf_c |
-particles/ui/status_levels/ui_status_level_wing_r.vpcf_c |
-particles/ui/status_levels/ui_status_level__gen_burst.vpcf_c |
-particles/ui/status_levels/ui_status_level__gen_burst_circles.vpcf_c |
-particles/ui/status_levels/ui_status_level__gen_burst_hit.vpcf_c |
-particles/ui/status_levels/ui_status_level__gen_glow.vpcf_c |
-particles/ui/snapshots/cs_chicken.vsnap_c |
-particles/ui/snapshots/cs_guns.vsnap_c |
-particles/ui/snapshots/cs_runner.vsnap_c |
-particles/ui/snapshots/cs_shooter.vsnap_c |
-particles/ui/snapshots/cs_shooter_room.vsnap_c |
-particles/ui/skillgroups/skillgroup_shelltrace.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_1.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_10.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_11.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_12.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_13.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_14.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_15.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_16.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_17.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_18.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_2.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_3.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_4.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_5.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_6.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_7.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_8.vsnap_c |
-particles/ui/skillgroups/skillgroup_trace_9.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_shelltrace.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_0.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_1.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_10.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_11.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_12.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_13.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_14.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_15.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_16.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_17.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_18.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_2.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_3.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_4.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_5.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_6.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_7.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_8.vsnap_c |
-particles/ui/skillgroups/skillgroup_wingman_trace_9.vsnap_c |
-particles/ui/skillgroups/ui_skillgroups_sparkle.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_1.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_10.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_11.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_12.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_13.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_14.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_15.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_16.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_17.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_18.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_18_wipe_glow.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_1_rays.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_2.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_3.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_4.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_4_halo.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_5.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_6.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_7.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_8.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_9.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_border.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_halo.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_1.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_1_gold.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_2.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_2_gold.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_3.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_3_gold.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_4.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_4_gold_sparkle.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_5.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_5_halo.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_6.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_flares.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_gold_emberlight.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_rear_gold_sparkle.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_0.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_1.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_10.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_11.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_12.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_13.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_14.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_15.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_16.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_17.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_18.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_2.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_3.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_4.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_5.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_6.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_7.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_8.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_9.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_rear_1.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_rear_2.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_rear_3.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_rear_4.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wingman_rear_5.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wipe.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wipe_effect.vpcf_c |
-particles/ui/skillgroups/ui_skillgroup_wipe_vert.vpcf_c |
-particles/ui/hud/hud_mainwin_panel_transition.vpcf_c |
-particles/ui/hud/mvp_tracers_bg_effect.vpcf_c |
-particles/ui/hud/ui_effects_tests_falling.vpcf_c |
-particles/ui/hud/ui_env_effects_multikill.vpcf_c |
-particles/ui/hud/ui_hud_grid_xp.vpcf_c |
-particles/ui/hud/ui_map_bomb_plant_ping.vpcf_c |
-particles/ui/hud/ui_map_def_utility_trail.vpcf_c |
-particles/ui/hud/ui_map_mvpace_killed_models.vpcf_c |
-particles/ui/hud/ui_map_mvpace_killed_models_spirit.vpcf_c |
-particles/ui/hud/ui_map_mvpace_killed_model_enabler.vpcf_c |
-particles/ui/hud/ui_map_mvpace_killed_model_spirit.vpcf_c |
-particles/ui/hud/ui_map_mvpmodel_bodyfx.vpcf_c |
-particles/ui/hud/ui_map_mvp_ace_killed_models_spirit.vpcf_c |
-particles/ui/hud/ui_map_mvp_blast_hegrenade.vpcf_c |
-particles/ui/hud/ui_map_mvp_bombdiffuser.vpcf_c |
-particles/ui/hud/ui_map_mvp_chicken.vpcf_c |
-particles/ui/hud/ui_map_mvp_inferno_modelgathered_blast.vpcf_c |
-particles/ui/hud/ui_map_mvp_model_awp_flare.vpcf_c |
-particles/ui/hud/ui_map_mvp_model_awp_flash.vpcf_c |
-particles/ui/hud/ui_map_mvp_model_awp_long.vpcf_c |
-particles/ui/hud/ui_map_mvp_model_awp_tracer.vpcf_c |
-particles/ui/hud/ui_map_mvp_model_bodyfx.vpcf_c |
-particles/ui/hud/ui_map_mvp_pistol_tracer.vpcf_c |
-particles/ui/hud/ui_map_mvp_pistol_tracera.vpcf_c |
-particles/ui/hud/ui_map_mvp_pistol_tracerb.vpcf_c |
-particles/ui/hud/ui_map_mvp_pistol_tracerc.vpcf_c |
-particles/ui/hud/ui_map_mvp_winner_bg_basic_a.vpcf_c |
-particles/ui/hud/ui_map_mvp_winner_bg_basic_b.vpcf_c |
-particles/ui/hud/ui_map_mvp_winner_bg_basic_c.vpcf_c |
-particles/ui/hud/ui_map_mvp_winner_bg_basic_c_mask.vpcf_c |
-particles/ui/hud/ui_map_mvp_winner_bg_basic_rounds.vpcf_c |
-particles/ui/hud/ui_map_mvp_winner_bg_basic_vestaboard.vpcf_c |
-particles/ui/hud/ui_map_mvp_winner_bg_np.vpcf_c |
-particles/ui/hud/ui_map_mvp_winner_nonpremier.vpcf_c |
-particles/ui/hud/ui_map_mvp_winner_wipe_vertical.vpcf_c |
-particles/ui/hud/ui_map_mvp_winner_wipe_vertical_basic.vpcf_c |
-particles/ui/hud/ui_map_mvp_winner_wipe_vertical_basic_side.vpcf_c |
-particles/ui/hud/ui_multikill_bloodhigh.vpcf_c |
-particles/ui/hud/ui_multikill_bloodhigh_ground_decal.vpcf_c |
-particles/ui/hud/ui_multikill_bloodhigh_ground_decalalt.vpcf_c |
-particles/ui/hud/ui_multikill_bloodhigh_mist_away.vpcf_c |
-particles/ui/hud/ui_multikill_bloodhigh_spray_away.vpcf_c |
-particles/ui/hud/ui_multikill_bloodhigh_vis_spray.vpcf_c |
-particles/ui/hud/ui_multikill_bloodhigh_vis_spray_trail.vpcf_c |
-particles/ui/hud/ui_multikill_bloodmed_ground_decalaltb.vpcf_c |
-particles/ui/hud/ui_mvp_ace_body_swipe.vpcf_c |
-particles/ui/hud/ui_mvp_ace_killed_models.vpcf_c |
-particles/ui/hud/ui_mvp_ace_killed_models_spirit.vpcf_c |
-particles/ui/hud/ui_mvp_ace_killed_model_enabler.vpcf_c |
-particles/ui/hud/ui_mvp_blast_hegrenade.vpcf_c |
-particles/ui/hud/ui_mvp_blood_spray.vpcf_c |
-particles/ui/hud/ui_mvp_blood_spray_mist_away.vpcf_c |
-particles/ui/hud/ui_mvp_blood_spray_spray_screen.vpcf_c |
-particles/ui/hud/ui_mvp_blood_spray_vis_spray_trail.vpcf_c |
-particles/ui/hud/ui_mvp_char_mask_fades.vpcf_c |
-particles/ui/hud/ui_mvp_char_puppet.vpcf_c |
-particles/ui/hud/ui_mvp_chicken.vpcf_c |
-particles/ui/hud/ui_mvp_chicken_calm.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_distort.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_embers.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_heattrails.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_smoketrails.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_smoketrails_child.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_smoketrails_rope.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_smoke_blasts.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_smoke_core.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_smoke_ground.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_sparktrails.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_sparktrails_child.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_sparktrails_sparks.vpcf_c |
-particles/ui/hud/ui_mvp_hexplosion_styl_sparktrails_sparks_dots.vpcf_c |
-particles/ui/hud/ui_mvp_inferno_bodyfire.vpcf_c |
-particles/ui/hud/ui_mvp_inferno_bombdiffuser.vpcf_c |
-particles/ui/hud/ui_mvp_inferno_bombplanter.vpcf_c |
-particles/ui/hud/ui_mvp_inferno_bombplanter_closeup.vpcf_c |
-particles/ui/hud/ui_mvp_inferno_bombplanter_darktest.vpcf_c |
-particles/ui/hud/ui_mvp_inferno_burn.vpcf_c |
-particles/ui/hud/ui_mvp_inferno_modelgathered_blast.vpcf_c |
-particles/ui/hud/ui_mvp_inferno_modelgathered_blast_go.vpcf_c |
-particles/ui/hud/ui_mvp_inferno_model_blast.vpcf_c |
-particles/ui/hud/ui_mvp_map_smoke_lowlying.vpcf_c |
-particles/ui/hud/ui_mvp_map_smoke_lowlying_awp.vpcf_c |
-particles/ui/hud/ui_mvp_map_smoke_lowlying_awp_far.vpcf_c |
-particles/ui/hud/ui_mvp_model_awp_follow.vpcf_c |
-particles/ui/hud/ui_mvp_model_bodyfx.vpcf_c |
-particles/ui/hud/ui_mvp_model_c4_follow.vpcf_c |
-particles/ui/hud/ui_mvp_model_c4_hold.vpcf_c |
-particles/ui/hud/ui_mvp_model_closeup.vpcf_c |
-particles/ui/hud/ui_mvp_model_lighting.vpcf_c |
-particles/ui/hud/ui_mvp_model_lighting_inferno.vpcf_c |
-particles/ui/hud/ui_mvp_model_pistol_follow.vpcf_c |
-particles/ui/hud/ui_mvp_model_pistol_muz3kill.vpcf_c |
-particles/ui/hud/ui_mvp_model_pistol_muz4kill.vpcf_c |
-particles/ui/hud/ui_mvp_mography.vpcf_c |
-particles/ui/hud/ui_mvp_mograph_sporty.vpcf_c |
-particles/ui/hud/ui_mvp_mograph_sporty_hit.vpcf_c |
-particles/ui/hud/ui_mvp_mograph_sporty_mask_bot.vpcf_c |
-particles/ui/hud/ui_mvp_mograph_sporty_mask_top.vpcf_c |
-particles/ui/hud/ui_mvp_motiongraphy.vpcf_c |
-particles/ui/hud/ui_mvp_motiongraphy_diagonal_lines.vpcf_c |
-particles/ui/hud/ui_mvp_motiongraphy_expand.vpcf_c |
-particles/ui/hud/ui_mvp_motiongraphy_horizontal_lines.vpcf_c |
-particles/ui/hud/ui_mvp_motion_transition_right.vpcf_c |
-particles/ui/hud/ui_mvp_multi_killed_models.vpcf_c |
-particles/ui/hud/ui_mvp_multi_killer_model.vpcf_c |
-particles/ui/hud/ui_mvp_muzzleflash.vpcf_c |
-particles/ui/hud/ui_mvp_muzzleflash_flare.vpcf_c |
-particles/ui/hud/ui_mvp_player_model.vpcf_c |
-particles/ui/hud/ui_mvp_recorder_bg.vpcf_c |
-particles/ui/hud/ui_mvp_rescue_ct.vpcf_c |
-particles/ui/hud/ui_mvp_rescue_hostage.vpcf_c |
-particles/ui/hud/ui_mvp_thekilled_models.vpcf_c |
-particles/ui/hud/ui_mvp_winner.vpcf_c |
-particles/ui/hud/ui_mvp_winner_ace.vpcf_c |
-particles/ui/hud/ui_mvp_winner_ace_panel.vpcf_c |
-particles/ui/hud/ui_mvp_winner_alt_a.vpcf_c |
-particles/ui/hud/ui_mvp_winner_alt_b.vpcf_c |
-particles/ui/hud/ui_mvp_winner_alt_c.vpcf_c |
-particles/ui/hud/ui_mvp_winner_blast.vpcf_c |
-particles/ui/hud/ui_mvp_winner_bombdefuse_panel.vpcf_c |
-particles/ui/hud/ui_mvp_winner_bombplant_panel.vpcf_c |
-particles/ui/hud/ui_mvp_winner_burst.vpcf_c |
-particles/ui/hud/ui_mvp_winner_centermask.vpcf_c |
-particles/ui/hud/ui_mvp_winner_expansion.vpcf_c |
-particles/ui/hud/ui_mvp_winner_fire_altb.vpcf_c |
-particles/ui/hud/ui_mvp_winner_flame.vpcf_c |
-particles/ui/hud/ui_mvp_winner_flame_altb.vpcf_c |
-particles/ui/hud/ui_mvp_winner_flareglow.vpcf_c |
-particles/ui/hud/ui_mvp_winner_flareline.vpcf_c |
-particles/ui/hud/ui_mvp_winner_flash.vpcf_c |
-particles/ui/hud/ui_mvp_winner_glow.vpcf_c |
-particles/ui/hud/ui_mvp_winner_inferno.vpcf_c |
-particles/ui/hud/ui_mvp_winner_inferno_bodyimpact_fire.vpcf_c |
-particles/ui/hud/ui_mvp_winner_kills_panel.vpcf_c |
-particles/ui/hud/ui_mvp_winner_mask.vpcf_c |
-particles/ui/hud/ui_mvp_winner_mask_bot.vpcf_c |
-particles/ui/hud/ui_mvp_winner_mask_cent.vpcf_c |
-particles/ui/hud/ui_mvp_winner_multikill.vpcf_c |
-particles/ui/hud/ui_mvp_winner_multikillb.vpcf_c |
-particles/ui/hud/ui_mvp_winner_multikillc.vpcf_c |
-particles/ui/hud/ui_mvp_winner_multikillf.vpcf_c |
-particles/ui/hud/ui_mvp_winner_multikill_neutral.vpcf_c |
-particles/ui/hud/ui_mvp_winner_rescue_panel.vpcf_c |
-particles/ui/hud/ui_mvp_winner_rescue_scrolltexture.vpcf_c |
-particles/ui/hud/ui_mvp_winner_sigil.vpcf_c |
-particles/ui/hud/ui_mvp_winner_splash.vpcf_c |
-particles/ui/hud/ui_mvp_winner_splash_alt_b.vpcf_c |
-particles/ui/hud/ui_mvp_winner_splash_alt_c.vpcf_c |
-particles/ui/hud/ui_mvp_winner_stars.vpcf_c |
-particles/ui/hud/ui_mvp_winner_wipe_vertical.vpcf_c |
-particles/ui/hud/ui_mvp_winner_wipe_vertical_fg.vpcf_c |
-particles/ui/hud/ui_mvp_winner_wipe_vertical_texture.vpcf_c |
-particles/ui/hud/ui_mvp_winner_wipe_vertical_wmotion.vpcf_c |
-particles/ui/hud/ui_mvp_wipe.vpcf_c |
-particles/ui/hud/ui_mvp_wipe_alt_b.vpcf_c |
-particles/ui/hud/ui_mvp_wipe_center_expand.vpcf_c |
-particles/ui/hud/ui_mvp_wipe_digital.vpcf_c |
-particles/ui/hud/ui_mvp_wipe_digital_alt_b.vpcf_c |
-particles/ui/hud/ui_mvp_wipe_mg_transition.vpcf_c |
-particles/ui/hud/ui_simple_motion.vpcf_c |
-particles/ui/hud/ui_split_flap.vsnap_c |
-particles/ui/hud/ui_transitions_tests.vpcf_c |
-particles/ui/hud/ui_transitions_tests_ct.vpcf_c |
-particles/ui/hud/ui_transitions_tests_flared.vpcf_c |
-particles/ui/hud/ui_transitions_tests_lin_a.vpcf_c |
-particles/ui/annotation/ui_annotation_aim.vpcf_c |
-particles/ui/annotation/ui_annotation_aim_echo.vpcf_c |
-particles/ui/annotation/ui_annotation_aim_pointer.vpcf_c |
-particles/ui/annotation/ui_annotation_grenade_destination.vpcf_c |
-particles/ui/annotation/ui_annotation_ground.vpcf_c |
-particles/ui/annotation/ui_annotation_ground_circles.vpcf_c |
-particles/ui/annotation/ui_annotation_ground_direction.vpcf_c |
-particles/ui/annotation/ui_annotation_line_preview.vpcf_c |
-particles/ui/annotation/ui_annotation_line_segment.vpcf_c |
-particles/ui/annotation/ui_annotation_line_segment_arrow.vpcf_c |
-particles/ui/annotation/ui_annotation_spotlight.vpcf_c |
-particles/ui/annotation/ui_annotation_stand_here.vpcf_c |
-particles/ui/annotation/ui_annotation_stand_here_circles.vpcf_c |
-particles/ui/annotation/ui_annotation_stand_here_direction.vpcf_c |
-particles/ui/ammohealthcenter/center.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_blast_radial.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_blast_rays.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_burn_fire.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_burn_ringfire.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_electrocal_electricshock.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_electrocal_innerpoint.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_electrocal_outer.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_elec_bolt.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_elec_innerpoint.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_elec_outer.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_sc_blast.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_sc_burn.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_sc_shock.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_1.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_2.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_3.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_4.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_5.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_base.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_cards_mask.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_circle.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_circleglow.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_circlemsk.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_circle_flash.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_glow.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_glow_5.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_killid.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_lineglow.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_lineglow_lvl3.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_lineglow_lvl5.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_lineglow_lvl_many.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_many.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_many_fast.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_motion.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_radiate.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_1.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_2.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_3.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_4.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_5.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_many.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_splash.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_splash_cubes.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_splash_cubes_lvl5.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_splash_many.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_steamy.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_kill_streaks_steamy_2.vpcf_c |
-particles/ui/ammohealthcenter/ui_hud_template.vpcf_c |
-particles/survival_fx/danger_in_zone.vpcf_c |
-particles/survival_fx/danger_trail_spores.vpcf_c |
-particles/survival_fx/danger_trail_spores_child.vpcf_c |
-particles/survival_fx/danger_trail_spores_child_world.vpcf_c |
-particles/survival_fx/danger_trail_spores_world.vpcf_c |
-particles/survival_fx/danger_zone_decay.vpcf_c |
-particles/survival_fx/danger_zone_loop.vpcf_c |
-particles/survival_fx/danger_zone_loop_black.vpcf_c |
-particles/survival_fx/danger_zone_screen_eyeball.vpcf_c |
-particles/survival_fx/danger_zone_screen_eyeball2.vpcf_c |
-particles/survival_fx/danger_zone_screen_eyeballxx.vpcf_c |
-particles/survival_fx/gas_canister_idle.vpcf_c |
-particles/survival_fx/gas_cannister_idle_ring.vpcf_c |
-particles/survival_fx/gas_cannister_idle_ring_child.vpcf_c |
-particles/survival_fx/gas_cannister_impact.vpcf_c |
-particles/survival_fx/gas_cannister_impact_child_explosion.vpcf_c |
-particles/survival_fx/gas_cannister_impact_child_explosion_sphere.vpcf_c |
-particles/survival_fx/gas_cannister_impact_child_firesmoke.vpcf_c |
-particles/survival_fx/gas_cannister_impact_child_flash.vpcf_c |
-particles/survival_fx/gas_cannister_impact_child_shrapnel.vpcf_c |
-particles/survival_fx/gas_cannister_impact_child_shrapnel_multi.vpcf_c |
-particles/survival_fx/gas_cannister_impact_child_shrapnel_single.vpcf_c |
-particles/survival_fx/gas_cannister_impact_child_sparks2.vpcf_c |
-particles/survival_fx/gas_cannister_impact_shrapnel_cap.vpcf_c |
-particles/survival_fx/gas_cannister_impact_shrapnel_smoke_child.vpcf_c |
-particles/survival_fx/gas_cannister_impact_shrapnel_smoke_child_copy.vpcf_c |
-particles/survival_fx/gas_cannister_impact_smokestreak_child.vpcf_c |
-particles/survival_fx/gas_cannister_impact_smokestreak_child_crazy.vpcf_c |
-particles/survival_fx/gas_cannister_impact_smokestreak_parent.vpcf_c |
-particles/screen_fx/ar_screenglow_ct.vpcf_c |
-particles/screen_fx/ar_screenglow_leader.vpcf_c |
-particles/screen_fx/ar_screenglow_leader_red.vpcf_c |
-particles/screen_fx/ar_screenglow_loop_ct.vpcf_c |
-particles/screen_fx/ar_screenglow_loop_leader.vpcf_c |
-particles/screen_fx/ar_screenglow_loop_leader_red.vpcf_c |
-particles/screen_fx/ar_screenglow_loop_t.vpcf_c |
-particles/screen_fx/ar_screenglow_t.vpcf_c |
-particles/screen_fx/ghost_screenglow.vpcf_c |
-particles/screen_fx/ghost_screenglow_loop.vpcf_c |
-particles/screen_fx/ghost_screenglow_warp_loop.vpcf_c |
-particles/rain_fx/ash.vpcf_c |
-particles/rain_fx/ash_burning.vpcf_c |
-particles/rain_fx/ash_burning_fire.vpcf_c |
-particles/rain_fx/ash_eddy.vpcf_c |
-particles/rain_fx/ash_eddy_b.vpcf_c |
-particles/rain_fx/ash_outer.vpcf_c |
-particles/rain_fx/rain.vpcf_c |
-particles/rain_fx/rain_edge.vpcf_c |
-particles/rain_fx/rain_edge_ground.vpcf_c |
-particles/rain_fx/rain_edge_sparse.vpcf_c |
-particles/rain_fx/rain_edge_sparse_ground.vpcf_c |
-particles/rain_fx/rain_edge_sparse_longdrop.vpcf_c |
-particles/rain_fx/rain_impact_03.vpcf_c |
-particles/rain_fx/rain_impact_04.vpcf_c |
-particles/rain_fx/rain_impact_single.vpcf_c |
-particles/rain_fx/rain_lamp_circle_drip.vpcf_c |
-particles/rain_fx/rain_medium_area_ground.vpcf_c |
-particles/rain_fx/rain_mist.vpcf_c |
-particles/rain_fx/rain_mist_02.vpcf_c |
-particles/rain_fx/rain_outer.vpcf_c |
-particles/rain_fx/rain_outer_backup.vpcf_c |
-particles/rain_fx/rain_outer_mist.vpcf_c |
-particles/rain_fx/rain_puddle_ripples.vpcf_c |
-particles/rain_fx/rain_puddle_ripples_large.vpcf_c |
-particles/rain_fx/rain_puddle_ripples_small.vpcf_c |
-particles/rain_fx/rain_sheet.vpcf_c |
-particles/rain_fx/rain_sheet_mist.vpcf_c |
-particles/rain_fx/rain_single_128.vpcf_c |
-particles/rain_fx/rain_single_800.vpcf_c |
-particles/rain_fx/rain_single_800_child.vpcf_c |
-particles/rain_fx/rain_single_800_xx.vpcf_c |
-particles/rain_fx/rain_single_drip.vpcf_c |
-particles/rain_fx/rain_single_drip_ground.vpcf_c |
-particles/rain_fx/rain_single_drip_test.vpcf_c |
-particles/rain_fx/rain_single_impact_04.vpcf_c |
-particles/rain_fx/rain_single_impact_04b.vpcf_c |
-particles/rain_fx/rain_small_area_ground.vpcf_c |
-particles/rain_fx/rain_small_edge.vpcf_c |
-particles/rain_fx/rain_spot.vpcf_c |
-particles/rain_fx/rain_storm.vpcf_c |
-particles/rain_fx/rain_storm_impact_04.vpcf_c |
-particles/rain_fx/rain_storm_impact_04b.vpcf_c |
-particles/rain_fx/rain_storm_leaves.vpcf_c |
-particles/rain_fx/rain_storm_outer.vpcf_c |
-particles/rain_fx/rain_storm_screen.vpcf_c |
-particles/rain_fx/rain_stream_01_impact.vpcf_c |
-particles/rain_fx/rain_stream_01_impact_2.vpcf_c |
-particles/rain_fx/rain_stream_01_impact_3.vpcf_c |
-particles/rain_fx/rain_stream_04_impact_1.vpcf_c |
-particles/rain_fx/rain_stream_04_impact_2.vpcf_c |
-particles/rain_fx/rain_volume.vpcf_c |
-particles/rain_fx/rain_volume_vanity.vpcf_c |
-particles/rain_fx/snow.vpcf_c |
-particles/rain_fx/snow_drift.vpcf_c |
-particles/rain_fx/snow_outer.vpcf_c |
-particles/rain_fx/storm_cloud_lightning.vpcf_c |
-particles/rain_fx/storm_cloud_parent.vpcf_c |
-particles/rain_fx/storm_lightning_01_branch_01.vpcf_c |
-particles/rain_fx/storm_lightning_01_branch_02.vpcf_c |
-particles/rain_fx/storm_lightning_01_branch_03.vpcf_c |
-particles/rain_fx/storm_lightning_01_branch_parent_01.vpcf_c |
-particles/rain_fx/storm_lightning_01_branch_parent_02.vpcf_c |
-particles/rain_fx/storm_lightning_01_branch_parent_03.vpcf_c |
-particles/rain_fx/storm_lightning_01_cloud.vpcf_c |
-particles/rain_fx/storm_lightning_01_glow.vpcf_c |
-particles/rain_fx/storm_lightning_01_modglow.vpcf_c |
-particles/rain_fx/storm_lightning_01_thin.vpcf_c |
-particles/overhead_icon_fx/player_ping.vpcf_c |
-particles/overhead_icon_fx/player_ping_flash.vpcf_c |
-particles/overhead_icon_fx/player_ping_flash_copy.vpcf_c |
-particles/overhead_icon_fx/player_ping_flash_outline.vpcf_c |
-particles/overhead_icon_fx/player_ping_ground_rings.vpcf_c |
-particles/overhead_icon_fx/player_ping_top_rings.vpcf_c |
-particles/overhead_icon_fx/player_ping_top_rings2.vpcf_c |
-particles/overhead_icon_fx/radio_voice.vpcf_c |
-particles/overhead_icon_fx/radio_voice_flash.vpcf_c |
-particles/overhead_icon_fx/speech_voice.vpcf_c |
-particles/overhead_icon_fx/speech_voice_bubble.vpcf_c |
-particles/money_fx/moneybag_trail.vpcf_c |
-particles/money_fx/moneybag_trail_bag.vpcf_c |
-particles/money_fx/moneycrate_burst.vpcf_c |
-particles/money_fx/moneycrate_burst_confetti.vpcf_c |
-particles/money_fx/moneycrate_burst_money.vpcf_c |
-particles/money_fx/moneycrate_impact_burst.vpcf_c |
-particles/money_fx/money_burst_confetti_single.vpcf_c |
-particles/money_fx/money_burst_money_single.vpcf_c |
-particles/money_fx/money_burst_single.vpcf_c |
-particles/models/generic/winebottle_kit_01/wine_bottle_02_c_breakable/break_particles1.vsnap_c |
-particles/models/generic/winebottle_kit_01/wine_bottle_02_b_breakable/break_particles1.vsnap_c |
-particles/models/generic/winebottle_kit_01/wine_bottle_02_a_breakable/break_particles1.vsnap_c |
-particles/models/generic/winebottle_kit_01/wine_bottle_01_a_breakable/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_9/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_7/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_2/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_18/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_17/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_14/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_13/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/piece_8/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/piece_20/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_8/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_7/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_6/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_21/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_20/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_19/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_16/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_15/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_12/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_11/break_particles1.vsnap_c |
-particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_01/break_particles1.vsnap_c |
-particles/models/generic/bust_02/bust_02_a/piece_5/break_particles1.vsnap_c |
-particles/models/generic/bust_02/bust_02_a/piece_4/break_particles1.vsnap_c |
-particles/models/generic/bust_02/bust_02_a/piece_01/break_particles1.vsnap_c |
-particles/models/generic/bust_01/bust_01_a/piece_8/break_particles1.vsnap_c |
-particles/models/generic/bust_01/bust_01_a/piece_7/break_particles1.vsnap_c |
-particles/models/generic/bust_01/bust_01_a/piece_6/break_particles1.vsnap_c |
-particles/models/generic/bust_01/bust_01_a/piece_5/break_particles1.vsnap_c |
-particles/models/generic/bust_01/bust_01_a/piece_01/break_particles1.vsnap_c |
-particles/maps/gg_vietnam/vietnam_fog_ground.vpcf_c |
-particles/maps/gg_vietnam/vietnam_fog_volume_1024.vpcf_c |
-particles/maps/gg_vietnam/vietnam_fog_volume_1024_512.vpcf_c |
-particles/maps/gg_vietnam/vietnam_fog_volume_1800_1024.vpcf_c |
-particles/maps/gg_vietnam/vietnam_fog_volume_512.vpcf_c |
-particles/maps/gg_vietnam/vietnam_fog_volume_512_1024.vpcf_c |
-particles/maps/gg_vietnam/vietnam_fog_volume_60.vpcf_c |
-particles/maps/gg_baggage/baggage_leakypipe.vpcf_c |
-particles/maps/gg_baggage/baggage_leak_drip.vpcf_c |
-particles/maps/gg_baggage/baggage_leak_drip_child.vpcf_c |
-particles/maps/gg_baggage/baggage_leak_splash.vpcf_c |
-particles/maps/gg_baggage/baggage_leak_splash_child.vpcf_c |
-particles/maps/gg_baggage/baggage_sparks1.vpcf_c |
-particles/maps/gg_baggage/baggage_sparks1_backup.vpcf_c |
-particles/maps/gg_baggage/baggage_sparks1_core.vpcf_c |
-particles/maps/gg_baggage/baggage_sparks1_glow.vpcf_c |
-particles/maps/gg_baggage/baggage_steam_child_base.vpcf_c |
-particles/maps/gg_baggage/baggage_steam_child_droplets.vpcf_c |
-particles/maps/gg_baggage/baggage_steam_short.vpcf_c |
-particles/maps/gg_baggage/baggage_steam_short_child_cloud.vpcf_c |
-particles/maps/gg_baggage/baggage_steam_short_child_mist.vpcf_c |
-particles/maps/gg_baggage/baggage_steam_vent_e.vpcf_c |
-particles/maps/gg_baggage/baggage_steam_vent_e_detail.vpcf_c |
-particles/maps/gg_baggage/baggage_steam_vent_e_interior.vpcf_c |
-particles/maps/gg_baggage/baggage_steam_volume_e.vpcf_c |
-particles/maps/gg_baggage/baggage_steam_volume_e_bottom.vpcf_c |
-particles/maps/gg_baggage/baggage_steam_volume_e_front.vpcf_c |
-particles/maps/generic/smoke_vertical_large.vpcf_c |
-particles/maps/generic/steam_fire_test.vpcf_c |
-particles/maps/generic/steam_motion_test.vpcf_c |
-particles/maps/generic/steam_vertical_large.vpcf_c |
-particles/maps/generic/steam_vertical_large_mainbody.vpcf_c |
-particles/maps/generic/steam_vertical_path.vpcf_c |
-particles/maps/generic/steam_vertical_path_glow.vpcf_c |
-particles/maps/generic/steam_vertical_path_mainbody.vpcf_c |
-particles/maps/generic/steam_vertical_small.vpcf_c |
-particles/maps/generic/steam_vertical_small_mainbody.vpcf_c |
-particles/maps/de_train/train_steam_leak.vpcf_c |
-particles/maps/de_train/train_steam_leak_child_base.vpcf_c |
-particles/maps/de_train/train_steam_leak_child_cloud.vpcf_c |
-particles/maps/de_train/train_steam_leak_child_droplets.vpcf_c |
-particles/maps/de_train/train_steam_leak_child_mist.vpcf_c |
-particles/maps/de_train/train_steam_rising.vpcf_c |
-particles/maps/de_train/train_steam_rising_noise.vpcf_c |
-particles/maps/de_train/tv_impact_burst.vpcf_c |
-particles/maps/de_train/tv_monitor_impact.vpcf_c |
-particles/maps/de_shacks/shacks_exhaust.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_blue.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_blue_core.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_blue_fallback.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_blue_strobe.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_blue_strobe_round.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_core_white.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_red.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_red_core.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_red_strobe.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_red_strobe_round.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_white_strobe.vpcf_c |
-particles/maps/de_shacks/shacks_policelight_white_strobe_backup.vpcf_c |
-particles/maps/de_shacks/shacks_steam_child_base.vpcf_c |
-particles/maps/de_shacks/shacks_steam_child_droplets.vpcf_c |
-particles/maps/de_shacks/shacks_steam_short.vpcf_c |
-particles/maps/de_shacks/shacks_steam_short_child_cloud.vpcf_c |
-particles/maps/de_shacks/shacks_steam_short_child_mist.vpcf_c |
-particles/maps/de_shacks/shacks_steam_short_fallback.vpcf_c |
-particles/maps/de_shacks/shacks_steam_short_fallback2.vpcf_c |
-particles/maps/de_shacks/steam_short.vpcf_c |
-particles/maps/de_piranesi/piranesi_leave_blow_horizontal.vpcf_c |
-particles/maps/de_overpass/balloon_impact.vpcf_c |
-particles/maps/de_overpass/balloon_impact_cofetti.vpcf_c |
-particles/maps/de_overpass/bunker_steam_vertical_path.vpcf_c |
-particles/maps/de_overpass/bunker_steam_vertical_path_glow.vpcf_c |
-particles/maps/de_overpass/bunker_steam_vertical_path_mainbody.vpcf_c |
-particles/maps/de_overpass/chicken_impact_burst2.vpcf_c |
-particles/maps/de_overpass/explosion_child_clumps02a.vpcf_c |
-particles/maps/de_overpass/overpass_clouds.vpcf_c |
-particles/maps/de_overpass/overpass_clouds_2.vpcf_c |
-particles/maps/de_overpass/overpass_clouds_3.vpcf_c |
-particles/maps/de_overpass/overpass_glow01.vpcf_c |
-particles/maps/de_overpass/overpass_steam_child_base.vpcf_c |
-particles/maps/de_overpass/overpass_steam_child_droplets.vpcf_c |
-particles/maps/de_overpass/overpass_steam_rising_noise.vpcf_c |
-particles/maps/de_overpass/overpass_steam_short.vpcf_c |
-particles/maps/de_overpass/overpass_steam_short_child_cloud.vpcf_c |
-particles/maps/de_overpass/overpass_steam_vertical_large.vpcf_c |
-particles/maps/de_overpass/overpass_steam_vertical_large_mainbody.vpcf_c |
-particles/maps/de_overpass/overpass_steam_vertical_small.vpcf_c |
-particles/maps/de_overpass/overpass_steam_vertical_small_mainbody.vpcf_c |
-particles/maps/de_overpass/overpass_vanity_steam_1.vpcf_c |
-particles/maps/de_overpass/path_particle_cable_dynamic.vpcf_c |
-particles/maps/de_overpass/sewer_steam_1.vpcf_c |
-particles/maps/de_overpass/train_dust.vpcf_c |
-particles/maps/de_overpass/train_paper_debris.vpcf_c |
-particles/maps/de_nuke/nuke_dust_volume_1200_700.vpcf_c |
-particles/maps/de_nuke/nuke_dust_volume_1200_700_low.vpcf_c |
-particles/maps/de_nuke/nuke_dust_volume_600_150.vpcf_c |
-particles/maps/de_nuke/nuke_dust_volume_600_150_low.vpcf_c |
-particles/maps/de_nuke/nuke_exhaust_ct.vpcf_c |
-particles/maps/de_nuke/nuke_exhaust_t.vpcf_c |
-particles/maps/de_nuke/nuke_sparks.vpcf_c |
-particles/maps/de_nuke/nuke_sparks1_core.vpcf_c |
-particles/maps/de_nuke/nuke_sparks1_glow.vpcf_c |
-particles/maps/de_nuke/nuke_sparks_backup.vpcf_c |
-particles/maps/de_nuke/nuke_steam_rising.vpcf_c |
-particles/maps/de_nuke/nuke_steam_rising_high.vpcf_c |
-particles/maps/de_nuke/nuke_steam_rising_noise.vpcf_c |
-particles/maps/de_mill/mill_dust_volume_700_200.vpcf_c |
-particles/maps/de_mill/mill_dust_volume_700_200_low.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_bot_rings.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_bot_ringsplashes.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_low_rings.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_low_ringsplashes.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_master.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_med_rings.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_med_ringsplashes.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_top_rings.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_top_ringsplashes.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_top_spout.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_top_spout_random.vpcf_c |
-particles/maps/de_inferno/inferno_fountain_top_spout_random2.vpcf_c |
-particles/maps/de_inferno/inferno_paper_burst.vpcf_c |
-particles/maps/de_house/house_chimney.vpcf_c |
-particles/maps/de_house/house_exhaust_ct.vpcf_c |
-particles/maps/de_house/house_exhaust_t.vpcf_c |
-particles/maps/de_house/house_fireplace.vpcf_c |
-particles/maps/de_house/house_fireplace_child.vpcf_c |
-particles/maps/de_dust/dust_burning_engine.vpcf_c |
-particles/maps/de_dust/dust_burning_engine_fallback.vpcf_c |
-particles/maps/de_dust/dust_burning_engine_fire.vpcf_c |
-particles/maps/de_dust/dust_burning_engine_fire_glow.vpcf_c |
-particles/maps/de_dust/dust_burning_engine_smoke.vpcf_c |
-particles/maps/de_dust/dust_burning_engine_smoke_fallback.vpcf_c |
-particles/maps/de_dust/dust_copter_takeoff.vpcf_c |
-particles/maps/de_dust/dust_copter_takeoff_billow.vpcf_c |
-particles/maps/de_dust/dust_copter_takeoff_dust_high.vpcf_c |
-particles/maps/de_dust/dust_copter_takeoff_dust_linger.vpcf_c |
-particles/maps/de_dust/dust_copter_takeoff_dust_low.vpcf_c |
-particles/maps/de_dust/dust_copter_takeoff_papers.vpcf_c |
-particles/maps/de_dust/dust_copter_takeoff_screen.vpcf_c |
-particles/maps/de_dust/dust_devil.vpcf_c |
-particles/maps/de_dust/dust_devil_leaves.vpcf_c |
-particles/maps/de_dust/dust_devil_paper.vpcf_c |
-particles/maps/de_dust/dust_devil_points.vpcf_c |
-particles/maps/de_dust/dust_devil_smoke.vpcf_c |
-particles/maps/de_dust/dust_devil_smoke_slow.vpcf_c |
-particles/maps/de_dust/dust_devil_swirls.vpcf_c |
-particles/maps/de_dust/dust_drift.vpcf_c |
-particles/maps/de_dust/dust_drift_paper.vpcf_c |
-particles/maps/de_dust/dust_drift_paper_reverse.vpcf_c |
-particles/maps/de_dust/dust_drift_reverse.vpcf_c |
-particles/maps/de_dust/dust_drift_smoke.vpcf_c |
-particles/maps/de_dust/dust_drift_smoke_reverse.vpcf_c |
-particles/maps/de_dust/dust_embers.vpcf_c |
-particles/maps/de_dust/dust_embers_heavy.vpcf_c |
-particles/maps/de_dust/dust_fog_volume_128_128.vpcf_c |
-particles/maps/de_dust/dust_fog_volume_128_128_noise.vpcf_c |
-particles/maps/de_dust/dust_fog_volume_initial.vpcf_c |
-particles/maps/de_dust/dust_jet_roof_dust_l.vpcf_c |
-particles/maps/de_dust/dust_jet_roof_dust_parent.vpcf_c |
-particles/maps/de_dust/dust_jet_roof_dust_r.vpcf_c |
-particles/maps/de_dust/dust_jet_rumble_clumps.vpcf_c |
-particles/maps/de_dust/dust_jet_rumble_debris1.vpcf_c |
-particles/maps/de_dust/dust_jet_rumble_dust.vpcf_c |
-particles/maps/de_dust/dust_paper_blow_horizontal.vpcf_c |
-particles/maps/de_dust/dust_paper_blow_horizontal_east.vpcf_c |
-particles/maps/de_dust/dust_paper_blow_horizontal_west.vpcf_c |
-particles/maps/de_dust/dust_screen_fog_heavy.vpcf_c |
-particles/maps/de_bank/bank_exhaust.vpcf_c |
-particles/maps/de_bank/bank_steam.vpcf_c |
-particles/maps/de_bank/bank_steam_large.vpcf_c |
-particles/maps/de_bank/bank_steam_large_noise.vpcf_c |
-particles/maps/de_bank/bank_steam_noise.vpcf_c |
-particles/maps/de_aztec/aztec_copter_takeoff.vpcf_c |
-particles/maps/de_aztec/aztec_copter_takeoff_dust_high.vpcf_c |
-particles/maps/de_aztec/aztec_copter_takeoff_dust_low.vpcf_c |
-particles/maps/de_aztec/aztec_copter_takeoff_grass.vpcf_c |
-particles/maps/de_aztec/aztec_copter_takeoff_leaves.vpcf_c |
-particles/maps/de_aztec/aztec_copter_takeoff_screen.vpcf_c |
-particles/maps/de_aztec/aztec_fog_hallway.vpcf_c |
-particles/maps/de_aztec/aztec_fog_hallway_midair_noise.vpcf_c |
-particles/maps/de_aztec/aztec_fog_low.vpcf_c |
-particles/maps/de_aztec/aztec_fog_volume_128_128.vpcf_c |
-particles/maps/de_aztec/aztec_fog_volume_128_128_noise.vpcf_c |
-particles/maps/de_aztec/aztec_fog_volume_bottom.vpcf_c |
-particles/maps/de_aztec/aztec_fog_volume_bottom_noise.vpcf_c |
-particles/maps/de_aztec/aztec_fog_volume_initial.vpcf_c |
-particles/maps/cs_office/office_child_embers01a.vpcf_c |
-particles/maps/cs_office/office_child_flame01b.vpcf_c |
-particles/maps/cs_office/office_child_flame02b.vpcf_c |
-particles/maps/cs_office/office_child_flame03b.vpcf_c |
-particles/maps/cs_office/office_child_glow01b.vpcf_c |
-particles/maps/cs_office/office_child_glow02b.vpcf_c |
-particles/maps/cs_office/office_child_glow03a.vpcf_c |
-particles/maps/cs_office/office_child_glow03a_backup.vpcf_c |
-particles/maps/cs_office/office_child_glow04a.vpcf_c |
-particles/maps/cs_office/office_fire.vpcf_c |
-particles/maps/cs_office/office_leak_drip.vpcf_c |
-particles/maps/cs_office/office_leak_splash.vpcf_c |
-particles/maps/cs_office/office_leak_splash_child.vpcf_c |
-particles/maps/cs_office/office_leak_steam.vpcf_c |
-particles/maps/cs_office/office_leak_steam_child_base.vpcf_c |
-particles/maps/cs_office/office_leak_steam_child_cloud.vpcf_c |
-particles/maps/cs_office/office_leak_steam_child_droplets.vpcf_c |
-particles/maps/cs_office/office_leak_steam_child_mist.vpcf_c |
-particles/maps/cs_office/office_smoke.vpcf_c |
-particles/maps/cs_italy/italy_leaf_blow_horizontal.vpcf_c |
-particles/maps/cs_italy/italy_leaf_blow_horizontal_east.vpcf_c |
-particles/maps/cs_italy/italy_leaf_blow_horizontal_west.vpcf_c |
-particles/maps/cs_italy/italy_leaf_blow_vertical.vpcf_c |
-particles/maps/cs_italy/italy_paper_blow_horizontal.vpcf_c |
-particles/maps/cs_italy/italy_paper_blow_horizontal_east.vpcf_c |
-particles/maps/cs_italy/italy_paper_blow_horizontal_west.vpcf_c |
-particles/maps/cs_italy/italy_smokestack.vpcf_c |
-particles/maps/cs_italy/italy_smokestack_backup.vpcf_c |
-particles/maps/cs_italy/italy_smokestack_softeners.vpcf_c |
-particles/maps/cs_italy/italy_smokestack_start.vpcf_c |
-particles/maps/ar_monastery/monastery_candle_flame.vpcf_c |
-particles/maps/ar_monastery/monastery_candle_smoke_long.vpcf_c |
-particles/lighting/light_gaslamp_glow.vpcf_c |
-particles/items/ui/mvp/testpack/mvp_casual_splitflap.vpcf_c |
-particles/items/ui/mvp/testpack/mvp_casual_splitflap_mask.vpcf_c |
-particles/items/ui/mvp/testpack/ui_split_flap.vsnap_c |
-particles/items/keychains/kc_missinglink_body.vsnap_c |
-particles/items/keychains/missinglink_ambient_fire_test.vpcf_c |
-particles/items/keychains/missinglink_ambient_test.vpcf_c |
-particles/inventory_items/crate_emission_smoke.vpcf_c |
-particles/inventory_items/crate_impact_smoke.vpcf_c |
-particles/inventory_items/crate_outward_groundsmoke.vpcf_c |
-particles/inferno_fx/burning_char_prev.vpcf_c |
-particles/inferno_fx/burning_test.vpcf_c |
-particles/inferno_fx/explosion_incend_air.vpcf_c |
-particles/inferno_fx/explosion_incend_air_core.vpcf_c |
-particles/inferno_fx/explosion_incend_air_debris.vpcf_c |
-particles/inferno_fx/explosion_incend_air_down.vpcf_c |
-particles/inferno_fx/explosion_incend_air_falling.vpcf_c |
-particles/inferno_fx/explosion_incend_air_fallingfire.vpcf_c |
-particles/inferno_fx/explosion_incend_air_smoke.vpcf_c |
-particles/inferno_fx/explosion_incend_air_splash01a.vpcf_c |
-particles/inferno_fx/explosion_incend_air_splash07a.vpcf_c |
-particles/inferno_fx/explosion_incen_ground_splash07a.vpcf_c |
-particles/inferno_fx/explosion_molotov_air.vpcf_c |
-particles/inferno_fx/explosion_molotov_air_core.vpcf_c |
-particles/inferno_fx/explosion_molotov_air_debris.vpcf_c |
-particles/inferno_fx/explosion_molotov_air_down.vpcf_c |
-particles/inferno_fx/explosion_molotov_air_falling.vpcf_c |
-particles/inferno_fx/explosion_molotov_air_smoke.vpcf_c |
-particles/inferno_fx/explosion_molotov_air_splash01a.vpcf_c |
-particles/inferno_fx/explosion_molotov_air_splash07a.vpcf_c |
-particles/inferno_fx/explosion_molotov_fallingfire.vpcf_c |
-particles/inferno_fx/explosion_molotov_ground_debris.vpcf_c |
-particles/inferno_fx/explosion_molotov_ground_splash07a.vpcf_c |
-particles/inferno_fx/extinguish_embers_small_01.vpcf_c |
-particles/inferno_fx/extinguish_embers_small_02.vpcf_c |
-particles/inferno_fx/extinguish_fire.vpcf_c |
-particles/inferno_fx/extinguish_fire_swirl.vpcf_c |
-particles/inferno_fx/extinguish_fire_swirl_smoke.vpcf_c |
-particles/inferno_fx/extinsguish_fire_blastout_01.vpcf_c |
-particles/inferno_fx/fireworks_explosion_glow_03.vpcf_c |
-particles/inferno_fx/fireworks_explosion_trail_04.vpcf_c |
-particles/inferno_fx/fireworks_explosion_trail_04b.vpcf_c |
-particles/inferno_fx/firework_crate_explosion_01.vpcf_c |
-particles/inferno_fx/firework_crate_explosion_02.vpcf_c |
-particles/inferno_fx/firework_crate_ground_effect.vpcf_c |
-particles/inferno_fx/firework_crate_ground_effect_fallback1.vpcf_c |
-particles/inferno_fx/firework_crate_ground_effect_fallback2.vpcf_c |
-particles/inferno_fx/firework_crate_ground_embers_01.vpcf_c |
-particles/inferno_fx/firework_crate_ground_glow_01.vpcf_c |
-particles/inferno_fx/firework_crate_ground_glow_02.vpcf_c |
-particles/inferno_fx/firework_crate_ground_low_02.vpcf_c |
-particles/inferno_fx/firework_crate_ground_low_02_fallback.vpcf_c |
-particles/inferno_fx/firework_crate_ground_low_03.vpcf_c |
-particles/inferno_fx/firework_crate_ground_low_04.vpcf_c |
-particles/inferno_fx/firework_crate_ground_primary_01.vpcf_c |
-particles/inferno_fx/firework_crate_ground_primary_01_fallback.vpcf_c |
-particles/inferno_fx/firework_crate_ground_smoke_01.vpcf_c |
-particles/inferno_fx/firework_crate_ground_sparks_01.vpcf_c |
-particles/inferno_fx/firework_crate_shower_01b.vpcf_c |
-particles/inferno_fx/fire_core.vsnap_c |
-particles/inferno_fx/fire_edge.vsnap_c |
-particles/inferno_fx/fire_filler.vsnap_c |
-particles/inferno_fx/incendiary_child_flame01a.vpcf_c |
-particles/inferno_fx/incendiary_child_flame03a.vpcf_c |
-particles/inferno_fx/incendiary_explosion.vpcf_c |
-particles/inferno_fx/incendiary_fire01.vpcf_c |
-particles/inferno_fx/incendiary_groundfire.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_climbingoutline.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_climbingset.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_filler_napalm.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_filler_replicator.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_fillsparks.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_fillsparks_low.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_filltest.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_lighting.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_main_center.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_main_fancy.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_outline.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_outlineset.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_projected.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_snapshot_child_base.vpcf_c |
-particles/inferno_fx/incendiary_groundfire_snapshot_water_silt.vpcf_c |
-particles/inferno_fx/incend_explosion_child_sprays.vpcf_c |
-particles/inferno_fx/incen_explosion_child_sprays.vpcf_c |
-particles/inferno_fx/incgrenade_thrown_trail.vpcf_c |
-particles/inferno_fx/incgrenade_thrown_trail_glow.vpcf_c |
-particles/inferno_fx/molotov_bodyburn.vpcf_c |
-particles/inferno_fx/molotov_bodyburn_footprint.vpcf_c |
-particles/inferno_fx/molotov_bodyburn_smoke.vpcf_c |
-particles/inferno_fx/molotov_center_smoking_ground.vpcf_c |
-particles/inferno_fx/molotov_child_flame01a.vpcf_c |
-particles/inferno_fx/molotov_child_flame01b.vpcf_c |
-particles/inferno_fx/molotov_child_flame01c.vpcf_c |
-particles/inferno_fx/molotov_child_flame02a.vpcf_c |
-particles/inferno_fx/molotov_child_flame02b.vpcf_c |
-particles/inferno_fx/molotov_child_flame02c.vpcf_c |
-particles/inferno_fx/molotov_child_flame03a.vpcf_c |
-particles/inferno_fx/molotov_child_flame03b.vpcf_c |
-particles/inferno_fx/molotov_child_flame03c.vpcf_c |
-particles/inferno_fx/molotov_child_flame04a.vpcf_c |
-particles/inferno_fx/molotov_child_flame04c.vpcf_c |
-particles/inferno_fx/molotov_child_flame05a.vpcf_c |
-particles/inferno_fx/molotov_child_glow01a.vpcf_c |
-particles/inferno_fx/molotov_child_glow01b.vpcf_c |
-particles/inferno_fx/molotov_child_glow02a.vpcf_c |
-particles/inferno_fx/molotov_child_glow02b.vpcf_c |
-particles/inferno_fx/molotov_child_glow03.vpcf_c |
-particles/inferno_fx/molotov_explosion.vpcf_c |
-particles/inferno_fx/molotov_explosion_child_fireball1.vpcf_c |
-particles/inferno_fx/molotov_explosion_child_fireball2.vpcf_c |
-particles/inferno_fx/molotov_explosion_child_fireball3.vpcf_c |
-particles/inferno_fx/molotov_explosion_child_fireball4.vpcf_c |
-particles/inferno_fx/molotov_explosion_child_flash.vpcf_c |
-particles/inferno_fx/molotov_explosion_child_ground1.vpcf_c |
-particles/inferno_fx/molotov_explosion_child_ground2.vpcf_c |
-particles/inferno_fx/molotov_explosion_child_sprays.vpcf_c |
-particles/inferno_fx/molotov_fire01.vpcf_c |
-particles/inferno_fx/molotov_fire01_cheap.vpcf_c |
-particles/inferno_fx/molotov_groundfire.vpcf_c |
-particles/inferno_fx/molotov_groundfire_00high.vpcf_c |
-particles/inferno_fx/molotov_groundfire_00medium.vpcf_c |
-particles/inferno_fx/molotov_groundfire_child_base.vpcf_c |
-particles/inferno_fx/molotov_groundfire_child_base8.vpcf_c |
-particles/inferno_fx/molotov_groundfire_child_base_glow.vpcf_c |
-particles/inferno_fx/molotov_groundfire_child_base_hcp.vpcf_c |
-particles/inferno_fx/molotov_groundfire_child_embers.vpcf_c |
-particles/inferno_fx/molotov_groundfire_child_glow.vpcf_c |
-particles/inferno_fx/molotov_groundfire_child_glow2_child.vpcf_c |
-particles/inferno_fx/molotov_groundfire_climbingoutline.vpcf_c |
-particles/inferno_fx/molotov_groundfire_climbingset.vpcf_c |
-particles/inferno_fx/molotov_groundfire_climbing_debug.vpcf_c |
-particles/inferno_fx/molotov_groundfire_endcap.vpcf_c |
-particles/inferno_fx/molotov_groundfire_endcap_ground.vpcf_c |
-particles/inferno_fx/molotov_groundfire_endcap_groundsmoke.vpcf_c |
-particles/inferno_fx/molotov_groundfire_endcap_ground_swirly.vpcf_c |
-particles/inferno_fx/molotov_groundfire_endcap_wall.vpcf_c |
-particles/inferno_fx/molotov_groundfire_fallback.vpcf_c |
-particles/inferno_fx/molotov_groundfire_fallback2.vpcf_c |
-particles/inferno_fx/molotov_groundfire_filltest.vpcf_c |
-particles/inferno_fx/molotov_groundfire_lighting.vpcf_c |
-particles/inferno_fx/molotov_groundfire_main.vpcf_c |
-particles/inferno_fx/molotov_groundfire_main_center.vpcf_c |
-particles/inferno_fx/molotov_groundfire_main_fancy.vpcf_c |
-particles/inferno_fx/molotov_groundfire_main_glow.vpcf_c |
-particles/inferno_fx/molotov_groundfire_outline.vpcf_c |
-particles/inferno_fx/molotov_groundfire_outlineset.vpcf_c |
-particles/inferno_fx/molotov_groundfire_outlineset_debug.vpcf_c |
-particles/inferno_fx/molotov_groundfire_outline_burn.vpcf_c |
-particles/inferno_fx/molotov_groundfire_outline_embers.vpcf_c |
-particles/inferno_fx/molotov_groundfire_projected.vpcf_c |
-particles/inferno_fx/molotov_groundfire_remnant.vpcf_c |
-particles/inferno_fx/molotov_groundfire_scortch.vpcf_c |
-particles/inferno_fx/molotov_groundfire_snapshot_child_base.vpcf_c |
-particles/inferno_fx/molotov_groundfire_snapshot_water_silt.vpcf_c |
-particles/inferno_fx/molotov_groundfire_streaks.vpcf_c |
-particles/inferno_fx/molotov_smoke_screen.vpcf_c |
-particles/inferno_fx/molotov_smoking_ground_child01.vpcf_c |
-particles/inferno_fx/molotov_smoking_ground_child02.vpcf_c |
-particles/inferno_fx/molotov_smoking_ground_child02_cheapo.vpcf_c |
-particles/inferno_fx/molotov_smoking_ground_child03.vpcf_c |
-particles/inferno_fx/molotov_smoking_ground_child03_cheapo.vpcf_c |
-particles/inferno_fx/perf_test_combined.vpcf_c |
-particles/inferno_fx/perf_test_separate.vpcf_c |
-particles/inferno_fx/perf_test_separate_childa.vpcf_c |
-particles/inferno_fx/perf_test_separate_childb.vpcf_c |
-particles/inferno_fx/perf_test_separate_childc.vpcf_c |
-particles/inferno_fx/spark_explosive_test.vpcf_c |
-particles/impact_fx/blood_impact_friendly_debris.vpcf_c |
-particles/impact_fx/blood_impact_friendly_flash.vpcf_c |
-particles/impact_fx/break_concrete_debris.vpcf_c |
-particles/impact_fx/break_concrete_smoke.vpcf_c |
-particles/impact_fx/chamber_cube_spark.vpcf_c |
-particles/impact_fx/chamber_cube_spark_a.vpcf_c |
-particles/impact_fx/chamber_ground_impact_a.vpcf_c |
-particles/impact_fx/chamber_ground_impact_a0.vpcf_c |
-particles/impact_fx/chamber_ground_impact_a1.vpcf_c |
-particles/impact_fx/impact_armor_ricochet.vpcf_c |
-particles/impact_fx/impact_armor_ricochet_core.vpcf_c |
-particles/impact_fx/impact_armor_ricochet_smokebody.vpcf_c |
-particles/impact_fx/impact_armor_ricochet_smokehead.vpcf_c |
-particles/impact_fx/impact_armor_ricochet_sparks.vpcf_c |
-particles/impact_fx/impact_asphalt.vpcf_c |
-particles/impact_fx/impact_asphalt_cheap.vpcf_c |
-particles/impact_fx/impact_asphalt_cheap2.vpcf_c |
-particles/impact_fx/impact_asphalt_child_base.vpcf_c |
-particles/impact_fx/impact_asphalt_child_burst.vpcf_c |
-particles/impact_fx/impact_brick.vpcf_c |
-particles/impact_fx/impact_brick_cheap.vpcf_c |
-particles/impact_fx/impact_brick_child_base.vpcf_c |
-particles/impact_fx/impact_cardboard.vpcf_c |
-particles/impact_fx/impact_cardboard_cheap.vpcf_c |
-particles/impact_fx/impact_cardboard_child_base.vpcf_c |
-particles/impact_fx/impact_cardboard_child_bits.vpcf_c |
-particles/impact_fx/impact_cardboard_child_smoke.vpcf_c |
-particles/impact_fx/impact_carpet.vpcf_c |
-particles/impact_fx/impact_carpet_base.vpcf_c |
-particles/impact_fx/impact_carpet_burst.vpcf_c |
-particles/impact_fx/impact_carpet_burst_puff.vpcf_c |
-particles/impact_fx/impact_carpet_cheap.vpcf_c |
-particles/impact_fx/impact_carpet_child_burn.vpcf_c |
-particles/impact_fx/impact_carpet_child_glow.vpcf_c |
-particles/impact_fx/impact_carpet_child_glow_mid.vpcf_c |
-particles/impact_fx/impact_carpet_debris_small.vpcf_c |
-particles/impact_fx/impact_carpet_dust.vpcf_c |
-particles/impact_fx/impact_chainlink.vpcf_c |
-particles/impact_fx/impact_chainlink_cheap.vpcf_c |
-particles/impact_fx/impact_clay.vpcf_c |
-particles/impact_fx/impact_clay_cheap.vpcf_c |
-particles/impact_fx/impact_clay_cheap2.vpcf_c |
-particles/impact_fx/impact_clay_child_base.vpcf_c |
-particles/impact_fx/impact_clay_child_smoke.vpcf_c |
-particles/impact_fx/impact_cloth.vpcf_c |
-particles/impact_fx/impact_cloth_cheap.vpcf_c |
-particles/impact_fx/impact_computer.vpcf_c |
-particles/impact_fx/impact_computer_cheap.vpcf_c |
-particles/impact_fx/impact_concrete.vpcf_c |
-particles/impact_fx/impact_concrete_cheap.vpcf_c |
-particles/impact_fx/impact_concrete_child_base.vpcf_c |
-particles/impact_fx/impact_concrete_child_smoke.vpcf_c |
-particles/impact_fx/impact_concrete_child_smoke_cheap.vpcf_c |
-particles/impact_fx/impact_concrete_child_smoke_darken.vpcf_c |
-particles/impact_fx/impact_concrete_child_smoke_normal.vpcf_c |
-particles/impact_fx/impact_concrete_model.vpcf_c |
-particles/impact_fx/impact_concrete_smokeadaptive_test.vpcf_c |
-particles/impact_fx/impact_concrete_wet.vpcf_c |
-particles/impact_fx/impact_concrete_wet_cheap.vpcf_c |
-particles/impact_fx/impact_dirt.vpcf_c |
-particles/impact_fx/impact_dirt_back.vpcf_c |
-particles/impact_fx/impact_dirt_cheap.vpcf_c |
-particles/impact_fx/impact_dirt_child_base.vpcf_c |
-particles/impact_fx/impact_dirt_child_bounce.vpcf_c |
-particles/impact_fx/impact_dirt_child_burst.vpcf_c |
-particles/impact_fx/impact_dirt_child_burst2.vpcf_c |
-particles/impact_fx/impact_dirt_child_clumps.vpcf_c |
-particles/impact_fx/impact_dirt_child_smoke.vpcf_c |
-particles/impact_fx/impact_dirt_child_smoke_puff.vpcf_c |
-particles/impact_fx/impact_electronic.vpcf_c |
-particles/impact_fx/impact_electronic_cheap.vpcf_c |
-particles/impact_fx/impact_electronic_smoke.vpcf_c |
-particles/impact_fx/impact_empty.vpcf_c |
-particles/impact_fx/impact_fx_hit_darken.vpcf_c |
-particles/impact_fx/impact_generic_burn.vpcf_c |
-particles/impact_fx/impact_generic_burst.vpcf_c |
-particles/impact_fx/impact_generic_burst_1.vpcf_c |
-particles/impact_fx/impact_generic_burst_2.vpcf_c |
-particles/impact_fx/impact_generic_burst_3.vpcf_c |
-particles/impact_fx/impact_generic_burst_sm.vpcf_c |
-particles/impact_fx/impact_generic_smoke_large.vpcf_c |
-particles/impact_fx/impact_generic_smoke_medium.vpcf_c |
-particles/impact_fx/impact_generic_smoke_small.vpcf_c |
-particles/impact_fx/impact_glass.vpcf_c |
-particles/impact_fx/impact_glass_base.vpcf_c |
-particles/impact_fx/impact_glass_burst.vpcf_c |
-particles/impact_fx/impact_glass_burst_puff.vpcf_c |
-particles/impact_fx/impact_glass_cheap.vpcf_c |
-particles/impact_fx/impact_glass_child_base.vpcf_c |
-particles/impact_fx/impact_glass_child_bits.vpcf_c |
-particles/impact_fx/impact_glass_child_smoke.vpcf_c |
-particles/impact_fx/impact_glass_dark_base.vpcf_c |
-particles/impact_fx/impact_glass_dark_burst.vpcf_c |
-particles/impact_fx/impact_glass_dark_burst_puff.vpcf_c |
-particles/impact_fx/impact_glass_dark_cheap.vpcf_c |
-particles/impact_fx/impact_glass_dark_debris_small.vpcf_c |
-particles/impact_fx/impact_glass_dark_flash.vpcf_c |
-particles/impact_fx/impact_glass_debris_small.vpcf_c |
-particles/impact_fx/impact_glass_dust.vpcf_c |
-particles/impact_fx/impact_glass_flash.vpcf_c |
-particles/impact_fx/impact_grass.vpcf_c |
-particles/impact_fx/impact_grass_back.vpcf_c |
-particles/impact_fx/impact_grass_cheap.vpcf_c |
-particles/impact_fx/impact_grass_child_base.vpcf_c |
-particles/impact_fx/impact_grass_child_blades.vpcf_c |
-particles/impact_fx/impact_grass_child_burst.vpcf_c |
-particles/impact_fx/impact_grass_child_clumps.vpcf_c |
-particles/impact_fx/impact_grass_child_smoke.vpcf_c |
-particles/impact_fx/impact_grass_wet.vpcf_c |
-particles/impact_fx/impact_helmet_headshot.vpcf_c |
-particles/impact_fx/impact_helmet_headshot_glow.vpcf_c |
-particles/impact_fx/impact_helmet_headshot_spark.vpcf_c |
-particles/impact_fx/impact_hit_effect.vpcf_c |
-particles/impact_fx/impact_hit_effect_kill.vpcf_c |
-particles/impact_fx/impact_leaves.vpcf_c |
-particles/impact_fx/impact_leaves_cheap.vpcf_c |
-particles/impact_fx/impact_leaves_cheap2.vpcf_c |
-particles/impact_fx/impact_leaves_child_base.vpcf_c |
-particles/impact_fx/impact_leaves_child_bits.vpcf_c |
-particles/impact_fx/impact_leaves_child_smoke.vpcf_c |
-particles/impact_fx/impact_leaves_child_smoke_light.vpcf_c |
-particles/impact_fx/impact_light_flash.vpcf_c |
-particles/impact_fx/impact_light_flash_fixed_reverse.vpcf_c |
-particles/impact_fx/impact_light_flash_new.vpcf_c |
-particles/impact_fx/impact_metal.vpcf_c |
-particles/impact_fx/impact_metal_cheap.vpcf_c |
-particles/impact_fx/impact_metal_child_base.vpcf_c |
-particles/impact_fx/impact_metal_child_glow.vpcf_c |
-particles/impact_fx/impact_metal_child_glow2.vpcf_c |
-particles/impact_fx/impact_metal_child_smoke.vpcf_c |
-particles/impact_fx/impact_metal_grate.vpcf_c |
-particles/impact_fx/impact_metal_grate_child_glow.vpcf_c |
-particles/impact_fx/impact_metal_grate_child_glow2.vpcf_c |
-particles/impact_fx/impact_metal_smoketrail.vpcf_c |
-particles/impact_fx/impact_metal_sparks_trailing.vpcf_c |
-particles/impact_fx/impact_metal_vent.vpcf_c |
-particles/impact_fx/impact_metal_vent_cheap.vpcf_c |
-particles/impact_fx/impact_metal_vent_child_glow.vpcf_c |
-particles/impact_fx/impact_mud.vpcf_c |
-particles/impact_fx/impact_mud_cheap.vpcf_c |
-particles/impact_fx/impact_palm_leaves_02.vpcf_c |
-particles/impact_fx/impact_paper.vpcf_c |
-particles/impact_fx/impact_paper_cheap.vpcf_c |
-particles/impact_fx/impact_particulates.vpcf_c |
-particles/impact_fx/impact_particulates_dirt.vpcf_c |
-particles/impact_fx/impact_physics_dust.vpcf_c |
-particles/impact_fx/impact_physics_sparks.vpcf_c |
-particles/impact_fx/impact_physics_sparks_glow.vpcf_c |
-particles/impact_fx/impact_plaster.vpcf_c |
-particles/impact_fx/impact_plaster_base.vpcf_c |
-particles/impact_fx/impact_plaster_burst.vpcf_c |
-particles/impact_fx/impact_plaster_burst_cheap.vpcf_c |
-particles/impact_fx/impact_plaster_burst_puff.vpcf_c |
-particles/impact_fx/impact_plaster_cheap.vpcf_c |
-particles/impact_fx/impact_plaster_cheap_2.vpcf_c |
-particles/impact_fx/impact_plaster_child_base.vpcf_c |
-particles/impact_fx/impact_plaster_child_bits.vpcf_c |
-particles/impact_fx/impact_plaster_child_burst.vpcf_c |
-particles/impact_fx/impact_plaster_child_burst_2.vpcf_c |
-particles/impact_fx/impact_plaster_child_smoke.vpcf_c |
-particles/impact_fx/impact_plaster_child_smoke2.vpcf_c |
-particles/impact_fx/impact_plaster_child_smoke3.vpcf_c |
-particles/impact_fx/impact_plaster_child_smoketrails.vpcf_c |
-particles/impact_fx/impact_plaster_dots.vpcf_c |
-particles/impact_fx/impact_plaster_flash.vpcf_c |
-particles/impact_fx/impact_plaster_high.vpcf_c |
-particles/impact_fx/impact_plaster_notrails.vpcf_c |
-particles/impact_fx/impact_plaster_notrails_cheap.vpcf_c |
-particles/impact_fx/impact_plaster_smoke.vpcf_c |
-particles/impact_fx/impact_plastic.vpcf_c |
-particles/impact_fx/impact_plastic_base.vpcf_c |
-particles/impact_fx/impact_plastic_burst.vpcf_c |
-particles/impact_fx/impact_plastic_cheap.vpcf_c |
-particles/impact_fx/impact_plastic_debris_small.vpcf_c |
-particles/impact_fx/impact_plastic_dust.vpcf_c |
-particles/impact_fx/impact_plastic_flash.vpcf_c |
-particles/impact_fx/impact_plastic_high.vpcf_c |
-particles/impact_fx/impact_plastic_smoke.vpcf_c |
-particles/impact_fx/impact_pottery.vpcf_c |
-particles/impact_fx/impact_pottery_base.vpcf_c |
-particles/impact_fx/impact_pottery_burst.vpcf_c |
-particles/impact_fx/impact_pottery_burst_puff.vpcf_c |
-particles/impact_fx/impact_pottery_cheap.vpcf_c |
-particles/impact_fx/impact_pottery_debris_small.vpcf_c |
-particles/impact_fx/impact_pottery_dust.vpcf_c |
-particles/impact_fx/impact_puddle.vpcf_c |
-particles/impact_fx/impact_puddle_cheap.vpcf_c |
-particles/impact_fx/impact_puddle_ring.vpcf_c |
-particles/impact_fx/impact_ricochet.vpcf_c |
-particles/impact_fx/impact_ricochet_sparks.vpcf_c |
-particles/impact_fx/impact_rock.vpcf_c |
-particles/impact_fx/impact_rock_cheap.vpcf_c |
-particles/impact_fx/impact_rock_child_base.vpcf_c |
-particles/impact_fx/impact_rock_child_smoke.vpcf_c |
-particles/impact_fx/impact_rubber.vpcf_c |
-particles/impact_fx/impact_rubber_base.vpcf_c |
-particles/impact_fx/impact_rubber_cheap.vpcf_c |
-particles/impact_fx/impact_rubber_child_base.vpcf_c |
-particles/impact_fx/impact_rubber_child_smoke.vpcf_c |
-particles/impact_fx/impact_rubber_flash.vpcf_c |
-particles/impact_fx/impact_sand.vpcf_c |
-particles/impact_fx/impact_sandbarrel.vpcf_c |
-particles/impact_fx/impact_sandbarrel_cheap.vpcf_c |
-particles/impact_fx/impact_sandbarrel_sand.vpcf_c |
-particles/impact_fx/impact_sand_barrel.vpcf_c |
-particles/impact_fx/impact_sand_cheap.vpcf_c |
-particles/impact_fx/impact_sand_child_base.vpcf_c |
-particles/impact_fx/impact_sand_child_bounce.vpcf_c |
-particles/impact_fx/impact_sand_child_burst.vpcf_c |
-particles/impact_fx/impact_sand_child_burst2.vpcf_c |
-particles/impact_fx/impact_screen_smoke_large.vpcf_c |
-particles/impact_fx/impact_screen_smoke_medium.vpcf_c |
-particles/impact_fx/impact_screen_smoke_small.vpcf_c |
-particles/impact_fx/impact_screen_smoke_snow.vpcf_c |
-particles/impact_fx/impact_sheetrock.vpcf_c |
-particles/impact_fx/impact_sheetrock_cheap.vpcf_c |
-particles/impact_fx/impact_sheetrock_child_base.vpcf_c |
-particles/impact_fx/impact_sheetrock_child_bits.vpcf_c |
-particles/impact_fx/impact_sheetrock_child_bits2.vpcf_c |
-particles/impact_fx/impact_snow.vpcf_c |
-particles/impact_fx/impact_snow_base.vpcf_c |
-particles/impact_fx/impact_snow_burst.vpcf_c |
-particles/impact_fx/impact_snow_burst_puff.vpcf_c |
-particles/impact_fx/impact_snow_cheap.vpcf_c |
-particles/impact_fx/impact_snow_cheap2.vpcf_c |
-particles/impact_fx/impact_snow_child_base.vpcf_c |
-particles/impact_fx/impact_snow_child_bounce.vpcf_c |
-particles/impact_fx/impact_snow_child_smoke.vpcf_c |
-particles/impact_fx/impact_snow_child_smoke_puff.vpcf_c |
-particles/impact_fx/impact_snow_debris_small.vpcf_c |
-particles/impact_fx/impact_snow_dust.vpcf_c |
-particles/impact_fx/impact_spark_glow_lighter.vpcf_c |
-particles/impact_fx/impact_spark_glow_lighter_tiny.vpcf_c |
-particles/impact_fx/impact_spark_glow_soft.vpcf_c |
-particles/impact_fx/impact_spark_glow_soft_parent.vpcf_c |
-particles/impact_fx/impact_spark_spray.vpcf_c |
-particles/impact_fx/impact_spark_spray_forward.vpcf_c |
-particles/impact_fx/impact_spark_spray_large.vpcf_c |
-particles/impact_fx/impact_spark_spray_small.vpcf_c |
-particles/impact_fx/impact_steam_child_mist_short.vpcf_c |
-particles/impact_fx/impact_tile.vpcf_c |
-particles/impact_fx/impact_tile_cheap.vpcf_c |
-particles/impact_fx/impact_tile_cheap2.vpcf_c |
-particles/impact_fx/impact_tile_child_base.vpcf_c |
-particles/impact_fx/impact_tile_child_smoke.vpcf_c |
-particles/impact_fx/impact_tv_tube_smoke.vpcf_c |
-particles/impact_fx/impact_upholstery.vpcf_c |
-particles/impact_fx/impact_upholstery_cheap.vpcf_c |
-particles/impact_fx/impact_upholstery_cheap2.vpcf_c |
-particles/impact_fx/impact_upholstery_child_base.vpcf_c |
-particles/impact_fx/impact_upholstery_child_burn.vpcf_c |
-particles/impact_fx/impact_upholstery_child_burst.vpcf_c |
-particles/impact_fx/impact_upholstery_child_smoke.vpcf_c |
-particles/impact_fx/impact_upholstery_debris_small.vpcf_c |
-particles/impact_fx/impact_wallbang_heavy.vpcf_c |
-particles/impact_fx/impact_wallbang_light.vpcf_c |
-particles/impact_fx/impact_wallbang_light_silent.vpcf_c |
-particles/impact_fx/impact_water.vpcf_c |
-particles/impact_fx/impact_water_cheap.vpcf_c |
-particles/impact_fx/impact_water_cheap_2.vpcf_c |
-particles/impact_fx/impact_water_child_base.vpcf_c |
-particles/impact_fx/impact_water_child_bits.vpcf_c |
-particles/impact_fx/impact_water_child_froth.vpcf_c |
-particles/impact_fx/impact_water_child_refract.vpcf_c |
-particles/impact_fx/impact_water_child_rings.vpcf_c |
-particles/impact_fx/impact_water_child_smallrings.vpcf_c |
-particles/impact_fx/impact_water_child_splash.vpcf_c |
-particles/impact_fx/impact_wet.vpcf_c |
-particles/impact_fx/impact_wet_cheap.vpcf_c |
-particles/impact_fx/impact_wet_cheap2.vpcf_c |
-particles/impact_fx/impact_wet_child_splash.vpcf_c |
-particles/impact_fx/impact_wet_grass.vpcf_c |
-particles/impact_fx/impact_wet_ripple.vpcf_c |
-particles/impact_fx/impact_wet_splash.vpcf_c |
-particles/impact_fx/impact_wood.vpcf_c |
-particles/impact_fx/impact_wood_cheap.vpcf_c |
-particles/impact_fx/impact_wood_child_base.vpcf_c |
-particles/impact_fx/impact_wood_child_burn.vpcf_c |
-particles/impact_fx/impact_wood_child_burst.vpcf_c |
-particles/impact_fx/impact_wood_child_chunks.vpcf_c |
-particles/impact_fx/impact_wood_child_smoke.vpcf_c |
-particles/impact_fx/ricochet_sparks.vpcf_c |
-particles/impact_fx/ricochet_sparks_contrast_glow.vpcf_c |
-particles/impact_fx/ricochet_sparks_contrast_glow_soft.vpcf_c |
-particles/impact_fx/ricochet_sparks_contrast_shadow.vpcf_c |
-particles/impact_fx/ricochet_sparks_dir.vpcf_c |
-particles/impact_fx/ricochet_sparks_dots.vpcf_c |
-particles/impact_fx/ricochet_sparks_dots_cheap.vpcf_c |
-particles/impact_fx/ricochet_sparks_sparse.vpcf_c |
-particles/impact_fx/ricochet_sparks_sparse_dots.vpcf_c |
-particles/impact_fx/tmp.vpcf_c |
-particles/impact_fx/tv_tube_shards_01.vpcf_c |
-particles/impact_fx/tv_tube_shards_02.vpcf_c |
-particles/impact_fx/wood/impact_wood_chunks.vpcf_c |
-particles/generic_fx/fx_electricspark_flare.vpcf_c |
-particles/generic_fx/fx_electricspark_follow.vpcf_c |
-particles/generic_fx/fx_electricspark_glow.vpcf_c |
-particles/generic_fx/fx_electricspark_glow_large.vpcf_c |
-particles/generic_fx/fx_electricspark_longtrail.vpcf_c |
-particles/generic_fx/fx_electric_arc_spark.vpcf_c |
-particles/gameui/particle_line_ui.vpcf_c |
-particles/footstep_fx/footstep_dirt.vpcf_c |
-particles/footstep_fx/footstep_grass.vpcf_c |
-particles/footstep_fx/footstep_grass_b.vpcf_c |
-particles/footstep_fx/footstep_mud.vpcf_c |
-particles/footstep_fx/footstep_puddle.vpcf_c |
-particles/footstep_fx/footstep_puddle_b.vpcf_c |
-particles/footstep_fx/footstep_wet.vpcf_c |
-particles/explosions_fx/beacon_smoke.vpcf_c |
-particles/explosions_fx/bumpmine_detonate.vpcf_c |
-particles/explosions_fx/bumpmine_detonate_distort.vpcf_c |
-particles/explosions_fx/bumpmine_detonate_ring.vpcf_c |
-particles/explosions_fx/bumpmine_detonate_sparks.vpcf_c |
-particles/explosions_fx/bumpmine_detonate_sparks_core.vpcf_c |
-particles/explosions_fx/bumpmine_detonate_sparks_glow.vpcf_c |
-particles/explosions_fx/bumpmine_detonate_splash_up.vpcf_c |
-particles/explosions_fx/c4_holstered_light.vpcf_c |
-particles/explosions_fx/c4_holstered_light_fp.vpcf_c |
-particles/explosions_fx/c4_holstered_light_fp_light.vpcf_c |
-particles/explosions_fx/c4_shockwave.vsnap_c |
-particles/explosions_fx/c4_timer_light.vpcf_c |
-particles/explosions_fx/c4_timer_light_child01.vpcf_c |
-particles/explosions_fx/c4_timer_light_child01_small.vpcf_c |
-particles/explosions_fx/c4_timer_light_child02.vpcf_c |
-particles/explosions_fx/c4_timer_light_child02_yellow.vpcf_c |
-particles/explosions_fx/c4_timer_light_dropped.vpcf_c |
-particles/explosions_fx/c4_timer_light_dropped_fallback.vpcf_c |
-particles/explosions_fx/c4_timer_light_fallback.vpcf_c |
-particles/explosions_fx/c4_timer_light_held.vpcf_c |
-particles/explosions_fx/c4_timer_light_trigger.vpcf_c |
-particles/explosions_fx/c4_timer_light_trigger_child01.vpcf_c |
-particles/explosions_fx/c4_train_ground_effect.vpcf_c |
-particles/explosions_fx/c4_train_ground_effect_blast.vpcf_c |
-particles/explosions_fx/c4_train_ground_fleks.vpcf_c |
-particles/explosions_fx/c4_train_ground_glow_01.vpcf_c |
-particles/explosions_fx/c4_train_ground_glow_02.vpcf_c |
-particles/explosions_fx/c4_train_ground_low_02.vpcf_c |
-particles/explosions_fx/c4_train_ground_low_03.vpcf_c |
-particles/explosions_fx/c4_train_ground_primary_01.vpcf_c |
-particles/explosions_fx/c4_train_ground_smoke_01.vpcf_c |
-particles/explosions_fx/explosion_basic.vpcf_c |
-particles/explosions_fx/explosion_basic_water.vpcf_c |
-particles/explosions_fx/explosion_basic_water_colliders.vpcf_c |
-particles/explosions_fx/explosion_basic_water_collision_bounce.vpcf_c |
-particles/explosions_fx/explosion_basic_water_foam_surface.vpcf_c |
-particles/explosions_fx/explosion_basic_water_foam_surface_2nd.vpcf_c |
-particles/explosions_fx/explosion_basic_water_foam_surface_ripples.vpcf_c |
-particles/explosions_fx/explosion_basic_water_ripple_rings.vpcf_c |
-particles/explosions_fx/explosion_basic_water_ripple_waves.vpcf_c |
-particles/explosions_fx/explosion_basic_water_silt.vpcf_c |
-particles/explosions_fx/explosion_basic_water_smoke_linger.vpcf_c |
-particles/explosions_fx/explosion_basic_water_surface_ripples.vpcf_c |
-particles/explosions_fx/explosion_basic_water_trails.vpcf_c |
-particles/explosions_fx/explosion_bomb_ghost_1.vpcf_c |
-particles/explosions_fx/explosion_c4_500.vpcf_c |
-particles/explosions_fx/explosion_c4_500_fallback.vpcf_c |
-particles/explosions_fx/explosion_c4_500_groundbase.vpcf_c |
-particles/explosions_fx/explosion_c4_core04c_1k.vpcf_c |
-particles/explosions_fx/explosion_c4_core04e_1k.vpcf_c |
-particles/explosions_fx/explosion_c4_debris.vpcf_c |
-particles/explosions_fx/explosion_c4_distort01d_1k.vpcf_c |
-particles/explosions_fx/explosion_c4_embers.vpcf_c |
-particles/explosions_fx/explosion_c4_flash01b.vpcf_c |
-particles/explosions_fx/explosion_c4_flash02b_1k.vpcf_c |
-particles/explosions_fx/explosion_c4_flash03b_1k.vpcf_c |
-particles/explosions_fx/explosion_c4_groundsmoke.vpcf_c |
-particles/explosions_fx/explosion_c4_ground_debris.vpcf_c |
-particles/explosions_fx/explosion_c4_ground_particulate.vpcf_c |
-particles/explosions_fx/explosion_c4_ground_residual.vpcf_c |
-particles/explosions_fx/explosion_c4_ground_residual_ash.vpcf_c |
-particles/explosions_fx/explosion_c4_ground_residual_particulate.vpcf_c |
-particles/explosions_fx/explosion_c4_ground_residual_smoke.vpcf_c |
-particles/explosions_fx/explosion_c4_interior.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_c.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_d.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_debris_small.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_distort01b.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_embers.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_smoke_blasts.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_smoke_core.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_smoke_ground.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_sparktrails.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_sparktrails_child.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_sparktrails_sparks.vpcf_c |
-particles/explosions_fx/explosion_c4_interior_sparktrails_sparks_dots.vpcf_c |
-particles/explosions_fx/explosion_c4_light.vpcf_c |
-particles/explosions_fx/explosion_c4_player.vpcf_c |
-particles/explosions_fx/explosion_c4_ropes.vpcf_c |
-particles/explosions_fx/explosion_c4_rope_smoke_trail.vpcf_c |
-particles/explosions_fx/explosion_c4_short.vpcf_c |
-particles/explosions_fx/explosion_c4_short_smoke.vpcf_c |
-particles/explosions_fx/explosion_c4_short_smoke_blasts.vpcf_c |
-particles/explosions_fx/explosion_c4_short_smoke_core.vpcf_c |
-particles/explosions_fx/explosion_c4_short_smoke_top.vpcf_c |
-particles/explosions_fx/explosion_c4_smoke.vpcf_c |
-particles/explosions_fx/explosion_c4_smoketrails.vpcf_c |
-particles/explosions_fx/explosion_c4_smoketrails_child.vpcf_c |
-particles/explosions_fx/explosion_c4_smoketrails_rope.vpcf_c |
-particles/explosions_fx/explosion_c4_smoke_blasts.vpcf_c |
-particles/explosions_fx/explosion_c4_smoke_core.vpcf_c |
-particles/explosions_fx/explosion_c4_smoke_plume.vpcf_c |
-particles/explosions_fx/explosion_c4_smoke_top.vpcf_c |
-particles/explosions_fx/explosion_c4_smoke_top_collider.vpcf_c |
-particles/explosions_fx/explosion_c4_trails.vpcf_c |
-particles/explosions_fx/explosion_child_clumps01a.vpcf_c |
-particles/explosions_fx/explosion_child_clumps01b.vpcf_c |
-particles/explosions_fx/explosion_child_clumps02a.vpcf_c |
-particles/explosions_fx/explosion_child_clumps02b.vpcf_c |
-particles/explosions_fx/explosion_child_clumps03a.vpcf_c |
-particles/explosions_fx/explosion_child_core04b.vpcf_c |
-particles/explosions_fx/explosion_child_core04c.vpcf_c |
-particles/explosions_fx/explosion_child_core04c_1k.vpcf_c |
-particles/explosions_fx/explosion_child_core04e_1k.vpcf_c |
-particles/explosions_fx/explosion_child_core06a.vpcf_c |
-particles/explosions_fx/explosion_child_core06b.vpcf_c |
-particles/explosions_fx/explosion_child_core09b_1k.vpcf_c |
-particles/explosions_fx/explosion_child_distort01b.vpcf_c |
-particles/explosions_fx/explosion_child_distort01c.vpcf_c |
-particles/explosions_fx/explosion_child_distort01d_1k.vpcf_c |
-particles/explosions_fx/explosion_child_dust03a.vpcf_c |
-particles/explosions_fx/explosion_child_dust04a.vpcf_c |
-particles/explosions_fx/explosion_child_dust04b.vpcf_c |
-particles/explosions_fx/explosion_child_dust06a.vpcf_c |
-particles/explosions_fx/explosion_child_dust07a.vpcf_c |
-particles/explosions_fx/explosion_child_dust09a.vpcf_c |
-particles/explosions_fx/explosion_child_dust09b.vpcf_c |
-particles/explosions_fx/explosion_child_dust10a.vpcf_c |
-particles/explosions_fx/explosion_child_flash01b.vpcf_c |
-particles/explosions_fx/explosion_child_flash02b.vpcf_c |
-particles/explosions_fx/explosion_child_flash02b_1k.vpcf_c |
-particles/explosions_fx/explosion_child_flash03b_1k.vpcf_c |
-particles/explosions_fx/explosion_child_shrapnel02e_1k.vpcf_c |
-particles/explosions_fx/explosion_child_shrapnel03a.vpcf_c |
-particles/explosions_fx/explosion_child_smoke01h_1k.vpcf_c |
-particles/explosions_fx/explosion_child_smoke03b.vpcf_c |
-particles/explosions_fx/explosion_child_smoke03c.vpcf_c |
-particles/explosions_fx/explosion_child_smoke03d.vpcf_c |
-particles/explosions_fx/explosion_child_smoke03d_ring.vpcf_c |
-particles/explosions_fx/explosion_child_smoke03d_ring_copy.vpcf_c |
-particles/explosions_fx/explosion_child_smoke03e.vpcf_c |
-particles/explosions_fx/explosion_child_smoke03f.vpcf_c |
-particles/explosions_fx/explosion_child_smoke04c.vpcf_c |
-particles/explosions_fx/explosion_child_smoke06a.vpcf_c |
-particles/explosions_fx/explosion_child_smoke07b.vpcf_c |
-particles/explosions_fx/explosion_child_smoke07c.vpcf_c |
-particles/explosions_fx/explosion_child_smoke08a.vpcf_c |
-particles/explosions_fx/explosion_child_smoke09a.vpcf_c |
-particles/explosions_fx/explosion_child_smoke_adaptive.vpcf_c |
-particles/explosions_fx/explosion_child_smoke_bottom.vpcf_c |
-particles/explosions_fx/explosion_child_smoke_pointcloud.vpcf_c |
-particles/explosions_fx/explosion_child_smoke_pointcloud_col.vpcf_c |
-particles/explosions_fx/explosion_child_snow03a.vpcf_c |
-particles/explosions_fx/explosion_child_snow04a.vpcf_c |
-particles/explosions_fx/explosion_child_snow06a.vpcf_c |
-particles/explosions_fx/explosion_child_snow07a.vpcf_c |
-particles/explosions_fx/explosion_child_snow08a.vpcf_c |
-particles/explosions_fx/explosion_child_snow09b.vpcf_c |
-particles/explosions_fx/explosion_child_snowclumps01a.vpcf_c |
-particles/explosions_fx/explosion_child_snowclumps01b.vpcf_c |
-particles/explosions_fx/explosion_child_snowclumps01c.vpcf_c |
-particles/explosions_fx/explosion_child_snowcore06a.vpcf_c |
-particles/explosions_fx/explosion_child_sparks01.vpcf_c |
-particles/explosions_fx/explosion_child_water_core01a.vpcf_c |
-particles/explosions_fx/explosion_child_water_foam.vpcf_c |
-particles/explosions_fx/explosion_child_water_mist02a.vpcf_c |
-particles/explosions_fx/explosion_child_water_rings01a.vpcf_c |
-particles/explosions_fx/explosion_child_water_rings01b.vpcf_c |
-particles/explosions_fx/explosion_child_water_rings01c.vpcf_c |
-particles/explosions_fx/explosion_child_water_splash01a.vpcf_c |
-particles/explosions_fx/explosion_child_water_splash02a.vpcf_c |
-particles/explosions_fx/explosion_child_water_splash03a.vpcf_c |
-particles/explosions_fx/explosion_child_water_splash03b.vpcf_c |
-particles/explosions_fx/explosion_child_water_splash04a.vpcf_c |
-particles/explosions_fx/explosion_child_water_splash05a.vpcf_c |
-particles/explosions_fx/explosion_child_water_splash06a.vpcf_c |
-particles/explosions_fx/explosion_child_water_splash07a.vpcf_c |
-particles/explosions_fx/explosion_coop_mission_c4.vpcf_c |
-particles/explosions_fx/explosion_coop_mission_core09b_1k.vpcf_c |
-particles/explosions_fx/explosion_coop_mission_shrapnel02e_1k.vpcf_c |
-particles/explosions_fx/explosion_coop_mission_smoke01h_1k.vpcf_c |
-particles/explosions_fx/explosion_hegrenade.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_brief.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_brief_debris.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_brief_debris_small.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_brief_decal.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_brief_distort.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_brief_embers.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_brief_flash_ana.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_brief_heattrails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_brief_smoke_blasts.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_brief_smoke_core.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_brief_smoke_ground.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_debris.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_debris_small.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_decal.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_blasts.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_bursts.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_burst_core.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_core.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_debris.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_debris_small.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_debris_trails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_fallback.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_fallback2.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_ground.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_particulate.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_particulate_trails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_smoketrails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_smoketrails_child.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_smoketrails_rope.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_top.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_trails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dirt_upward_collision_check.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_distort.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_dust_motes.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_embers.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_flash01b.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_flash02b.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_flash_ana.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_heattrails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_interior.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_interior_fallback.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_light.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_smoketrails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_smoketrails_child.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_smoketrails_rope.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_smoke_blasts.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_smoke_core.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_smoke_ground.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_blasts.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_bursts.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_burst_core.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_core.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_debris.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_debris_small.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_debris_trails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_distort.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_fallback.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_fallback2.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_flakes.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_ground.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_particulate.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_particulate_trails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_smoketrails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_smoketrails_child.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_smoketrails_rope.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_top.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_trails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_snow_upward_collision_check.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_sparktrails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_sparktrails_child.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_sparktrails_sparks.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_sparktrails_sparks_dots.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_trails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_blobs.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_column.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_column_central.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_column_sides.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_core.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_core_central.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_core_small.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_debris.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_debris_small.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_distort.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_drops.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_drop_trails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_drop_trails_fall.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_fallback.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_fish.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_intial.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_intial_trail.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_ripple.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_secondary.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_small_splashes.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_surface_bubbles.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_surface_bubbles_2nd.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_surface_distortion.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_surface_foam.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_trails.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_upward_collision_check.vpcf_c |
-particles/explosions_fx/explosion_hegrenade_water_vertical.vpcf_c |
-particles/explosions_fx/explosion_screen_c4_blood.vpcf_c |
-particles/explosions_fx/explosion_screen_c4_blood2.vpcf_c |
-particles/explosions_fx/explosion_screen_c4_blood_distance_culled.vpcf_c |
-particles/explosions_fx/explosion_screen_c4_blood_old.vpcf_c |
-particles/explosions_fx/explosion_screen_c4_fadeout.vpcf_c |
-particles/explosions_fx/explosion_screen_c4_fadeout_temp_pax.vpcf_c |
-particles/explosions_fx/explosion_screen_c4_red.vpcf_c |
-particles/explosions_fx/explosion_screen_c4_red_distance_culled.vpcf_c |
-particles/explosions_fx/explosion_screen_hegrenade_dirt.vpcf_c |
-particles/explosions_fx/explosion_screen_smokegrenade_new.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_adaptive.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_ct.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_distort.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_fallback.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_init.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_refract.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_s1_child_distort01c.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_s1_child_smoke03d_ring.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_s1_child_smoke03e.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_s1_child_smoke07b.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_s1_child_smoke_bottom.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_s1_smokegrenade.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_s1_smokegrenade_fallback.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_simulated.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_t.vpcf_c |
-particles/explosions_fx/explosion_smokegrenade_voxel.vpcf_c |
-particles/explosions_fx/explosion_smoke_disperse.vpcf_c |
-particles/explosions_fx/expl_coopmission_gas_explosion_debris_parents.vpcf_c |
-particles/explosions_fx/expl_coopmission_gas_explosion_debris_trails.vpcf_c |
-particles/explosions_fx/expl_coopmission_gas_explosion_main.vpcf_c |
-particles/explosions_fx/expl_coopmission_skyboom.vpcf_c |
-particles/explosions_fx/expl_coopmission_skyboom_core.vpcf_c |
-particles/explosions_fx/expl_coopmission_skyboom_shrapnel.vpcf_c |
-particles/explosions_fx/expl_coopmission_skyboom_smk01.vpcf_c |
-particles/explosions_fx/expl_coopmission_skyboom_sparks01.vpcf_c |
-particles/explosions_fx/expl_coopmission_skysmoke.vpcf_c |
-particles/explosions_fx/molotov_child_flame02a.vpcf_c |
-particles/explosions_fx/screen_blood_splatter.vpcf_c |
-particles/explosions_fx/screen_blood_splatter_a.vpcf_c |
-particles/explosions_fx/screen_blood_splatter_b.vpcf_c |
-particles/explosions_fx/zone_motes.vpcf_c |
-particles/explosions_fx/smokegrenade/smokegrendae.vsnap_c |
-particles/explosions_fx/smokegrenade/weapon_smokegrenade_adaptive.vsnap_c |
-particles/explosions_fx/smokegrenade/weapon_smokegrenade_pointcloud.vsnap_c |
-particles/explosions_fx/smokegrenade/weapon_smokegrenade_pointcloud_col.vsnap_c |
-particles/error/error.vpcf_c |
-particles/environment/ambient_leaves_01.vpcf_c |
-particles/environment/ambient_leaves_02.vpcf_c |
-particles/environment/ambient_leaves_02_cp.vpcf_c |
-particles/environment/ambient_paper_debris.vpcf_c |
-particles/environment/ambient_paper_debris_2.vpcf_c |
-particles/environment/directionallight_glow01.vpcf_c |
-particles/environment/directional_glow01_flare.vpcf_c |
-particles/environment/env_dust_emote.vpcf_c |
-particles/environment/env_light_glow_01.vpcf_c |
-particles/environment/env_light_glow_01_snapshot.vpcf_c |
-particles/environment/env_light_glow_beam_snapshot.vpcf_c |
-particles/environment/env_stringcablelights_cooltemp_snapshot.vpcf_c |
-particles/environment/env_stringcablelights_snapshot.vpcf_c |
-particles/environment/env_stringlights_cooltemp_snapshot.vpcf_c |
-particles/environment/env_stringlights_snapshot.vpcf_c |
-particles/environment/env_sunray_directional_flare.vpcf_c |
-particles/environment/env_sunray_glow_beam_noflare_snapshot.vpcf_c |
-particles/environment/env_sunray_glow_beam_snapshot.vpcf_c |
-particles/environment/env_sun_clear.vpcf_c |
-particles/environment/env_sun_clear_child.vpcf_c |
-particles/environment/env_sun_cloudy.vpcf_c |
-particles/environment/env_sun_floating_island.vpcf_c |
-particles/environment/env_sun_moon.vpcf_c |
-particles/environment/env_sun_screenspace_flare.vpcf_c |
-particles/environment/flared_light01.vpcf_c |
-particles/environment/glow01.vpcf_c |
-particles/environment/glow01_bloom.vpcf_c |
-particles/environment/glow01_flare.vpcf_c |
-particles/environment/glow01_snapshot.vpcf_c |
-particles/environment/glow01_snapshot_child.vpcf_c |
-particles/environment/light_glow_01.vpcf_c |
-particles/environment/omnilight_glow01.vpcf_c |
-particles/environment/soft_glow01.vpcf_c |
-particles/environment/sun_clear.vpcf_c |
-particles/environment/water_drip_area_01.vpcf_c |
-particles/environment/water_drip_area_01_fewer_drips.vpcf_c |
-particles/environment/water_drip_area_01_small.vpcf_c |
-particles/environment/water_drip_area_01_smaller_area.vpcf_c |
-particles/environment/water_drip_area_01_small_origin.vpcf_c |
-particles/environment/water_drip_splash_01.vpcf_c |
-particles/environment/de_train/train_coal_dump.vpcf_c |
-particles/environment/de_train/train_coal_dump_trails.vpcf_c |
-particles/environment/de_train/train_coal_train_smoke.vpcf_c |
-particles/environment/de_train/train_lightning.vpcf_c |
-particles/entity/grenade_path_snap.vsnap_c |
-particles/entity/path_particle_c4_wires.vpcf_c |
-particles/entity/path_particle_cable_default.vpcf_c |
-particles/entity/path_particle_cable_nuke.vpcf_c |
-particles/entity/path_particle_cable_static.vpcf_c |
-particles/entity/path_particle_cable_static_cheap.vpcf_c |
-particles/entity/path_particle_cable_static_cheap_opaque.vpcf_c |
-particles/entity/path_particle_cable_static_translucent.vpcf_c |
-particles/entity/path_particle_cable_static_white.vpcf_c |
-particles/entity/path_particle_cable_tintable.vpcf_c |
-particles/entity/path_particle_cable_yellow.vpcf_c |
-particles/entity/spectator_utility_trail.vpcf_c |
-particles/entity/env_explosion/explosion_hegrenade_a.vpcf_c |
-particles/entity/env_explosion/explosion_hegrenade_b.vpcf_c |
-particles/entity/env_explosion/explosion_hegrenade_c.vpcf_c |
-particles/entity/env_explosion/explosion_hegrenade_d.vpcf_c |
-particles/entity/env_explosion/explosion_hegrenade_e.vpcf_c |
-particles/entity/env_explosion/explosion_hegrenade_f.vpcf_c |
-particles/entity/env_explosion/explosion_hegrenade_flash.vpcf_c |
-particles/entity/env_explosion/explosion_hegrenade_g.vpcf_c |
-particles/entity/env_explosion/explosion_hegrenade_h.vpcf_c |
-particles/entity/env_explosion/explosion_hegrenade_model.vpcf_c |
-particles/entity/env_explosion/explosion_hegrenade_model_sphere.vpcf_c |
-particles/entity/env_explosion/test_explosion_smoke_overbright_saturation.vpcf_c |
-particles/entity/env_explosion/test_particle_composite_dark_outline.vpcf_c |
-particles/entity/env_explosion/test_particle_composite_dark_outline_glow.vpcf_c |
-particles/entity/env_explosion/test_particle_composite_dark_outline_smoke.vpcf_c |
-particles/entity/env_explosion/test_particle_lighting.vpcf_c |
-particles/dev/add_self.vpcf_c |
-particles/dev/burning_fire_test.vpcf_c |
+particles/barrel_burning_engine_smoke2.vpcf_c
+particles/barrel_burning_engine_smoke_cheap.vpcf_c
+particles/weapon_muzzle_flash_huntingrifle_main.vpcf_c
+particles/weapons/models/grenade/molotov/weapon_molotov/molotov_ragfx.vsnap_c
+particles/weapons/keychains/missinglink/vmdl/kc_missinglink_sam_diamond/kc_body.vsnap_c
+particles/weapons/keychains/missinglink/vmdl/kc_missinglink_sam_diamond/kc_feet.vsnap_c
+particles/weapons/keychains/missinglink/vmdl/kc_missinglink_sam_diamond/kc_head.vsnap_c
+particles/weapons/cs_weapon_fx/bumpmine_active.vpcf_c
+particles/weapons/cs_weapon_fx/bumpmine_active_glow.vpcf_c
+particles/weapons/cs_weapon_fx/bumpmine_active_glow2.vpcf_c
+particles/weapons/cs_weapon_fx/bumpmine_active_glow_outer.vpcf_c
+particles/weapons/cs_weapon_fx/bumpmine_player_trail.vpcf_c
+particles/weapons/cs_weapon_fx/confettib_a.vpcf_c
+particles/weapons/cs_weapon_fx/confettib_a_omni.vpcf_c
+particles/weapons/cs_weapon_fx/confettib_b.vpcf_c
+particles/weapons/cs_weapon_fx/confettib_b_omni.vpcf_c
+particles/weapons/cs_weapon_fx/confettib_c.vpcf_c
+particles/weapons/cs_weapon_fx/confettib_c_omni.vpcf_c
+particles/weapons/cs_weapon_fx/confetti_a.vpcf_c
+particles/weapons/cs_weapon_fx/confetti_a_omni.vpcf_c
+particles/weapons/cs_weapon_fx/confetti_b.vpcf_c
+particles/weapons/cs_weapon_fx/confetti_balloons.vpcf_c
+particles/weapons/cs_weapon_fx/confetti_b_omni.vpcf_c
+particles/weapons/cs_weapon_fx/confetti_c.vpcf_c
+particles/weapons/cs_weapon_fx/confetti_c_omni.vpcf_c
+particles/weapons/cs_weapon_fx/dronegun_laser_sight.vpcf_c
+particles/weapons/cs_weapon_fx/dronegun_laser_sight_dot.vpcf_c
+particles/weapons/cs_weapon_fx/dronegun_laser_sight_dot_0.vpcf_c
+particles/weapons/cs_weapon_fx/mvp_tracers_bg.vpcf_c
+particles/weapons/cs_weapon_fx/mvp_tracer_here.vpcf_c
+particles/weapons/cs_weapon_fx/snowball_pile.vpcf_c
+particles/weapons/cs_weapon_fx/snowball_pile_puddle.vpcf_c
+particles/weapons/cs_weapon_fx/snowball_pile_snow.vpcf_c
+particles/weapons/cs_weapon_fx/snow_hit_player_screeneffect.vpcf_c
+particles/weapons/cs_weapon_fx/snow_hit_player_screeneffect_b.vpcf_c
+particles/weapons/cs_weapon_fx/snow_hit_player_screeneffect_bb.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_confetti.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_confetti_balloons.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_confetti_cheap.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_confetti_omni.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_confetti_omni_cheap.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_confetti_sparks.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_confetti_sparks_2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_decoy_ground_effect.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_decoy_ground_effect_shot.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_decoy_ground_embers_01.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_decoy_ground_low_02.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_decoy_ground_low_03.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_decoy_ground_low_04.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_decoy_ground_primary_01.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_decoy_ground_smoke_01.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_empty.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_grenade_pin.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_grenade_spoon.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_incend_core_sparks.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_incend_held.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_incend_held_fps.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_incend_held_sparks.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_incend_thrown.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire3b.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire3c.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire3d.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_fp_fire_blue.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_fp_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_fp_wick.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_held.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_held_fps.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_thrown.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_thrown_child1.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_thrown_child3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_molotov_thrown_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzleflash_illumination.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzleflash_illumination_add.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_confetti_shooter.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_fallback2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_main.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_main_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_main_sub1.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_main_sub2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_main_sub3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_parent_silenced.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_silenced.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_silenced_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_vent.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_vent_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_vent_fire.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_vent_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assaultrifle_vent_fp_cheap.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_assualtrifle_flame.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_fallback2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_fp_cheap.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_main.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_main2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_autoshotgun_main3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_awp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_awp_tracer.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_fp_cheap.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_main.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_main2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_main_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_huntingrifle_vent1.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_b.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_fallback2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_flash.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_fp_cheap.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_main.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_main2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_main_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_tracers.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_para_vent1.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_core.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_core2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_elite.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_elite_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_fallback2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_fp_cheap.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_main.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_main2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_main2_silenced.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_pistol_silenced.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_fp_cheap.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_glow2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_glow3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_main.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_shotgun_main2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_backup.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_fallback2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_fp_cheap.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_glow2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_glow3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_glow_silenced.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_main.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_main2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_main_silenced.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_parent.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_parent_silenced.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_silenced.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_silenced_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smg_silenced_fp_cheap.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_medium.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_small.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_small2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_small3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_small4.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_smoke_smallest.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks4.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks5.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks6.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_sparks7.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_taser.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_taser_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_flash_taser_fallback2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_smoke.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_smoke_b.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_smoke_b_version_2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_smoke_long.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_muzzle_smoke_long_b.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_beeplight.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_beeplight_inner.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_debris.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_detlight.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_detlight_child01.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_detlight_child02.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_detonate.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_glowring.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_smoke.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_spark_01.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_spark_02.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_spark_02b.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_spark_03.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_sensorgren_wiggly.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_45acp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_50cal.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_50cal_bonus.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_50cal_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_57.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_9mm.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_9mm_backup.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_9mm_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_9mm_fp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_9mm_fp_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_awp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_candycorn.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_deagle.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_minigun.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_minigun_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_rifle.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_rifle_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_shotgun.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_shotgun_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_shotgun_nova.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail_base.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail_smoke.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail_sparks.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_casing_super_trail_sparks2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_assrifle2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_assrifle3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_awp2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_awp3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_para2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_para3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_pistol1.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_pistol2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_pistol3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_pistol_elite.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_rifle2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_rifle3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_shotgun1.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_shotgun2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_shotgun3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_smg1.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_shell_eject_smoke_smg3.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_snowball_impact.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_snowball_impact_child_base.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_snowball_impact_child_smoke_puff.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_snowball_impact_screen.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_snowball_impact_splash.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_snowball_impact_splat.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_snowball_impact_splat_2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_snowball_impact_stuck_wall.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_snowball_trail.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_snowball_trail_2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_taser_flash.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_taser_flash_impact.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_taser_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_taser_glow_impact.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_taser_sparks.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_taser_sparks_impact.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_50cal.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_50cal_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_50cal_low.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_50cal_low_glow.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_assrifle.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_assrifle_aug.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_assrifle_aug_b.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_backup.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_mach.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_original.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_pistol.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_rifle.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_rifle_scar.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_rifle_ssg.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_rifle_wisp.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_rifle_wisp_cpsetup.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_rifle_wisp_scar.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_rifle_wisp_ssg.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_shot.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_smg.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_taser.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_taser_fallback.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_taser_fallback2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_taser_wire1a.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_taser_wire1b.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_tracers_taser_wire2.vpcf_c
+particles/weapons/cs_weapon_fx/weapon_wallbang_risidual_tracers.vpcf_c
+particles/water_impact/boat_foam.vpcf_c
+particles/water_impact/boat_foam_small.vpcf_c
+particles/water_impact/slime_splash_01.vpcf_c
+particles/water_impact/slime_splash_01_droplets.vpcf_c
+particles/water_impact/slime_splash_01_reversed.vpcf_c
+particles/water_impact/slime_splash_01_surface.vpcf_c
+particles/water_impact/slime_splash_02.vpcf_c
+particles/water_impact/slime_splash_03.vpcf_c
+particles/water_impact/water_bubble_ambient_1.vpcf_c
+particles/water_impact/water_bubble_trail_1.vpcf_c
+particles/water_impact/water_foam_01c.vpcf_c
+particles/water_impact/water_foam_01d.vpcf_c
+particles/water_impact/water_foam_line_longb.vpcf_c
+particles/water_impact/water_foam_line_longc.vpcf_c
+particles/water_impact/water_foam_line_shortb.vpcf_c
+particles/water_impact/water_foam_line_shortc.vpcf_c
+particles/water_impact/water_gunk_1.vpcf_c
+particles/water_impact/water_impact_bubbles_1.vpcf_c
+particles/water_impact/water_impact_bubbles_1b.vpcf_c
+particles/water_impact/water_impact_bubbles_1c.vpcf_c
+particles/water_impact/water_splash_01.vpcf_c
+particles/water_impact/water_splash_01_blood.vpcf_c
+particles/water_impact/water_splash_01_bubbles.vpcf_c
+particles/water_impact/water_splash_01_column.vpcf_c
+particles/water_impact/water_splash_01_droplets.vpcf_c
+particles/water_impact/water_splash_01_droplets_fallback.vpcf_c
+particles/water_impact/water_splash_01_droplet_trails.vpcf_c
+particles/water_impact/water_splash_01_droplet_trails_fallback.vpcf_c
+particles/water_impact/water_splash_01_fallback.vpcf_c
+particles/water_impact/water_splash_01_fish.vpcf_c
+particles/water_impact/water_splash_01_foam.vpcf_c
+particles/water_impact/water_splash_01_foam_delay.vpcf_c
+particles/water_impact/water_splash_01_foam_surface.vpcf_c
+particles/water_impact/water_splash_01_ripple_rings.vpcf_c
+particles/water_impact/water_splash_01_ripple_rings_secondary.vpcf_c
+particles/water_impact/water_splash_01_ripple_splash.vpcf_c
+particles/water_impact/water_splash_01_silt.vpcf_c
+particles/water_impact/water_splash_01_silt_gradual.vpcf_c
+particles/water_impact/water_splash_01_splash.vpcf_c
+particles/water_impact/water_splash_01_splash_secondary.vpcf_c
+particles/water_impact/water_splash_01_splash_tall.vpcf_c
+particles/water_impact/water_splash_01_surface2.vpcf_c
+particles/water_impact/water_splash_01_surface3.vpcf_c
+particles/water_impact/water_splash_01_surface3_dist.vpcf_c
+particles/water_impact/water_splash_01_surface3_fallback.vpcf_c
+particles/water_impact/water_splash_01_surface4.vpcf_c
+particles/water_impact/water_splash_01_surface4_after.vpcf_c
+particles/water_impact/water_splash_01_surface_delay.vpcf_c
+particles/water_impact/water_splash_02.vpcf_c
+particles/water_impact/water_splash_02_continuous.vpcf_c
+particles/water_impact/water_splash_02_droplets.vpcf_c
+particles/water_impact/water_splash_02_droplets_version_2.vpcf_c
+particles/water_impact/water_splash_02_froth.vpcf_c
+particles/water_impact/water_splash_02_froth2.vpcf_c
+particles/water_impact/water_splash_02_surface2.vpcf_c
+particles/water_impact/water_splash_02_vertical.vpcf_c
+particles/water_impact/water_splash_03.vpcf_c
+particles/water_impact/water_splash_03_column.vpcf_c
+particles/water_impact/water_splash_03_fallback.vpcf_c
+particles/water_impact/water_splash_03_foam_surface_2nd.vpcf_c
+particles/water_impact/water_splash_base_splash.vpcf_c
+particles/water_impact/water_splash_column_wide.vpcf_c
+particles/water_impact/water_splash_leakypipe_silo.vpcf_c
+particles/water_impact/water_splash_leakypipe_silo_froth2.vpcf_c
+particles/water_impact/water_splash_leakypipe_vertical.vpcf_c
+particles/water_impact/water_splash_object_ripple_rings.vpcf_c
+particles/water_impact/water_splash_object_splash.vpcf_c
+particles/water_impact/water_splash_object_surface_foam.vpcf_c
+particles/water_impact/water_splash_player_small.vpcf_c
+particles/water_impact/water_splash_player_small_droplets.vpcf_c
+particles/water_impact/water_splash_player_small_ripple.vpcf_c
+particles/water_impact/water_splash_player_small_surface.vpcf_c
+particles/water_fx/waterfall_anubis.vpcf_c
+particles/water_fx/waterfall_anubis_base_foam.vpcf_c
+particles/water_fx/waterfall_base.vpcf_c
+particles/water_fx/waterfall_base_bubbles.vpcf_c
+particles/water_fx/waterfall_base_colliders.vpcf_c
+particles/water_fx/waterfall_base_collision_bounce.vpcf_c
+particles/water_fx/waterfall_base_fish.vpcf_c
+particles/water_fx/waterfall_base_foam.vpcf_c
+particles/water_fx/waterfall_base_foam_flat.vpcf_c
+particles/water_fx/waterfall_base_ripples.vpcf_c
+particles/water_fx/waterfall_base_splash_blobs.vpcf_c
+particles/water_fx/water_wake_continuous_droplets.vpcf_c
+particles/water_fx/water_wake_continuous_ripple_colliders.vpcf_c
+particles/water_fx/water_wake_continuous_ripple_sides.vpcf_c
+particles/water_fx/water_wake_continuous_silt.vpcf_c
+particles/water_fx/water_wake_continuous_splash.vpcf_c
+particles/water_fx/water_wake_continuous_surface_bubbles.vpcf_c
+particles/water_fx/water_wake_fast.vpcf_c
+particles/water_fx/water_wake_fast_droplets.vpcf_c
+particles/water_fx/water_wake_fast_foam.vpcf_c
+particles/water_fx/water_wake_fast_ripple_colliders.vpcf_c
+particles/water_fx/water_wake_fast_ripple_rings.vpcf_c
+particles/water_fx/water_wake_fast_ripple_rings_collision_bounce.vpcf_c
+particles/water_fx/water_wake_fast_ripple_rings_foam.vpcf_c
+particles/water_fx/water_wake_fast_ripple_rings_secondary.vpcf_c
+particles/water_fx/water_wake_fast_ripple_ropes.vpcf_c
+particles/water_fx/water_wake_fast_ripple_sides.vpcf_c
+particles/water_fx/water_wake_fast_silt.vpcf_c
+particles/water_fx/water_wake_fast_splash.vpcf_c
+particles/water_fx/water_wake_fast_surface_bubbles.vpcf_c
+particles/water_fx/water_wake_fixed_ripple_rings.vpcf_c
+particles/water_fx/water_wake_fixed_silt.vpcf_c
+particles/water_fx/water_wake_medium.vpcf_c
+particles/water_fx/water_wake_slow.vpcf_c
+particles/water_fx/water_wake_slow_ripple_left.vpcf_c
+particles/water_fx/water_wake_slow_ripple_right.vpcf_c
+particles/water_fx/water_wake_slow_ripple_rings.vpcf_c
+particles/water_fx/water_wake_slow_ripple_rings_constant.vpcf_c
+particles/water_fx/water_wake_slow_ripple_rings_later.vpcf_c
+particles/water_fx/water_wake_slow_ripple_sides.vpcf_c
+particles/water_fx/water_wake_slow_silt.vpcf_c
+particles/water_fx/water_wake_slow_surface_bubbles.vpcf_c
+particles/water_fx/water_wake_splash.vpcf_c
+particles/water_fx/water_wake_splash_foam_surface.vpcf_c
+particles/water_fx/water_wake_splash_foam_surface_2nd.vpcf_c
+particles/water_fx/water_wake_splash_splash.vpcf_c
+particles/water_fx/water_wake_splash_splash_2nd.vpcf_c
+particles/water_fx/water_wake_splash_upward.vpcf_c
+particles/water_fx/water_wake_trail.vpcf_c
+particles/water_fx/water_wake_trail_left.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_ak47.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_ak47_compensator_flash.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_ak47_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_ak47_primaryflash.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_ak47_primaryflash_alt.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_aug.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_aug_compensator_flash.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_aug_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_aug_fps_ironsight.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_aug_ironsight.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_aug_primarybeam.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_aug_primaryflash.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_awp_primaryflash.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_awp_primaryflash_alt.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_deagle.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_deagle_compensator_flash.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_deagle_fakelight.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_deagle_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_deagle_gen_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_deagle_primaryflash.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_deagle_primaryflash_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_fakelight.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_fakelight_64.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_fakelight_ironsight.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_g3sg1_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_gen_beam.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_gen_empty.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_gen_empty_gp1.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_gen_large_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_gen_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_gen_smokeleft.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_gen_smokeright.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_gen_spark.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_ground_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_mach.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_mach_compensator_flash.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_mach_empty_gp1.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_mach_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_mach_primarybeam.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_mach_primaryflash.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_mach_primaryflash_alt.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_mach_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_mach_spark.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_riffle.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_riffle_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_riffle_lrg.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_riffle_lrg_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_sg_fps_ironsight.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_shot.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_shot_compensator_flash.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_shot_empty_gp1.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_shot_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_shot_primarybeam.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_shot_primaryflash.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_shot_primaryflash_alt.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_shot_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_shot_spark.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_ssg08n_rightbreak.vpcf_c
+particles/unified_weapon_fx/uweapon_muzflsh_ssg08_leftbreak.vpcf_c
+particles/unified_weapon_fx/uweapon_muzsilenced_p90subm.vpcf_c
+particles/unified_weapon_fx/uweapon_muzsilenced_p90subm_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzsilenced_rif.vpcf_c
+particles/unified_weapon_fx/uweapon_muzsilenced_rif_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzsilenced_subm.vpcf_c
+particles/unified_weapon_fx/uweapon_muzsilenced_subm_beam.vpcf_c
+particles/unified_weapon_fx/uweapon_muzsilenced_subm_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzsilenced_subm_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist_beam.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist_empty.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist_fakelight.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist_fire.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist_fire_alt.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist_fire_revolver.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist_revolver.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist_revolver_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_pist_spark.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_revolver_empty.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_revolver_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_rifl_break.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_rifl_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_subm.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_subm_beam.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_subm_empty.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_subm_fakelight.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_subm_fire.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_subm_fire_alt.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_subm_fps.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_subm_p90beam.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_subm_smoke.vpcf_c
+particles/unified_weapon_fx/uweapon_muzzleflash_subm_spark.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_awp_flare.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_awp_spark.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_basic.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_basic_empty.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_basic_fire.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_basic_fire_alt.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_basic_fire_long.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_basic_smoke.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_basic_spark.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_snip.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_snip_ar.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_snip_ar_fps.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_snip_fps.vpcf_c
+particles/unified_weapon_fx/weapon_muzzleflash_ssg08.vpcf_c
+particles/ui/premier_matchstakes_promo_vert.vpcf_c
+particles/ui/premier_matchstakes_relegation_vert.vpcf_c
+particles/ui/premier_ratings_bg.vpcf_c
+particles/ui/premier_ratings_bg_delay.vpcf_c
+particles/ui/premier_ratings_bot_mask.vpcf_c
+particles/ui/premier_ratings_delay.vpcf_c
+particles/ui/premier_ratings_edge.vpcf_c
+particles/ui/premier_ratings_first.vpcf_c
+particles/ui/premier_ratings_ispromo.vpcf_c
+particles/ui/premier_ratings_ispromo_vert.vpcf_c
+particles/ui/premier_ratings_isrele.vpcf_c
+particles/ui/premier_ratings_isrele_vert.vpcf_c
+particles/ui/premier_ratings_mask.vpcf_c
+particles/ui/premier_ratings_matchstakes.vpcf_c
+particles/ui/premier_ratings_matchstakes_promo.vpcf_c
+particles/ui/premier_ratings_matchstakes_relegation.vpcf_c
+particles/ui/premier_ratings_matchstakes_wipe.vpcf_c
+particles/ui/premier_ratings_matchstart.vpcf_c
+particles/ui/premier_ratings_matchstart_promo.vpcf_c
+particles/ui/premier_ratings_matchstart_vert.vpcf_c
+particles/ui/premier_ratings_promomatch.vpcf_c
+particles/ui/premier_ratings_promotion_bars.vpcf_c
+particles/ui/premier_ratings_relegation.vpcf_c
+particles/ui/premier_ratings_relegation_bars.vpcf_c
+particles/ui/premier_ratings_relegation_delay.vpcf_c
+particles/ui/premier_ratings_relegation_first.vpcf_c
+particles/ui/premier_ratings_relegation_second.vpcf_c
+particles/ui/premier_ratings_right_mask.vpcf_c
+particles/ui/premier_ratings_sparks.vpcf_c
+particles/ui/premier_ratings__second.vpcf_c
+particles/ui/rank_carepackage_bg_base.vpcf_c
+particles/ui/rank_carepackage_bg_endcap.vpcf_c
+particles/ui/rank_carepackage_bg_mask.vpcf_c
+particles/ui/rank_carepackage_bg_top.vpcf_c
+particles/ui/rank_carepackage_bg_top_electraical.vpcf_c
+particles/ui/rank_carepackage_recieve.vpcf_c
+particles/ui/rank_carepackage_recieve_hit.vpcf_c
+particles/ui/rank_carepackage_recieve_mask.vpcf_c
+particles/ui/rank_carepackage_recieve_radar.vpcf_c
+particles/ui/tournament_tile.vpcf_c
+particles/ui/tournament_tile_cubes.vpcf_c
+particles/ui/tournament_tile_glow.vpcf_c
+particles/ui/tournament_tile_lineglow.vpcf_c
+particles/ui/tournament_tile_radiate.vpcf_c
+particles/ui/tournament_tile_splash.vpcf_c
+particles/ui/ui_circle_play.vpcf_c
+particles/ui/ui_electric_exp_glow.vpcf_c
+particles/ui/ui_electric_gold.vpcf_c
+particles/ui/ui_electric_gold_elec.vpcf_c
+particles/ui/ui_electric_gold_ends.vpcf_c
+particles/ui/ui_element_horiz_star.vpcf_c
+particles/ui/ui_element_horiz_star_glitter.vpcf_c
+particles/ui/ui_element_horiz_star_glow.vpcf_c
+particles/ui/ui_experience_award.vpcf_c
+particles/ui/ui_experience_award_a.vpcf_c
+particles/ui/ui_experience_award_electricshock.vpcf_c
+particles/ui/ui_experience_award_innerpoint.vpcf_c
+particles/ui/ui_experience_award_outer.vpcf_c
+particles/ui/ui_experience_award_rollingrings.vpcf_c
+particles/ui/ui_experience_award_rollingrings_inner.vpcf_c
+particles/ui/ui_experience_max.vpcf_c
+particles/ui/ui_experience_max_b.vpcf_c
+particles/ui/ui_experience_max_elec.vpcf_c
+particles/ui/ui_experience_max_innerpoints.vpcf_c
+particles/ui/ui_experience_max_outer.vpcf_c
+particles/ui/ui_experience_ring.vpcf_c
+particles/ui/ui_experience_ring_a.vpcf_c
+particles/ui/ui_experience_static.vpcf_c
+particles/ui/ui_exp_streak.vpcf_c
+particles/ui/ui_exp_streak_base.vpcf_c
+particles/ui/ui_exp_streak_emblem.vpcf_c
+particles/ui/ui_exp_streak_t0.vpcf_c
+particles/ui/ui_exp_streak_t1.vpcf_c
+particles/ui/ui_exp_streak_t2.vpcf_c
+particles/ui/ui_exp_streak_t3.vpcf_c
+particles/ui/ui_exp_streak_t4.vpcf_c
+particles/ui/ui_exp_streak_t5.vpcf_c
+particles/ui/ui_exp_streak_t6.vpcf_c
+particles/ui/ui_exp_streak_t7.vpcf_c
+particles/ui/ui_gold_award_tier_1.vpcf_c
+particles/ui/ui_gold_award_tier_1_burst.vpcf_c
+particles/ui/ui_gold_award_tier_1_burst_circle.vpcf_c
+particles/ui/ui_gold_award_tier_1_rays.vpcf_c
+particles/ui/ui_gold_award_tier_1_spark.vpcf_c
+particles/ui/ui_gold_award_tier_2.vpcf_c
+particles/ui/ui_gold_award_tier_2_flare.vpcf_c
+particles/ui/ui_gold_award_tier_3.vpcf_c
+particles/ui/ui_gold_award_tier_3_a.vpcf_c
+particles/ui/ui_gold_award_tier_3_b.vpcf_c
+particles/ui/ui_gold_award_tier_3_c.vpcf_c
+particles/ui/ui_gold_halo_flare.vpcf_c
+particles/ui/ui_gold_halo_rays.vpcf_c
+particles/ui/ui_gold_halo_rays_radiate.vpcf_c
+particles/ui/ui_gold_halo_rays_roll.vpcf_c
+particles/ui/ui_gold_halo_rays_rot.vpcf_c
+particles/ui/ui_gold_halo_sparkles.vpcf_c
+particles/ui/ui_hud_kill_lvl_base.vpcf_c
+particles/ui/ui_hud_kill_lvl_glow.vpcf_c
+particles/ui/ui_hud_kill_lvl_motion.vpcf_c
+particles/ui/ui_hud_kill_lvl_steamy.vpcf_c
+particles/ui/ui_item_highrank_init.vpcf_c
+particles/ui/ui_item_oscilliscope_follow.vpcf_c
+particles/ui/ui_item_oscilliscope_guide_follow.vpcf_c
+particles/ui/ui_item_oscilliscope_guide_init.vpcf_c
+particles/ui/ui_item_oscilliscope_init.vpcf_c
+particles/ui/ui_item_oscilliscope_shooter.vpcf_c
+particles/ui/ui_item_present_bgglow_boid.vpcf_c
+particles/ui/ui_item_present_bgglow_burst.vpcf_c
+particles/ui/ui_item_present_bgglow_rays.vpcf_c
+particles/ui/ui_item_present_bgglow_void.vpcf_c
+particles/ui/ui_item_present_bokeh.vpcf_c
+particles/ui/ui_item_present_floating.vpcf_c
+particles/ui/ui_item_present_lighting.vpcf_c
+particles/ui/ui_item_present_miltary_radar.vpcf_c
+particles/ui/ui_item_present_rainbowflare.vpcf_c
+particles/ui/ui_item_present_rays.vpcf_c
+particles/ui/ui_mainmenu_active_search.vpcf_c
+particles/ui/ui_mainmenu_active_search_glowedge.vpcf_c
+particles/ui/ui_mainmenu_active_search_glowedge_gold.vpcf_c
+particles/ui/ui_mainmenu_active_search_gold.vpcf_c
+particles/ui/ui_mainmenu_active_search_gold_glowedge.vpcf_c
+particles/ui/ui_mainmenu_active_search_gold_lines.vpcf_c
+particles/ui/ui_mainmenu_active_search_gold_sprks.vpcf_c
+particles/ui/ui_mainmenu_active_search_lines.vpcf_c
+particles/ui/ui_mainmenu_navbar_press.vpcf_c
+particles/ui/ui_mainmenu_navbar_press_b.vpcf_c
+particles/ui/ui_mainmenu_nav_hover.vpcf_c
+particles/ui/ui_mainmenu_nav_play.vpcf_c
+particles/ui/ui_mainmenu_nav_play_mg.vpcf_c
+particles/ui/ui_mainmenu_nav_play_mg_horizontal.vpcf_c
+particles/ui/ui_mainmenu_nav_play_mg_mask.vpcf_c
+particles/ui/ui_mainmenu_playaction_active.vpcf_c
+particles/ui/ui_mainmenu_playaction_active_clouds.vpcf_c
+particles/ui/ui_mainmenu_playaction_active_gold.vpcf_c
+particles/ui/ui_mainmenu_playaction_active_gold_burst.vpcf_c
+particles/ui/ui_mainmenu_playaction_active_gold_clouds.vpcf_c
+particles/ui/ui_mainmenu_playaction_active_gold_press.vpcf_c
+particles/ui/ui_mainmenu_playaction_active_lines.vpcf_c
+particles/ui/ui_mainmenu_playaction_mask_scanline.vpcf_c
+particles/ui/ui_mainmenu_playaction_press.vpcf_c
+particles/ui/ui_map_mvp_fire_embers.vpcf_c
+particles/ui/ui_mvp_embers.vpcf_c
+particles/ui/ui_new_item_present.vpcf_c
+particles/ui/ui_position_test.vpcf_c
+particles/ui/ui_press_target_circles.vpcf_c
+particles/ui/ui_radial_web.vpcf_c
+particles/ui/xpshop/hex_grid_psf.vsnap_c
+particles/ui/xpshop/hex_screen.vpcf_c
+particles/ui/xpshop/ui_activate_cirlces.vpcf_c
+particles/ui/xpshop/xpshop_ambient_embers_black.vpcf_c
+particles/ui/xpshop/xpshop_ambient_embers_bright.vpcf_c
+particles/ui/xpshop/xpshop_ambient_embers_falling.vpcf_c
+particles/ui/xpshop/xpshop_ambient_highlight.vpcf_c
+particles/ui/xpshop/xpshop_ambient_highlight_select.vpcf_c
+particles/ui/xpshop/xpshop_ambient_highlight_uplight.vpcf_c
+particles/ui/xpshop/xpshop_highrank_init.vpcf_c
+particles/ui/xpshop/xpshop_oscilliscope_follow.vpcf_c
+particles/ui/xpshop/xpshop_oscilliscope_guns.vpcf_c
+particles/ui/xpshop/xpshop_oscilliscope_runner.vpcf_c
+particles/ui/xpshop/xpshop_oscilliscope_shooter.vpcf_c
+particles/ui/xpshop/xpshop_oscilliscope_shooter_room.vpcf_c
+particles/ui/xpshop/xpshop_oscilliscope__shooter_room.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_blank.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_edge_bottom.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_edge_left.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_edge_right.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_edge_top.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_glam_burst.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_glam_energy.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_glam_flow.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_glam_flow_sparks.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_glam_glow.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_glam_rays.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_title.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_title_glow.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_title_plasma.vpcf_c
+particles/ui/xpshop/xpshop_panel_corners_title_rays.vpcf_c
+particles/ui/xpshop/xpshop_panel_right_glow.vpcf_c
+particles/ui/xpshop/xpshop_panel_rising_squares.vpcf_c
+particles/ui/xpshop/xpshop_panel_select.vpcf_c
+particles/ui/xpshop/xpshop_panel_select_cubes.vpcf_c
+particles/ui/xpshop/xpshop_panel_select_glow.vpcf_c
+particles/ui/xpshop/xpshop_panel_select_lineglow.vpcf_c
+particles/ui/xpshop/xpshop_panel_select_radiate.vpcf_c
+particles/ui/xpshop/xpshop_panel_select_splash.vpcf_c
+particles/ui/xpshop/xpshop_present_bgglow_boid.vpcf_c
+particles/ui/xpshop/xpshop_present_bgglow_burst.vpcf_c
+particles/ui/xpshop/xpshop_present_bgglow_rays.vpcf_c
+particles/ui/xpshop/xpshop_present_floating.vpcf_c
+particles/ui/xpshop/xpshop_present_miltary_radar.vpcf_c
+particles/ui/xpshop/xpshop_present_rays.vpcf_c
+particles/ui/xpshop/xpshop_present_request_item.vpcf_c
+particles/ui/xpshop/xp_track_radial_feedbak_glow.vpcf_c
+particles/ui/xpshop/xp_track_radial_feedbak_starhit.vpcf_c
+particles/ui/xpshop/xp_track_radial_fringhold_glow.vpcf_c
+particles/ui/xpshop/xp_track_radial_ring.vpcf_c
+particles/ui/xpshop/xp_track_radial_ring_endcap.vpcf_c
+particles/ui/ui_hud/ui_map_mvp_fire.vpcf_c
+particles/ui/ui_hud/ui_map_mvp_fire_body.vpcf_c
+particles/ui/ui_hud/ui_map_mvp_fire_bodyfire.vpcf_c
+particles/ui/ui_hud/ui_map_mvp_fire_deathfire.vpcf_c
+particles/ui/status_levels/shield_trace.vsnap_c
+particles/ui/status_levels/ui_item_present_bgglow.vpcf_c
+particles/ui/status_levels/ui_status_level7_lightning.vpcf_c
+particles/ui/status_levels/ui_status_level7_lightninga.vpcf_c
+particles/ui/status_levels/ui_status_level7_lightninga0.vpcf_c
+particles/ui/status_levels/ui_status_level_1.vpcf_c
+particles/ui/status_levels/ui_status_level_1_a.vpcf_c
+particles/ui/status_levels/ui_status_level_1_a_right.vpcf_c
+particles/ui/status_levels/ui_status_level_1_base.vpcf_c
+particles/ui/status_levels/ui_status_level_1_baseglow.vpcf_c
+particles/ui/status_levels/ui_status_level_2.vpcf_c
+particles/ui/status_levels/ui_status_level_3.vpcf_c
+particles/ui/status_levels/ui_status_level_3a.vpcf_c
+particles/ui/status_levels/ui_status_level_3b.vpcf_c
+particles/ui/status_levels/ui_status_level_3c.vpcf_c
+particles/ui/status_levels/ui_status_level_3d.vpcf_c
+particles/ui/status_levels/ui_status_level_3_base.vpcf_c
+particles/ui/status_levels/ui_status_level_4.vpcf_c
+particles/ui/status_levels/ui_status_level_4_energycirc.vpcf_c
+particles/ui/status_levels/ui_status_level_5.vpcf_c
+particles/ui/status_levels/ui_status_level_6.vpcf_c
+particles/ui/status_levels/ui_status_level_6_shieldglow.vpcf_c
+particles/ui/status_levels/ui_status_level_7.vpcf_c
+particles/ui/status_levels/ui_status_level_7_energycirc.vpcf_c
+particles/ui/status_levels/ui_status_level_7_shieldglow.vpcf_c
+particles/ui/status_levels/ui_status_level_7_sparkles.vpcf_c
+particles/ui/status_levels/ui_status_level_8.vpcf_c
+particles/ui/status_levels/ui_status_level_8_energycirc.vpcf_c
+particles/ui/status_levels/ui_status_level_interactive_burst.vpcf_c
+particles/ui/status_levels/ui_status_level_wings.vpcf_c
+particles/ui/status_levels/ui_status_level_wings_flares.vpcf_c
+particles/ui/status_levels/ui_status_level_wings_ropes.vpcf_c
+particles/ui/status_levels/ui_status_level_wing_r.vpcf_c
+particles/ui/status_levels/ui_status_level__gen_burst.vpcf_c
+particles/ui/status_levels/ui_status_level__gen_burst_circles.vpcf_c
+particles/ui/status_levels/ui_status_level__gen_burst_hit.vpcf_c
+particles/ui/status_levels/ui_status_level__gen_glow.vpcf_c
+particles/ui/snapshots/cs_chicken.vsnap_c
+particles/ui/snapshots/cs_guns.vsnap_c
+particles/ui/snapshots/cs_runner.vsnap_c
+particles/ui/snapshots/cs_shooter.vsnap_c
+particles/ui/snapshots/cs_shooter_room.vsnap_c
+particles/ui/skillgroups/skillgroup_shelltrace.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_1.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_10.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_11.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_12.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_13.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_14.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_15.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_16.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_17.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_18.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_2.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_3.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_4.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_5.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_6.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_7.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_8.vsnap_c
+particles/ui/skillgroups/skillgroup_trace_9.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_shelltrace.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_0.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_1.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_10.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_11.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_12.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_13.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_14.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_15.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_16.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_17.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_18.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_2.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_3.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_4.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_5.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_6.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_7.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_8.vsnap_c
+particles/ui/skillgroups/skillgroup_wingman_trace_9.vsnap_c
+particles/ui/skillgroups/ui_skillgroups_sparkle.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_1.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_10.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_11.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_12.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_13.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_14.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_15.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_16.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_17.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_18.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_18_wipe_glow.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_1_rays.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_2.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_3.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_4.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_4_halo.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_5.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_6.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_7.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_8.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_9.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_border.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_halo.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_1.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_1_gold.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_2.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_2_gold.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_3.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_3_gold.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_4.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_4_gold_sparkle.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_5.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_5_halo.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_6.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_flares.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_gold_emberlight.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_rear_gold_sparkle.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_0.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_1.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_10.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_11.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_12.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_13.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_14.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_15.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_16.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_17.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_18.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_2.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_3.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_4.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_5.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_6.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_7.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_8.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_9.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_rear_1.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_rear_2.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_rear_3.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_rear_4.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wingman_rear_5.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wipe.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wipe_effect.vpcf_c
+particles/ui/skillgroups/ui_skillgroup_wipe_vert.vpcf_c
+particles/ui/hud/hud_mainwin_panel_transition.vpcf_c
+particles/ui/hud/mvp_tracers_bg_effect.vpcf_c
+particles/ui/hud/ui_effects_tests_falling.vpcf_c
+particles/ui/hud/ui_env_effects_multikill.vpcf_c
+particles/ui/hud/ui_hud_grid_xp.vpcf_c
+particles/ui/hud/ui_map_bomb_plant_ping.vpcf_c
+particles/ui/hud/ui_map_def_utility_trail.vpcf_c
+particles/ui/hud/ui_map_mvpace_killed_models.vpcf_c
+particles/ui/hud/ui_map_mvpace_killed_models_spirit.vpcf_c
+particles/ui/hud/ui_map_mvpace_killed_model_enabler.vpcf_c
+particles/ui/hud/ui_map_mvpace_killed_model_spirit.vpcf_c
+particles/ui/hud/ui_map_mvpmodel_bodyfx.vpcf_c
+particles/ui/hud/ui_map_mvp_ace_killed_models_spirit.vpcf_c
+particles/ui/hud/ui_map_mvp_blast_hegrenade.vpcf_c
+particles/ui/hud/ui_map_mvp_bombdiffuser.vpcf_c
+particles/ui/hud/ui_map_mvp_chicken.vpcf_c
+particles/ui/hud/ui_map_mvp_inferno_modelgathered_blast.vpcf_c
+particles/ui/hud/ui_map_mvp_model_awp_flare.vpcf_c
+particles/ui/hud/ui_map_mvp_model_awp_flash.vpcf_c
+particles/ui/hud/ui_map_mvp_model_awp_long.vpcf_c
+particles/ui/hud/ui_map_mvp_model_awp_tracer.vpcf_c
+particles/ui/hud/ui_map_mvp_model_bodyfx.vpcf_c
+particles/ui/hud/ui_map_mvp_pistol_tracer.vpcf_c
+particles/ui/hud/ui_map_mvp_pistol_tracera.vpcf_c
+particles/ui/hud/ui_map_mvp_pistol_tracerb.vpcf_c
+particles/ui/hud/ui_map_mvp_pistol_tracerc.vpcf_c
+particles/ui/hud/ui_map_mvp_winner_bg_basic_a.vpcf_c
+particles/ui/hud/ui_map_mvp_winner_bg_basic_b.vpcf_c
+particles/ui/hud/ui_map_mvp_winner_bg_basic_c.vpcf_c
+particles/ui/hud/ui_map_mvp_winner_bg_basic_c_mask.vpcf_c
+particles/ui/hud/ui_map_mvp_winner_bg_basic_rounds.vpcf_c
+particles/ui/hud/ui_map_mvp_winner_bg_basic_vestaboard.vpcf_c
+particles/ui/hud/ui_map_mvp_winner_bg_np.vpcf_c
+particles/ui/hud/ui_map_mvp_winner_nonpremier.vpcf_c
+particles/ui/hud/ui_map_mvp_winner_wipe_vertical.vpcf_c
+particles/ui/hud/ui_map_mvp_winner_wipe_vertical_basic.vpcf_c
+particles/ui/hud/ui_map_mvp_winner_wipe_vertical_basic_side.vpcf_c
+particles/ui/hud/ui_multikill_bloodhigh.vpcf_c
+particles/ui/hud/ui_multikill_bloodhigh_ground_decal.vpcf_c
+particles/ui/hud/ui_multikill_bloodhigh_ground_decalalt.vpcf_c
+particles/ui/hud/ui_multikill_bloodhigh_mist_away.vpcf_c
+particles/ui/hud/ui_multikill_bloodhigh_spray_away.vpcf_c
+particles/ui/hud/ui_multikill_bloodhigh_vis_spray.vpcf_c
+particles/ui/hud/ui_multikill_bloodhigh_vis_spray_trail.vpcf_c
+particles/ui/hud/ui_multikill_bloodmed_ground_decalaltb.vpcf_c
+particles/ui/hud/ui_mvp_ace_body_swipe.vpcf_c
+particles/ui/hud/ui_mvp_ace_killed_models.vpcf_c
+particles/ui/hud/ui_mvp_ace_killed_models_spirit.vpcf_c
+particles/ui/hud/ui_mvp_ace_killed_model_enabler.vpcf_c
+particles/ui/hud/ui_mvp_blast_hegrenade.vpcf_c
+particles/ui/hud/ui_mvp_blood_spray.vpcf_c
+particles/ui/hud/ui_mvp_blood_spray_mist_away.vpcf_c
+particles/ui/hud/ui_mvp_blood_spray_spray_screen.vpcf_c
+particles/ui/hud/ui_mvp_blood_spray_vis_spray_trail.vpcf_c
+particles/ui/hud/ui_mvp_char_mask_fades.vpcf_c
+particles/ui/hud/ui_mvp_char_puppet.vpcf_c
+particles/ui/hud/ui_mvp_chicken.vpcf_c
+particles/ui/hud/ui_mvp_chicken_calm.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_distort.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_embers.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_heattrails.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_smoketrails.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_smoketrails_child.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_smoketrails_rope.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_smoke_blasts.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_smoke_core.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_smoke_ground.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_sparktrails.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_sparktrails_child.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_sparktrails_sparks.vpcf_c
+particles/ui/hud/ui_mvp_hexplosion_styl_sparktrails_sparks_dots.vpcf_c
+particles/ui/hud/ui_mvp_inferno_bodyfire.vpcf_c
+particles/ui/hud/ui_mvp_inferno_bombdiffuser.vpcf_c
+particles/ui/hud/ui_mvp_inferno_bombplanter.vpcf_c
+particles/ui/hud/ui_mvp_inferno_bombplanter_closeup.vpcf_c
+particles/ui/hud/ui_mvp_inferno_bombplanter_darktest.vpcf_c
+particles/ui/hud/ui_mvp_inferno_burn.vpcf_c
+particles/ui/hud/ui_mvp_inferno_modelgathered_blast.vpcf_c
+particles/ui/hud/ui_mvp_inferno_modelgathered_blast_go.vpcf_c
+particles/ui/hud/ui_mvp_inferno_model_blast.vpcf_c
+particles/ui/hud/ui_mvp_map_smoke_lowlying.vpcf_c
+particles/ui/hud/ui_mvp_map_smoke_lowlying_awp.vpcf_c
+particles/ui/hud/ui_mvp_map_smoke_lowlying_awp_far.vpcf_c
+particles/ui/hud/ui_mvp_model_awp_follow.vpcf_c
+particles/ui/hud/ui_mvp_model_bodyfx.vpcf_c
+particles/ui/hud/ui_mvp_model_c4_follow.vpcf_c
+particles/ui/hud/ui_mvp_model_c4_hold.vpcf_c
+particles/ui/hud/ui_mvp_model_closeup.vpcf_c
+particles/ui/hud/ui_mvp_model_lighting.vpcf_c
+particles/ui/hud/ui_mvp_model_lighting_inferno.vpcf_c
+particles/ui/hud/ui_mvp_model_pistol_follow.vpcf_c
+particles/ui/hud/ui_mvp_model_pistol_muz3kill.vpcf_c
+particles/ui/hud/ui_mvp_model_pistol_muz4kill.vpcf_c
+particles/ui/hud/ui_mvp_mography.vpcf_c
+particles/ui/hud/ui_mvp_mograph_sporty.vpcf_c
+particles/ui/hud/ui_mvp_mograph_sporty_hit.vpcf_c
+particles/ui/hud/ui_mvp_mograph_sporty_mask_bot.vpcf_c
+particles/ui/hud/ui_mvp_mograph_sporty_mask_top.vpcf_c
+particles/ui/hud/ui_mvp_motiongraphy.vpcf_c
+particles/ui/hud/ui_mvp_motiongraphy_diagonal_lines.vpcf_c
+particles/ui/hud/ui_mvp_motiongraphy_expand.vpcf_c
+particles/ui/hud/ui_mvp_motiongraphy_horizontal_lines.vpcf_c
+particles/ui/hud/ui_mvp_motion_transition_right.vpcf_c
+particles/ui/hud/ui_mvp_multi_killed_models.vpcf_c
+particles/ui/hud/ui_mvp_multi_killer_model.vpcf_c
+particles/ui/hud/ui_mvp_muzzleflash.vpcf_c
+particles/ui/hud/ui_mvp_muzzleflash_flare.vpcf_c
+particles/ui/hud/ui_mvp_player_model.vpcf_c
+particles/ui/hud/ui_mvp_recorder_bg.vpcf_c
+particles/ui/hud/ui_mvp_rescue_ct.vpcf_c
+particles/ui/hud/ui_mvp_rescue_hostage.vpcf_c
+particles/ui/hud/ui_mvp_thekilled_models.vpcf_c
+particles/ui/hud/ui_mvp_winner.vpcf_c
+particles/ui/hud/ui_mvp_winner_ace.vpcf_c
+particles/ui/hud/ui_mvp_winner_ace_panel.vpcf_c
+particles/ui/hud/ui_mvp_winner_alt_a.vpcf_c
+particles/ui/hud/ui_mvp_winner_alt_b.vpcf_c
+particles/ui/hud/ui_mvp_winner_alt_c.vpcf_c
+particles/ui/hud/ui_mvp_winner_blast.vpcf_c
+particles/ui/hud/ui_mvp_winner_bombdefuse_panel.vpcf_c
+particles/ui/hud/ui_mvp_winner_bombplant_panel.vpcf_c
+particles/ui/hud/ui_mvp_winner_burst.vpcf_c
+particles/ui/hud/ui_mvp_winner_centermask.vpcf_c
+particles/ui/hud/ui_mvp_winner_expansion.vpcf_c
+particles/ui/hud/ui_mvp_winner_fire_altb.vpcf_c
+particles/ui/hud/ui_mvp_winner_flame.vpcf_c
+particles/ui/hud/ui_mvp_winner_flame_altb.vpcf_c
+particles/ui/hud/ui_mvp_winner_flareglow.vpcf_c
+particles/ui/hud/ui_mvp_winner_flareline.vpcf_c
+particles/ui/hud/ui_mvp_winner_flash.vpcf_c
+particles/ui/hud/ui_mvp_winner_glow.vpcf_c
+particles/ui/hud/ui_mvp_winner_inferno.vpcf_c
+particles/ui/hud/ui_mvp_winner_inferno_bodyimpact_fire.vpcf_c
+particles/ui/hud/ui_mvp_winner_kills_panel.vpcf_c
+particles/ui/hud/ui_mvp_winner_mask.vpcf_c
+particles/ui/hud/ui_mvp_winner_mask_bot.vpcf_c
+particles/ui/hud/ui_mvp_winner_mask_cent.vpcf_c
+particles/ui/hud/ui_mvp_winner_multikill.vpcf_c
+particles/ui/hud/ui_mvp_winner_multikillb.vpcf_c
+particles/ui/hud/ui_mvp_winner_multikillc.vpcf_c
+particles/ui/hud/ui_mvp_winner_multikillf.vpcf_c
+particles/ui/hud/ui_mvp_winner_multikill_neutral.vpcf_c
+particles/ui/hud/ui_mvp_winner_rescue_panel.vpcf_c
+particles/ui/hud/ui_mvp_winner_rescue_scrolltexture.vpcf_c
+particles/ui/hud/ui_mvp_winner_sigil.vpcf_c
+particles/ui/hud/ui_mvp_winner_splash.vpcf_c
+particles/ui/hud/ui_mvp_winner_splash_alt_b.vpcf_c
+particles/ui/hud/ui_mvp_winner_splash_alt_c.vpcf_c
+particles/ui/hud/ui_mvp_winner_stars.vpcf_c
+particles/ui/hud/ui_mvp_winner_wipe_vertical.vpcf_c
+particles/ui/hud/ui_mvp_winner_wipe_vertical_fg.vpcf_c
+particles/ui/hud/ui_mvp_winner_wipe_vertical_texture.vpcf_c
+particles/ui/hud/ui_mvp_winner_wipe_vertical_wmotion.vpcf_c
+particles/ui/hud/ui_mvp_wipe.vpcf_c
+particles/ui/hud/ui_mvp_wipe_alt_b.vpcf_c
+particles/ui/hud/ui_mvp_wipe_center_expand.vpcf_c
+particles/ui/hud/ui_mvp_wipe_digital.vpcf_c
+particles/ui/hud/ui_mvp_wipe_digital_alt_b.vpcf_c
+particles/ui/hud/ui_mvp_wipe_mg_transition.vpcf_c
+particles/ui/hud/ui_simple_motion.vpcf_c
+particles/ui/hud/ui_split_flap.vsnap_c
+particles/ui/hud/ui_transitions_tests.vpcf_c
+particles/ui/hud/ui_transitions_tests_ct.vpcf_c
+particles/ui/hud/ui_transitions_tests_flared.vpcf_c
+particles/ui/hud/ui_transitions_tests_lin_a.vpcf_c
+particles/ui/annotation/ui_annotation_aim.vpcf_c
+particles/ui/annotation/ui_annotation_aim_echo.vpcf_c
+particles/ui/annotation/ui_annotation_aim_pointer.vpcf_c
+particles/ui/annotation/ui_annotation_grenade_destination.vpcf_c
+particles/ui/annotation/ui_annotation_ground.vpcf_c
+particles/ui/annotation/ui_annotation_ground_circles.vpcf_c
+particles/ui/annotation/ui_annotation_ground_direction.vpcf_c
+particles/ui/annotation/ui_annotation_line_preview.vpcf_c
+particles/ui/annotation/ui_annotation_line_segment.vpcf_c
+particles/ui/annotation/ui_annotation_line_segment_arrow.vpcf_c
+particles/ui/annotation/ui_annotation_spotlight.vpcf_c
+particles/ui/annotation/ui_annotation_stand_here.vpcf_c
+particles/ui/annotation/ui_annotation_stand_here_circles.vpcf_c
+particles/ui/annotation/ui_annotation_stand_here_direction.vpcf_c
+particles/ui/ammohealthcenter/center.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_blast_radial.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_blast_rays.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_burn_fire.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_burn_ringfire.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_electrocal_electricshock.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_electrocal_innerpoint.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_electrocal_outer.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_elec_bolt.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_elec_innerpoint.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_elec_outer.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_sc_blast.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_sc_burn.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_sc_shock.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_1.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_2.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_3.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_4.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_5.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_base.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_cards_mask.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_circle.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_circleglow.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_circlemsk.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_circle_flash.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_glow.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_glow_5.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_killid.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_lineglow.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_lineglow_lvl3.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_lineglow_lvl5.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_lineglow_lvl_many.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_many.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_many_fast.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_motion.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_radiate.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_1.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_2.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_3.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_4.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_5.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_spectator_many.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_splash.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_splash_cubes.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_splash_cubes_lvl5.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_splash_many.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_steamy.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_kill_streaks_steamy_2.vpcf_c
+particles/ui/ammohealthcenter/ui_hud_template.vpcf_c
+particles/survival_fx/danger_in_zone.vpcf_c
+particles/survival_fx/danger_trail_spores.vpcf_c
+particles/survival_fx/danger_trail_spores_child.vpcf_c
+particles/survival_fx/danger_trail_spores_child_world.vpcf_c
+particles/survival_fx/danger_trail_spores_world.vpcf_c
+particles/survival_fx/danger_zone_decay.vpcf_c
+particles/survival_fx/danger_zone_loop.vpcf_c
+particles/survival_fx/danger_zone_loop_black.vpcf_c
+particles/survival_fx/danger_zone_screen_eyeball.vpcf_c
+particles/survival_fx/danger_zone_screen_eyeball2.vpcf_c
+particles/survival_fx/danger_zone_screen_eyeballxx.vpcf_c
+particles/survival_fx/gas_canister_idle.vpcf_c
+particles/survival_fx/gas_cannister_idle_ring.vpcf_c
+particles/survival_fx/gas_cannister_idle_ring_child.vpcf_c
+particles/survival_fx/gas_cannister_impact.vpcf_c
+particles/survival_fx/gas_cannister_impact_child_explosion.vpcf_c
+particles/survival_fx/gas_cannister_impact_child_explosion_sphere.vpcf_c
+particles/survival_fx/gas_cannister_impact_child_firesmoke.vpcf_c
+particles/survival_fx/gas_cannister_impact_child_flash.vpcf_c
+particles/survival_fx/gas_cannister_impact_child_shrapnel.vpcf_c
+particles/survival_fx/gas_cannister_impact_child_shrapnel_multi.vpcf_c
+particles/survival_fx/gas_cannister_impact_child_shrapnel_single.vpcf_c
+particles/survival_fx/gas_cannister_impact_child_sparks2.vpcf_c
+particles/survival_fx/gas_cannister_impact_shrapnel_cap.vpcf_c
+particles/survival_fx/gas_cannister_impact_shrapnel_smoke_child.vpcf_c
+particles/survival_fx/gas_cannister_impact_shrapnel_smoke_child_copy.vpcf_c
+particles/survival_fx/gas_cannister_impact_smokestreak_child.vpcf_c
+particles/survival_fx/gas_cannister_impact_smokestreak_child_crazy.vpcf_c
+particles/survival_fx/gas_cannister_impact_smokestreak_parent.vpcf_c
+particles/screen_fx/ar_screenglow_ct.vpcf_c
+particles/screen_fx/ar_screenglow_leader.vpcf_c
+particles/screen_fx/ar_screenglow_leader_red.vpcf_c
+particles/screen_fx/ar_screenglow_loop_ct.vpcf_c
+particles/screen_fx/ar_screenglow_loop_leader.vpcf_c
+particles/screen_fx/ar_screenglow_loop_leader_red.vpcf_c
+particles/screen_fx/ar_screenglow_loop_t.vpcf_c
+particles/screen_fx/ar_screenglow_t.vpcf_c
+particles/screen_fx/ghost_screenglow.vpcf_c
+particles/screen_fx/ghost_screenglow_loop.vpcf_c
+particles/screen_fx/ghost_screenglow_warp_loop.vpcf_c
+particles/rain_fx/ash.vpcf_c
+particles/rain_fx/ash_burning.vpcf_c
+particles/rain_fx/ash_burning_fire.vpcf_c
+particles/rain_fx/ash_eddy.vpcf_c
+particles/rain_fx/ash_eddy_b.vpcf_c
+particles/rain_fx/ash_outer.vpcf_c
+particles/rain_fx/rain.vpcf_c
+particles/rain_fx/rain_edge.vpcf_c
+particles/rain_fx/rain_edge_ground.vpcf_c
+particles/rain_fx/rain_edge_sparse.vpcf_c
+particles/rain_fx/rain_edge_sparse_ground.vpcf_c
+particles/rain_fx/rain_edge_sparse_longdrop.vpcf_c
+particles/rain_fx/rain_impact_03.vpcf_c
+particles/rain_fx/rain_impact_04.vpcf_c
+particles/rain_fx/rain_impact_single.vpcf_c
+particles/rain_fx/rain_lamp_circle_drip.vpcf_c
+particles/rain_fx/rain_medium_area_ground.vpcf_c
+particles/rain_fx/rain_mist.vpcf_c
+particles/rain_fx/rain_mist_02.vpcf_c
+particles/rain_fx/rain_outer.vpcf_c
+particles/rain_fx/rain_outer_backup.vpcf_c
+particles/rain_fx/rain_outer_mist.vpcf_c
+particles/rain_fx/rain_puddle_ripples.vpcf_c
+particles/rain_fx/rain_puddle_ripples_large.vpcf_c
+particles/rain_fx/rain_puddle_ripples_small.vpcf_c
+particles/rain_fx/rain_sheet.vpcf_c
+particles/rain_fx/rain_sheet_mist.vpcf_c
+particles/rain_fx/rain_single_128.vpcf_c
+particles/rain_fx/rain_single_800.vpcf_c
+particles/rain_fx/rain_single_800_child.vpcf_c
+particles/rain_fx/rain_single_800_xx.vpcf_c
+particles/rain_fx/rain_single_drip.vpcf_c
+particles/rain_fx/rain_single_drip_ground.vpcf_c
+particles/rain_fx/rain_single_drip_test.vpcf_c
+particles/rain_fx/rain_single_impact_04.vpcf_c
+particles/rain_fx/rain_single_impact_04b.vpcf_c
+particles/rain_fx/rain_small_area_ground.vpcf_c
+particles/rain_fx/rain_small_edge.vpcf_c
+particles/rain_fx/rain_spot.vpcf_c
+particles/rain_fx/rain_storm.vpcf_c
+particles/rain_fx/rain_storm_impact_04.vpcf_c
+particles/rain_fx/rain_storm_impact_04b.vpcf_c
+particles/rain_fx/rain_storm_leaves.vpcf_c
+particles/rain_fx/rain_storm_outer.vpcf_c
+particles/rain_fx/rain_storm_screen.vpcf_c
+particles/rain_fx/rain_stream_01_impact.vpcf_c
+particles/rain_fx/rain_stream_01_impact_2.vpcf_c
+particles/rain_fx/rain_stream_01_impact_3.vpcf_c
+particles/rain_fx/rain_stream_04_impact_1.vpcf_c
+particles/rain_fx/rain_stream_04_impact_2.vpcf_c
+particles/rain_fx/rain_volume.vpcf_c
+particles/rain_fx/rain_volume_vanity.vpcf_c
+particles/rain_fx/snow.vpcf_c
+particles/rain_fx/snow_drift.vpcf_c
+particles/rain_fx/snow_outer.vpcf_c
+particles/rain_fx/storm_cloud_lightning.vpcf_c
+particles/rain_fx/storm_cloud_parent.vpcf_c
+particles/rain_fx/storm_lightning_01_branch_01.vpcf_c
+particles/rain_fx/storm_lightning_01_branch_02.vpcf_c
+particles/rain_fx/storm_lightning_01_branch_03.vpcf_c
+particles/rain_fx/storm_lightning_01_branch_parent_01.vpcf_c
+particles/rain_fx/storm_lightning_01_branch_parent_02.vpcf_c
+particles/rain_fx/storm_lightning_01_branch_parent_03.vpcf_c
+particles/rain_fx/storm_lightning_01_cloud.vpcf_c
+particles/rain_fx/storm_lightning_01_glow.vpcf_c
+particles/rain_fx/storm_lightning_01_modglow.vpcf_c
+particles/rain_fx/storm_lightning_01_thin.vpcf_c
+particles/overhead_icon_fx/player_ping.vpcf_c
+particles/overhead_icon_fx/player_ping_flash.vpcf_c
+particles/overhead_icon_fx/player_ping_flash_copy.vpcf_c
+particles/overhead_icon_fx/player_ping_flash_outline.vpcf_c
+particles/overhead_icon_fx/player_ping_ground_rings.vpcf_c
+particles/overhead_icon_fx/player_ping_top_rings.vpcf_c
+particles/overhead_icon_fx/player_ping_top_rings2.vpcf_c
+particles/overhead_icon_fx/radio_voice.vpcf_c
+particles/overhead_icon_fx/radio_voice_flash.vpcf_c
+particles/overhead_icon_fx/speech_voice.vpcf_c
+particles/overhead_icon_fx/speech_voice_bubble.vpcf_c
+particles/money_fx/moneybag_trail.vpcf_c
+particles/money_fx/moneybag_trail_bag.vpcf_c
+particles/money_fx/moneycrate_burst.vpcf_c
+particles/money_fx/moneycrate_burst_confetti.vpcf_c
+particles/money_fx/moneycrate_burst_money.vpcf_c
+particles/money_fx/moneycrate_impact_burst.vpcf_c
+particles/money_fx/money_burst_confetti_single.vpcf_c
+particles/money_fx/money_burst_money_single.vpcf_c
+particles/money_fx/money_burst_single.vpcf_c
+particles/models/generic/winebottle_kit_01/wine_bottle_02_c_breakable/break_particles1.vsnap_c
+particles/models/generic/winebottle_kit_01/wine_bottle_02_b_breakable/break_particles1.vsnap_c
+particles/models/generic/winebottle_kit_01/wine_bottle_02_a_breakable/break_particles1.vsnap_c
+particles/models/generic/winebottle_kit_01/wine_bottle_01_a_breakable/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_9/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_7/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_2/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_18/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_17/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_14/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/top1/piece_13/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/piece_8/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/piece_20/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_8/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_7/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_6/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_21/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_20/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_19/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_16/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_15/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_12/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_11/break_particles1.vsnap_c
+particles/models/generic/stone_statue_01/stone_statue_01_breakable/bot1/piece_01/break_particles1.vsnap_c
+particles/models/generic/bust_02/bust_02_a/piece_5/break_particles1.vsnap_c
+particles/models/generic/bust_02/bust_02_a/piece_4/break_particles1.vsnap_c
+particles/models/generic/bust_02/bust_02_a/piece_01/break_particles1.vsnap_c
+particles/models/generic/bust_01/bust_01_a/piece_8/break_particles1.vsnap_c
+particles/models/generic/bust_01/bust_01_a/piece_7/break_particles1.vsnap_c
+particles/models/generic/bust_01/bust_01_a/piece_6/break_particles1.vsnap_c
+particles/models/generic/bust_01/bust_01_a/piece_5/break_particles1.vsnap_c
+particles/models/generic/bust_01/bust_01_a/piece_01/break_particles1.vsnap_c
+particles/maps/gg_vietnam/vietnam_fog_ground.vpcf_c
+particles/maps/gg_vietnam/vietnam_fog_volume_1024.vpcf_c
+particles/maps/gg_vietnam/vietnam_fog_volume_1024_512.vpcf_c
+particles/maps/gg_vietnam/vietnam_fog_volume_1800_1024.vpcf_c
+particles/maps/gg_vietnam/vietnam_fog_volume_512.vpcf_c
+particles/maps/gg_vietnam/vietnam_fog_volume_512_1024.vpcf_c
+particles/maps/gg_vietnam/vietnam_fog_volume_60.vpcf_c
+particles/maps/gg_baggage/baggage_leakypipe.vpcf_c
+particles/maps/gg_baggage/baggage_leak_drip.vpcf_c
+particles/maps/gg_baggage/baggage_leak_drip_child.vpcf_c
+particles/maps/gg_baggage/baggage_leak_splash.vpcf_c
+particles/maps/gg_baggage/baggage_leak_splash_child.vpcf_c
+particles/maps/gg_baggage/baggage_sparks1.vpcf_c
+particles/maps/gg_baggage/baggage_sparks1_backup.vpcf_c
+particles/maps/gg_baggage/baggage_sparks1_core.vpcf_c
+particles/maps/gg_baggage/baggage_sparks1_glow.vpcf_c
+particles/maps/gg_baggage/baggage_steam_child_base.vpcf_c
+particles/maps/gg_baggage/baggage_steam_child_droplets.vpcf_c
+particles/maps/gg_baggage/baggage_steam_short.vpcf_c
+particles/maps/gg_baggage/baggage_steam_short_child_cloud.vpcf_c
+particles/maps/gg_baggage/baggage_steam_short_child_mist.vpcf_c
+particles/maps/gg_baggage/baggage_steam_vent_e.vpcf_c
+particles/maps/gg_baggage/baggage_steam_vent_e_detail.vpcf_c
+particles/maps/gg_baggage/baggage_steam_vent_e_interior.vpcf_c
+particles/maps/gg_baggage/baggage_steam_volume_e.vpcf_c
+particles/maps/gg_baggage/baggage_steam_volume_e_bottom.vpcf_c
+particles/maps/gg_baggage/baggage_steam_volume_e_front.vpcf_c
+particles/maps/generic/smoke_vertical_large.vpcf_c
+particles/maps/generic/steam_fire_test.vpcf_c
+particles/maps/generic/steam_motion_test.vpcf_c
+particles/maps/generic/steam_vertical_large.vpcf_c
+particles/maps/generic/steam_vertical_large_mainbody.vpcf_c
+particles/maps/generic/steam_vertical_path.vpcf_c
+particles/maps/generic/steam_vertical_path_glow.vpcf_c
+particles/maps/generic/steam_vertical_path_mainbody.vpcf_c
+particles/maps/generic/steam_vertical_small.vpcf_c
+particles/maps/generic/steam_vertical_small_mainbody.vpcf_c
+particles/maps/de_train/train_steam_leak.vpcf_c
+particles/maps/de_train/train_steam_leak_child_base.vpcf_c
+particles/maps/de_train/train_steam_leak_child_cloud.vpcf_c
+particles/maps/de_train/train_steam_leak_child_droplets.vpcf_c
+particles/maps/de_train/train_steam_leak_child_mist.vpcf_c
+particles/maps/de_train/train_steam_rising.vpcf_c
+particles/maps/de_train/train_steam_rising_noise.vpcf_c
+particles/maps/de_train/tv_impact_burst.vpcf_c
+particles/maps/de_train/tv_monitor_impact.vpcf_c
+particles/maps/de_shacks/shacks_exhaust.vpcf_c
+particles/maps/de_shacks/shacks_policelight_blue.vpcf_c
+particles/maps/de_shacks/shacks_policelight_blue_core.vpcf_c
+particles/maps/de_shacks/shacks_policelight_blue_fallback.vpcf_c
+particles/maps/de_shacks/shacks_policelight_blue_strobe.vpcf_c
+particles/maps/de_shacks/shacks_policelight_blue_strobe_round.vpcf_c
+particles/maps/de_shacks/shacks_policelight_core_white.vpcf_c
+particles/maps/de_shacks/shacks_policelight_red.vpcf_c
+particles/maps/de_shacks/shacks_policelight_red_core.vpcf_c
+particles/maps/de_shacks/shacks_policelight_red_strobe.vpcf_c
+particles/maps/de_shacks/shacks_policelight_red_strobe_round.vpcf_c
+particles/maps/de_shacks/shacks_policelight_white_strobe.vpcf_c
+particles/maps/de_shacks/shacks_policelight_white_strobe_backup.vpcf_c
+particles/maps/de_shacks/shacks_steam_child_base.vpcf_c
+particles/maps/de_shacks/shacks_steam_child_droplets.vpcf_c
+particles/maps/de_shacks/shacks_steam_short.vpcf_c
+particles/maps/de_shacks/shacks_steam_short_child_cloud.vpcf_c
+particles/maps/de_shacks/shacks_steam_short_child_mist.vpcf_c
+particles/maps/de_shacks/shacks_steam_short_fallback.vpcf_c
+particles/maps/de_shacks/shacks_steam_short_fallback2.vpcf_c
+particles/maps/de_shacks/steam_short.vpcf_c
+particles/maps/de_piranesi/piranesi_leave_blow_horizontal.vpcf_c
+particles/maps/de_overpass/balloon_impact.vpcf_c
+particles/maps/de_overpass/balloon_impact_cofetti.vpcf_c
+particles/maps/de_overpass/bunker_steam_vertical_path.vpcf_c
+particles/maps/de_overpass/bunker_steam_vertical_path_glow.vpcf_c
+particles/maps/de_overpass/bunker_steam_vertical_path_mainbody.vpcf_c
+particles/maps/de_overpass/chicken_impact_burst2.vpcf_c
+particles/maps/de_overpass/explosion_child_clumps02a.vpcf_c
+particles/maps/de_overpass/overpass_clouds.vpcf_c
+particles/maps/de_overpass/overpass_clouds_2.vpcf_c
+particles/maps/de_overpass/overpass_clouds_3.vpcf_c
+particles/maps/de_overpass/overpass_glow01.vpcf_c
+particles/maps/de_overpass/overpass_steam_child_base.vpcf_c
+particles/maps/de_overpass/overpass_steam_child_droplets.vpcf_c
+particles/maps/de_overpass/overpass_steam_rising_noise.vpcf_c
+particles/maps/de_overpass/overpass_steam_short.vpcf_c
+particles/maps/de_overpass/overpass_steam_short_child_cloud.vpcf_c
+particles/maps/de_overpass/overpass_steam_vertical_large.vpcf_c
+particles/maps/de_overpass/overpass_steam_vertical_large_mainbody.vpcf_c
+particles/maps/de_overpass/overpass_steam_vertical_small.vpcf_c
+particles/maps/de_overpass/overpass_steam_vertical_small_mainbody.vpcf_c
+particles/maps/de_overpass/overpass_vanity_steam_1.vpcf_c
+particles/maps/de_overpass/path_particle_cable_dynamic.vpcf_c
+particles/maps/de_overpass/sewer_steam_1.vpcf_c
+particles/maps/de_overpass/train_dust.vpcf_c
+particles/maps/de_overpass/train_paper_debris.vpcf_c
+particles/maps/de_nuke/nuke_dust_volume_1200_700.vpcf_c
+particles/maps/de_nuke/nuke_dust_volume_1200_700_low.vpcf_c
+particles/maps/de_nuke/nuke_dust_volume_600_150.vpcf_c
+particles/maps/de_nuke/nuke_dust_volume_600_150_low.vpcf_c
+particles/maps/de_nuke/nuke_exhaust_ct.vpcf_c
+particles/maps/de_nuke/nuke_exhaust_t.vpcf_c
+particles/maps/de_nuke/nuke_sparks.vpcf_c
+particles/maps/de_nuke/nuke_sparks1_core.vpcf_c
+particles/maps/de_nuke/nuke_sparks1_glow.vpcf_c
+particles/maps/de_nuke/nuke_sparks_backup.vpcf_c
+particles/maps/de_nuke/nuke_steam_rising.vpcf_c
+particles/maps/de_nuke/nuke_steam_rising_high.vpcf_c
+particles/maps/de_nuke/nuke_steam_rising_noise.vpcf_c
+particles/maps/de_mill/mill_dust_volume_700_200.vpcf_c
+particles/maps/de_mill/mill_dust_volume_700_200_low.vpcf_c
+particles/maps/de_inferno/inferno_fountain_bot_rings.vpcf_c
+particles/maps/de_inferno/inferno_fountain_bot_ringsplashes.vpcf_c
+particles/maps/de_inferno/inferno_fountain_low_rings.vpcf_c
+particles/maps/de_inferno/inferno_fountain_low_ringsplashes.vpcf_c
+particles/maps/de_inferno/inferno_fountain_master.vpcf_c
+particles/maps/de_inferno/inferno_fountain_med_rings.vpcf_c
+particles/maps/de_inferno/inferno_fountain_med_ringsplashes.vpcf_c
+particles/maps/de_inferno/inferno_fountain_top_rings.vpcf_c
+particles/maps/de_inferno/inferno_fountain_top_ringsplashes.vpcf_c
+particles/maps/de_inferno/inferno_fountain_top_spout.vpcf_c
+particles/maps/de_inferno/inferno_fountain_top_spout_random.vpcf_c
+particles/maps/de_inferno/inferno_fountain_top_spout_random2.vpcf_c
+particles/maps/de_inferno/inferno_paper_burst.vpcf_c
+particles/maps/de_house/house_chimney.vpcf_c
+particles/maps/de_house/house_exhaust_ct.vpcf_c
+particles/maps/de_house/house_exhaust_t.vpcf_c
+particles/maps/de_house/house_fireplace.vpcf_c
+particles/maps/de_house/house_fireplace_child.vpcf_c
+particles/maps/de_dust/dust_burning_engine.vpcf_c
+particles/maps/de_dust/dust_burning_engine_fallback.vpcf_c
+particles/maps/de_dust/dust_burning_engine_fire.vpcf_c
+particles/maps/de_dust/dust_burning_engine_fire_glow.vpcf_c
+particles/maps/de_dust/dust_burning_engine_smoke.vpcf_c
+particles/maps/de_dust/dust_burning_engine_smoke_fallback.vpcf_c
+particles/maps/de_dust/dust_copter_takeoff.vpcf_c
+particles/maps/de_dust/dust_copter_takeoff_billow.vpcf_c
+particles/maps/de_dust/dust_copter_takeoff_dust_high.vpcf_c
+particles/maps/de_dust/dust_copter_takeoff_dust_linger.vpcf_c
+particles/maps/de_dust/dust_copter_takeoff_dust_low.vpcf_c
+particles/maps/de_dust/dust_copter_takeoff_papers.vpcf_c
+particles/maps/de_dust/dust_copter_takeoff_screen.vpcf_c
+particles/maps/de_dust/dust_devil.vpcf_c
+particles/maps/de_dust/dust_devil_leaves.vpcf_c
+particles/maps/de_dust/dust_devil_paper.vpcf_c
+particles/maps/de_dust/dust_devil_points.vpcf_c
+particles/maps/de_dust/dust_devil_smoke.vpcf_c
+particles/maps/de_dust/dust_devil_smoke_slow.vpcf_c
+particles/maps/de_dust/dust_devil_swirls.vpcf_c
+particles/maps/de_dust/dust_drift.vpcf_c
+particles/maps/de_dust/dust_drift_paper.vpcf_c
+particles/maps/de_dust/dust_drift_paper_reverse.vpcf_c
+particles/maps/de_dust/dust_drift_reverse.vpcf_c
+particles/maps/de_dust/dust_drift_smoke.vpcf_c
+particles/maps/de_dust/dust_drift_smoke_reverse.vpcf_c
+particles/maps/de_dust/dust_embers.vpcf_c
+particles/maps/de_dust/dust_embers_heavy.vpcf_c
+particles/maps/de_dust/dust_fog_volume_128_128.vpcf_c
+particles/maps/de_dust/dust_fog_volume_128_128_noise.vpcf_c
+particles/maps/de_dust/dust_fog_volume_initial.vpcf_c
+particles/maps/de_dust/dust_jet_roof_dust_l.vpcf_c
+particles/maps/de_dust/dust_jet_roof_dust_parent.vpcf_c
+particles/maps/de_dust/dust_jet_roof_dust_r.vpcf_c
+particles/maps/de_dust/dust_jet_rumble_clumps.vpcf_c
+particles/maps/de_dust/dust_jet_rumble_debris1.vpcf_c
+particles/maps/de_dust/dust_jet_rumble_dust.vpcf_c
+particles/maps/de_dust/dust_paper_blow_horizontal.vpcf_c
+particles/maps/de_dust/dust_paper_blow_horizontal_east.vpcf_c
+particles/maps/de_dust/dust_paper_blow_horizontal_west.vpcf_c
+particles/maps/de_dust/dust_screen_fog_heavy.vpcf_c
+particles/maps/de_bank/bank_exhaust.vpcf_c
+particles/maps/de_bank/bank_steam.vpcf_c
+particles/maps/de_bank/bank_steam_large.vpcf_c
+particles/maps/de_bank/bank_steam_large_noise.vpcf_c
+particles/maps/de_bank/bank_steam_noise.vpcf_c
+particles/maps/de_aztec/aztec_copter_takeoff.vpcf_c
+particles/maps/de_aztec/aztec_copter_takeoff_dust_high.vpcf_c
+particles/maps/de_aztec/aztec_copter_takeoff_dust_low.vpcf_c
+particles/maps/de_aztec/aztec_copter_takeoff_grass.vpcf_c
+particles/maps/de_aztec/aztec_copter_takeoff_leaves.vpcf_c
+particles/maps/de_aztec/aztec_copter_takeoff_screen.vpcf_c
+particles/maps/de_aztec/aztec_fog_hallway.vpcf_c
+particles/maps/de_aztec/aztec_fog_hallway_midair_noise.vpcf_c
+particles/maps/de_aztec/aztec_fog_low.vpcf_c
+particles/maps/de_aztec/aztec_fog_volume_128_128.vpcf_c
+particles/maps/de_aztec/aztec_fog_volume_128_128_noise.vpcf_c
+particles/maps/de_aztec/aztec_fog_volume_bottom.vpcf_c
+particles/maps/de_aztec/aztec_fog_volume_bottom_noise.vpcf_c
+particles/maps/de_aztec/aztec_fog_volume_initial.vpcf_c
+particles/maps/cs_office/office_child_embers01a.vpcf_c
+particles/maps/cs_office/office_child_flame01b.vpcf_c
+particles/maps/cs_office/office_child_flame02b.vpcf_c
+particles/maps/cs_office/office_child_flame03b.vpcf_c
+particles/maps/cs_office/office_child_glow01b.vpcf_c
+particles/maps/cs_office/office_child_glow02b.vpcf_c
+particles/maps/cs_office/office_child_glow03a.vpcf_c
+particles/maps/cs_office/office_child_glow03a_backup.vpcf_c
+particles/maps/cs_office/office_child_glow04a.vpcf_c
+particles/maps/cs_office/office_fire.vpcf_c
+particles/maps/cs_office/office_leak_drip.vpcf_c
+particles/maps/cs_office/office_leak_splash.vpcf_c
+particles/maps/cs_office/office_leak_splash_child.vpcf_c
+particles/maps/cs_office/office_leak_steam.vpcf_c
+particles/maps/cs_office/office_leak_steam_child_base.vpcf_c
+particles/maps/cs_office/office_leak_steam_child_cloud.vpcf_c
+particles/maps/cs_office/office_leak_steam_child_droplets.vpcf_c
+particles/maps/cs_office/office_leak_steam_child_mist.vpcf_c
+particles/maps/cs_office/office_smoke.vpcf_c
+particles/maps/cs_italy/italy_leaf_blow_horizontal.vpcf_c
+particles/maps/cs_italy/italy_leaf_blow_horizontal_east.vpcf_c
+particles/maps/cs_italy/italy_leaf_blow_horizontal_west.vpcf_c
+particles/maps/cs_italy/italy_leaf_blow_vertical.vpcf_c
+particles/maps/cs_italy/italy_paper_blow_horizontal.vpcf_c
+particles/maps/cs_italy/italy_paper_blow_horizontal_east.vpcf_c
+particles/maps/cs_italy/italy_paper_blow_horizontal_west.vpcf_c
+particles/maps/cs_italy/italy_smokestack.vpcf_c
+particles/maps/cs_italy/italy_smokestack_backup.vpcf_c
+particles/maps/cs_italy/italy_smokestack_softeners.vpcf_c
+particles/maps/cs_italy/italy_smokestack_start.vpcf_c
+particles/maps/ar_monastery/monastery_candle_flame.vpcf_c
+particles/maps/ar_monastery/monastery_candle_smoke_long.vpcf_c
+particles/lighting/light_gaslamp_glow.vpcf_c
+particles/items/ui/mvp/testpack/mvp_casual_splitflap.vpcf_c
+particles/items/ui/mvp/testpack/mvp_casual_splitflap_mask.vpcf_c
+particles/items/ui/mvp/testpack/ui_split_flap.vsnap_c
+particles/items/keychains/kc_missinglink_body.vsnap_c
+particles/items/keychains/missinglink_ambient_fire_test.vpcf_c
+particles/items/keychains/missinglink_ambient_test.vpcf_c
+particles/inventory_items/crate_emission_smoke.vpcf_c
+particles/inventory_items/crate_impact_smoke.vpcf_c
+particles/inventory_items/crate_outward_groundsmoke.vpcf_c
+particles/inferno_fx/burning_char_prev.vpcf_c
+particles/inferno_fx/burning_test.vpcf_c
+particles/inferno_fx/explosion_incend_air.vpcf_c
+particles/inferno_fx/explosion_incend_air_core.vpcf_c
+particles/inferno_fx/explosion_incend_air_debris.vpcf_c
+particles/inferno_fx/explosion_incend_air_down.vpcf_c
+particles/inferno_fx/explosion_incend_air_falling.vpcf_c
+particles/inferno_fx/explosion_incend_air_fallingfire.vpcf_c
+particles/inferno_fx/explosion_incend_air_smoke.vpcf_c
+particles/inferno_fx/explosion_incend_air_splash01a.vpcf_c
+particles/inferno_fx/explosion_incend_air_splash07a.vpcf_c
+particles/inferno_fx/explosion_incen_ground_splash07a.vpcf_c
+particles/inferno_fx/explosion_molotov_air.vpcf_c
+particles/inferno_fx/explosion_molotov_air_core.vpcf_c
+particles/inferno_fx/explosion_molotov_air_debris.vpcf_c
+particles/inferno_fx/explosion_molotov_air_down.vpcf_c
+particles/inferno_fx/explosion_molotov_air_falling.vpcf_c
+particles/inferno_fx/explosion_molotov_air_smoke.vpcf_c
+particles/inferno_fx/explosion_molotov_air_splash01a.vpcf_c
+particles/inferno_fx/explosion_molotov_air_splash07a.vpcf_c
+particles/inferno_fx/explosion_molotov_fallingfire.vpcf_c
+particles/inferno_fx/explosion_molotov_ground_debris.vpcf_c
+particles/inferno_fx/explosion_molotov_ground_splash07a.vpcf_c
+particles/inferno_fx/extinguish_embers_small_01.vpcf_c
+particles/inferno_fx/extinguish_embers_small_02.vpcf_c
+particles/inferno_fx/extinguish_fire.vpcf_c
+particles/inferno_fx/extinguish_fire_swirl.vpcf_c
+particles/inferno_fx/extinguish_fire_swirl_smoke.vpcf_c
+particles/inferno_fx/extinsguish_fire_blastout_01.vpcf_c
+particles/inferno_fx/fireworks_explosion_glow_03.vpcf_c
+particles/inferno_fx/fireworks_explosion_trail_04.vpcf_c
+particles/inferno_fx/fireworks_explosion_trail_04b.vpcf_c
+particles/inferno_fx/firework_crate_explosion_01.vpcf_c
+particles/inferno_fx/firework_crate_explosion_02.vpcf_c
+particles/inferno_fx/firework_crate_ground_effect.vpcf_c
+particles/inferno_fx/firework_crate_ground_effect_fallback1.vpcf_c
+particles/inferno_fx/firework_crate_ground_effect_fallback2.vpcf_c
+particles/inferno_fx/firework_crate_ground_embers_01.vpcf_c
+particles/inferno_fx/firework_crate_ground_glow_01.vpcf_c
+particles/inferno_fx/firework_crate_ground_glow_02.vpcf_c
+particles/inferno_fx/firework_crate_ground_low_02.vpcf_c
+particles/inferno_fx/firework_crate_ground_low_02_fallback.vpcf_c
+particles/inferno_fx/firework_crate_ground_low_03.vpcf_c
+particles/inferno_fx/firework_crate_ground_low_04.vpcf_c
+particles/inferno_fx/firework_crate_ground_primary_01.vpcf_c
+particles/inferno_fx/firework_crate_ground_primary_01_fallback.vpcf_c
+particles/inferno_fx/firework_crate_ground_smoke_01.vpcf_c
+particles/inferno_fx/firework_crate_ground_sparks_01.vpcf_c
+particles/inferno_fx/firework_crate_shower_01b.vpcf_c
+particles/inferno_fx/fire_core.vsnap_c
+particles/inferno_fx/fire_edge.vsnap_c
+particles/inferno_fx/fire_filler.vsnap_c
+particles/inferno_fx/incendiary_child_flame01a.vpcf_c
+particles/inferno_fx/incendiary_child_flame03a.vpcf_c
+particles/inferno_fx/incendiary_explosion.vpcf_c
+particles/inferno_fx/incendiary_fire01.vpcf_c
+particles/inferno_fx/incendiary_groundfire.vpcf_c
+particles/inferno_fx/incendiary_groundfire_climbingoutline.vpcf_c
+particles/inferno_fx/incendiary_groundfire_climbingset.vpcf_c
+particles/inferno_fx/incendiary_groundfire_filler_napalm.vpcf_c
+particles/inferno_fx/incendiary_groundfire_filler_replicator.vpcf_c
+particles/inferno_fx/incendiary_groundfire_fillsparks.vpcf_c
+particles/inferno_fx/incendiary_groundfire_fillsparks_low.vpcf_c
+particles/inferno_fx/incendiary_groundfire_filltest.vpcf_c
+particles/inferno_fx/incendiary_groundfire_lighting.vpcf_c
+particles/inferno_fx/incendiary_groundfire_main_center.vpcf_c
+particles/inferno_fx/incendiary_groundfire_main_fancy.vpcf_c
+particles/inferno_fx/incendiary_groundfire_outline.vpcf_c
+particles/inferno_fx/incendiary_groundfire_outlineset.vpcf_c
+particles/inferno_fx/incendiary_groundfire_projected.vpcf_c
+particles/inferno_fx/incendiary_groundfire_snapshot_child_base.vpcf_c
+particles/inferno_fx/incendiary_groundfire_snapshot_water_silt.vpcf_c
+particles/inferno_fx/incend_explosion_child_sprays.vpcf_c
+particles/inferno_fx/incen_explosion_child_sprays.vpcf_c
+particles/inferno_fx/incgrenade_thrown_trail.vpcf_c
+particles/inferno_fx/incgrenade_thrown_trail_glow.vpcf_c
+particles/inferno_fx/molotov_bodyburn.vpcf_c
+particles/inferno_fx/molotov_bodyburn_footprint.vpcf_c
+particles/inferno_fx/molotov_bodyburn_smoke.vpcf_c
+particles/inferno_fx/molotov_center_smoking_ground.vpcf_c
+particles/inferno_fx/molotov_child_flame01a.vpcf_c
+particles/inferno_fx/molotov_child_flame01b.vpcf_c
+particles/inferno_fx/molotov_child_flame01c.vpcf_c
+particles/inferno_fx/molotov_child_flame02a.vpcf_c
+particles/inferno_fx/molotov_child_flame02b.vpcf_c
+particles/inferno_fx/molotov_child_flame02c.vpcf_c
+particles/inferno_fx/molotov_child_flame03a.vpcf_c
+particles/inferno_fx/molotov_child_flame03b.vpcf_c
+particles/inferno_fx/molotov_child_flame03c.vpcf_c
+particles/inferno_fx/molotov_child_flame04a.vpcf_c
+particles/inferno_fx/molotov_child_flame04c.vpcf_c
+particles/inferno_fx/molotov_child_flame05a.vpcf_c
+particles/inferno_fx/molotov_child_glow01a.vpcf_c
+particles/inferno_fx/molotov_child_glow01b.vpcf_c
+particles/inferno_fx/molotov_child_glow02a.vpcf_c
+particles/inferno_fx/molotov_child_glow02b.vpcf_c
+particles/inferno_fx/molotov_child_glow03.vpcf_c
+particles/inferno_fx/molotov_explosion.vpcf_c
+particles/inferno_fx/molotov_explosion_child_fireball1.vpcf_c
+particles/inferno_fx/molotov_explosion_child_fireball2.vpcf_c
+particles/inferno_fx/molotov_explosion_child_fireball3.vpcf_c
+particles/inferno_fx/molotov_explosion_child_fireball4.vpcf_c
+particles/inferno_fx/molotov_explosion_child_flash.vpcf_c
+particles/inferno_fx/molotov_explosion_child_ground1.vpcf_c
+particles/inferno_fx/molotov_explosion_child_ground2.vpcf_c
+particles/inferno_fx/molotov_explosion_child_sprays.vpcf_c
+particles/inferno_fx/molotov_fire01.vpcf_c
+particles/inferno_fx/molotov_fire01_cheap.vpcf_c
+particles/inferno_fx/molotov_groundfire.vpcf_c
+particles/inferno_fx/molotov_groundfire_00high.vpcf_c
+particles/inferno_fx/molotov_groundfire_00medium.vpcf_c
+particles/inferno_fx/molotov_groundfire_child_base.vpcf_c
+particles/inferno_fx/molotov_groundfire_child_base8.vpcf_c
+particles/inferno_fx/molotov_groundfire_child_base_glow.vpcf_c
+particles/inferno_fx/molotov_groundfire_child_base_hcp.vpcf_c
+particles/inferno_fx/molotov_groundfire_child_embers.vpcf_c
+particles/inferno_fx/molotov_groundfire_child_glow.vpcf_c
+particles/inferno_fx/molotov_groundfire_child_glow2_child.vpcf_c
+particles/inferno_fx/molotov_groundfire_climbingoutline.vpcf_c
+particles/inferno_fx/molotov_groundfire_climbingset.vpcf_c
+particles/inferno_fx/molotov_groundfire_climbing_debug.vpcf_c
+particles/inferno_fx/molotov_groundfire_endcap.vpcf_c
+particles/inferno_fx/molotov_groundfire_endcap_ground.vpcf_c
+particles/inferno_fx/molotov_groundfire_endcap_groundsmoke.vpcf_c
+particles/inferno_fx/molotov_groundfire_endcap_ground_swirly.vpcf_c
+particles/inferno_fx/molotov_groundfire_endcap_wall.vpcf_c
+particles/inferno_fx/molotov_groundfire_fallback.vpcf_c
+particles/inferno_fx/molotov_groundfire_fallback2.vpcf_c
+particles/inferno_fx/molotov_groundfire_filltest.vpcf_c
+particles/inferno_fx/molotov_groundfire_lighting.vpcf_c
+particles/inferno_fx/molotov_groundfire_main.vpcf_c
+particles/inferno_fx/molotov_groundfire_main_center.vpcf_c
+particles/inferno_fx/molotov_groundfire_main_fancy.vpcf_c
+particles/inferno_fx/molotov_groundfire_main_glow.vpcf_c
+particles/inferno_fx/molotov_groundfire_outline.vpcf_c
+particles/inferno_fx/molotov_groundfire_outlineset.vpcf_c
+particles/inferno_fx/molotov_groundfire_outlineset_debug.vpcf_c
+particles/inferno_fx/molotov_groundfire_outline_burn.vpcf_c
+particles/inferno_fx/molotov_groundfire_outline_embers.vpcf_c
+particles/inferno_fx/molotov_groundfire_projected.vpcf_c
+particles/inferno_fx/molotov_groundfire_remnant.vpcf_c
+particles/inferno_fx/molotov_groundfire_scortch.vpcf_c
+particles/inferno_fx/molotov_groundfire_snapshot_child_base.vpcf_c
+particles/inferno_fx/molotov_groundfire_snapshot_water_silt.vpcf_c
+particles/inferno_fx/molotov_groundfire_streaks.vpcf_c
+particles/inferno_fx/molotov_smoke_screen.vpcf_c
+particles/inferno_fx/molotov_smoking_ground_child01.vpcf_c
+particles/inferno_fx/molotov_smoking_ground_child02.vpcf_c
+particles/inferno_fx/molotov_smoking_ground_child02_cheapo.vpcf_c
+particles/inferno_fx/molotov_smoking_ground_child03.vpcf_c
+particles/inferno_fx/molotov_smoking_ground_child03_cheapo.vpcf_c
+particles/inferno_fx/perf_test_combined.vpcf_c
+particles/inferno_fx/perf_test_separate.vpcf_c
+particles/inferno_fx/perf_test_separate_childa.vpcf_c
+particles/inferno_fx/perf_test_separate_childb.vpcf_c
+particles/inferno_fx/perf_test_separate_childc.vpcf_c
+particles/inferno_fx/spark_explosive_test.vpcf_c
+particles/impact_fx/blood_impact_friendly_debris.vpcf_c
+particles/impact_fx/blood_impact_friendly_flash.vpcf_c
+particles/impact_fx/break_concrete_debris.vpcf_c
+particles/impact_fx/break_concrete_smoke.vpcf_c
+particles/impact_fx/chamber_cube_spark.vpcf_c
+particles/impact_fx/chamber_cube_spark_a.vpcf_c
+particles/impact_fx/chamber_ground_impact_a.vpcf_c
+particles/impact_fx/chamber_ground_impact_a0.vpcf_c
+particles/impact_fx/chamber_ground_impact_a1.vpcf_c
+particles/impact_fx/impact_armor_ricochet.vpcf_c
+particles/impact_fx/impact_armor_ricochet_core.vpcf_c
+particles/impact_fx/impact_armor_ricochet_smokebody.vpcf_c
+particles/impact_fx/impact_armor_ricochet_smokehead.vpcf_c
+particles/impact_fx/impact_armor_ricochet_sparks.vpcf_c
+particles/impact_fx/impact_asphalt.vpcf_c
+particles/impact_fx/impact_asphalt_cheap.vpcf_c
+particles/impact_fx/impact_asphalt_cheap2.vpcf_c
+particles/impact_fx/impact_asphalt_child_base.vpcf_c
+particles/impact_fx/impact_asphalt_child_burst.vpcf_c
+particles/impact_fx/impact_brick.vpcf_c
+particles/impact_fx/impact_brick_cheap.vpcf_c
+particles/impact_fx/impact_brick_child_base.vpcf_c
+particles/impact_fx/impact_cardboard.vpcf_c
+particles/impact_fx/impact_cardboard_cheap.vpcf_c
+particles/impact_fx/impact_cardboard_child_base.vpcf_c
+particles/impact_fx/impact_cardboard_child_bits.vpcf_c
+particles/impact_fx/impact_cardboard_child_smoke.vpcf_c
+particles/impact_fx/impact_carpet.vpcf_c
+particles/impact_fx/impact_carpet_base.vpcf_c
+particles/impact_fx/impact_carpet_burst.vpcf_c
+particles/impact_fx/impact_carpet_burst_puff.vpcf_c
+particles/impact_fx/impact_carpet_cheap.vpcf_c
+particles/impact_fx/impact_carpet_child_burn.vpcf_c
+particles/impact_fx/impact_carpet_child_glow.vpcf_c
+particles/impact_fx/impact_carpet_child_glow_mid.vpcf_c
+particles/impact_fx/impact_carpet_debris_small.vpcf_c
+particles/impact_fx/impact_carpet_dust.vpcf_c
+particles/impact_fx/impact_chainlink.vpcf_c
+particles/impact_fx/impact_chainlink_cheap.vpcf_c
+particles/impact_fx/impact_clay.vpcf_c
+particles/impact_fx/impact_clay_cheap.vpcf_c
+particles/impact_fx/impact_clay_cheap2.vpcf_c
+particles/impact_fx/impact_clay_child_base.vpcf_c
+particles/impact_fx/impact_clay_child_smoke.vpcf_c
+particles/impact_fx/impact_cloth.vpcf_c
+particles/impact_fx/impact_cloth_cheap.vpcf_c
+particles/impact_fx/impact_computer.vpcf_c
+particles/impact_fx/impact_computer_cheap.vpcf_c
+particles/impact_fx/impact_concrete.vpcf_c
+particles/impact_fx/impact_concrete_cheap.vpcf_c
+particles/impact_fx/impact_concrete_child_base.vpcf_c
+particles/impact_fx/impact_concrete_child_smoke.vpcf_c
+particles/impact_fx/impact_concrete_child_smoke_cheap.vpcf_c
+particles/impact_fx/impact_concrete_child_smoke_darken.vpcf_c
+particles/impact_fx/impact_concrete_child_smoke_normal.vpcf_c
+particles/impact_fx/impact_concrete_model.vpcf_c
+particles/impact_fx/impact_concrete_smokeadaptive_test.vpcf_c
+particles/impact_fx/impact_concrete_wet.vpcf_c
+particles/impact_fx/impact_concrete_wet_cheap.vpcf_c
+particles/impact_fx/impact_dirt.vpcf_c
+particles/impact_fx/impact_dirt_back.vpcf_c
+particles/impact_fx/impact_dirt_cheap.vpcf_c
+particles/impact_fx/impact_dirt_child_base.vpcf_c
+particles/impact_fx/impact_dirt_child_bounce.vpcf_c
+particles/impact_fx/impact_dirt_child_burst.vpcf_c
+particles/impact_fx/impact_dirt_child_burst2.vpcf_c
+particles/impact_fx/impact_dirt_child_clumps.vpcf_c
+particles/impact_fx/impact_dirt_child_smoke.vpcf_c
+particles/impact_fx/impact_dirt_child_smoke_puff.vpcf_c
+particles/impact_fx/impact_electronic.vpcf_c
+particles/impact_fx/impact_electronic_cheap.vpcf_c
+particles/impact_fx/impact_electronic_smoke.vpcf_c
+particles/impact_fx/impact_empty.vpcf_c
+particles/impact_fx/impact_fx_hit_darken.vpcf_c
+particles/impact_fx/impact_generic_burn.vpcf_c
+particles/impact_fx/impact_generic_burst.vpcf_c
+particles/impact_fx/impact_generic_burst_1.vpcf_c
+particles/impact_fx/impact_generic_burst_2.vpcf_c
+particles/impact_fx/impact_generic_burst_3.vpcf_c
+particles/impact_fx/impact_generic_burst_sm.vpcf_c
+particles/impact_fx/impact_generic_smoke_large.vpcf_c
+particles/impact_fx/impact_generic_smoke_medium.vpcf_c
+particles/impact_fx/impact_generic_smoke_small.vpcf_c
+particles/impact_fx/impact_glass.vpcf_c
+particles/impact_fx/impact_glass_base.vpcf_c
+particles/impact_fx/impact_glass_burst.vpcf_c
+particles/impact_fx/impact_glass_burst_puff.vpcf_c
+particles/impact_fx/impact_glass_cheap.vpcf_c
+particles/impact_fx/impact_glass_child_base.vpcf_c
+particles/impact_fx/impact_glass_child_bits.vpcf_c
+particles/impact_fx/impact_glass_child_smoke.vpcf_c
+particles/impact_fx/impact_glass_dark_base.vpcf_c
+particles/impact_fx/impact_glass_dark_burst.vpcf_c
+particles/impact_fx/impact_glass_dark_burst_puff.vpcf_c
+particles/impact_fx/impact_glass_dark_cheap.vpcf_c
+particles/impact_fx/impact_glass_dark_debris_small.vpcf_c
+particles/impact_fx/impact_glass_dark_flash.vpcf_c
+particles/impact_fx/impact_glass_debris_small.vpcf_c
+particles/impact_fx/impact_glass_dust.vpcf_c
+particles/impact_fx/impact_glass_flash.vpcf_c
+particles/impact_fx/impact_grass.vpcf_c
+particles/impact_fx/impact_grass_back.vpcf_c
+particles/impact_fx/impact_grass_cheap.vpcf_c
+particles/impact_fx/impact_grass_child_base.vpcf_c
+particles/impact_fx/impact_grass_child_blades.vpcf_c
+particles/impact_fx/impact_grass_child_burst.vpcf_c
+particles/impact_fx/impact_grass_child_clumps.vpcf_c
+particles/impact_fx/impact_grass_child_smoke.vpcf_c
+particles/impact_fx/impact_grass_wet.vpcf_c
+particles/impact_fx/impact_helmet_headshot.vpcf_c
+particles/impact_fx/impact_helmet_headshot_glow.vpcf_c
+particles/impact_fx/impact_helmet_headshot_spark.vpcf_c
+particles/impact_fx/impact_hit_effect.vpcf_c
+particles/impact_fx/impact_hit_effect_kill.vpcf_c
+particles/impact_fx/impact_leaves.vpcf_c
+particles/impact_fx/impact_leaves_cheap.vpcf_c
+particles/impact_fx/impact_leaves_cheap2.vpcf_c
+particles/impact_fx/impact_leaves_child_base.vpcf_c
+particles/impact_fx/impact_leaves_child_bits.vpcf_c
+particles/impact_fx/impact_leaves_child_smoke.vpcf_c
+particles/impact_fx/impact_leaves_child_smoke_light.vpcf_c
+particles/impact_fx/impact_light_flash.vpcf_c
+particles/impact_fx/impact_light_flash_fixed_reverse.vpcf_c
+particles/impact_fx/impact_light_flash_new.vpcf_c
+particles/impact_fx/impact_metal.vpcf_c
+particles/impact_fx/impact_metal_cheap.vpcf_c
+particles/impact_fx/impact_metal_child_base.vpcf_c
+particles/impact_fx/impact_metal_child_glow.vpcf_c
+particles/impact_fx/impact_metal_child_glow2.vpcf_c
+particles/impact_fx/impact_metal_child_smoke.vpcf_c
+particles/impact_fx/impact_metal_grate.vpcf_c
+particles/impact_fx/impact_metal_grate_child_glow.vpcf_c
+particles/impact_fx/impact_metal_grate_child_glow2.vpcf_c
+particles/impact_fx/impact_metal_smoketrail.vpcf_c
+particles/impact_fx/impact_metal_sparks_trailing.vpcf_c
+particles/impact_fx/impact_metal_vent.vpcf_c
+particles/impact_fx/impact_metal_vent_cheap.vpcf_c
+particles/impact_fx/impact_metal_vent_child_glow.vpcf_c
+particles/impact_fx/impact_mud.vpcf_c
+particles/impact_fx/impact_mud_cheap.vpcf_c
+particles/impact_fx/impact_palm_leaves_02.vpcf_c
+particles/impact_fx/impact_paper.vpcf_c
+particles/impact_fx/impact_paper_cheap.vpcf_c
+particles/impact_fx/impact_particulates.vpcf_c
+particles/impact_fx/impact_particulates_dirt.vpcf_c
+particles/impact_fx/impact_physics_dust.vpcf_c
+particles/impact_fx/impact_physics_sparks.vpcf_c
+particles/impact_fx/impact_physics_sparks_glow.vpcf_c
+particles/impact_fx/impact_plaster.vpcf_c
+particles/impact_fx/impact_plaster_base.vpcf_c
+particles/impact_fx/impact_plaster_burst.vpcf_c
+particles/impact_fx/impact_plaster_burst_cheap.vpcf_c
+particles/impact_fx/impact_plaster_burst_puff.vpcf_c
+particles/impact_fx/impact_plaster_cheap.vpcf_c
+particles/impact_fx/impact_plaster_cheap_2.vpcf_c
+particles/impact_fx/impact_plaster_child_base.vpcf_c
+particles/impact_fx/impact_plaster_child_bits.vpcf_c
+particles/impact_fx/impact_plaster_child_burst.vpcf_c
+particles/impact_fx/impact_plaster_child_burst_2.vpcf_c
+particles/impact_fx/impact_plaster_child_smoke.vpcf_c
+particles/impact_fx/impact_plaster_child_smoke2.vpcf_c
+particles/impact_fx/impact_plaster_child_smoke3.vpcf_c
+particles/impact_fx/impact_plaster_child_smoketrails.vpcf_c
+particles/impact_fx/impact_plaster_dots.vpcf_c
+particles/impact_fx/impact_plaster_flash.vpcf_c
+particles/impact_fx/impact_plaster_high.vpcf_c
+particles/impact_fx/impact_plaster_notrails.vpcf_c
+particles/impact_fx/impact_plaster_notrails_cheap.vpcf_c
+particles/impact_fx/impact_plaster_smoke.vpcf_c
+particles/impact_fx/impact_plastic.vpcf_c
+particles/impact_fx/impact_plastic_base.vpcf_c
+particles/impact_fx/impact_plastic_burst.vpcf_c
+particles/impact_fx/impact_plastic_cheap.vpcf_c
+particles/impact_fx/impact_plastic_debris_small.vpcf_c
+particles/impact_fx/impact_plastic_dust.vpcf_c
+particles/impact_fx/impact_plastic_flash.vpcf_c
+particles/impact_fx/impact_plastic_high.vpcf_c
+particles/impact_fx/impact_plastic_smoke.vpcf_c
+particles/impact_fx/impact_pottery.vpcf_c
+particles/impact_fx/impact_pottery_base.vpcf_c
+particles/impact_fx/impact_pottery_burst.vpcf_c
+particles/impact_fx/impact_pottery_burst_puff.vpcf_c
+particles/impact_fx/impact_pottery_cheap.vpcf_c
+particles/impact_fx/impact_pottery_debris_small.vpcf_c
+particles/impact_fx/impact_pottery_dust.vpcf_c
+particles/impact_fx/impact_puddle.vpcf_c
+particles/impact_fx/impact_puddle_cheap.vpcf_c
+particles/impact_fx/impact_puddle_ring.vpcf_c
+particles/impact_fx/impact_ricochet.vpcf_c
+particles/impact_fx/impact_ricochet_sparks.vpcf_c
+particles/impact_fx/impact_rock.vpcf_c
+particles/impact_fx/impact_rock_cheap.vpcf_c
+particles/impact_fx/impact_rock_child_base.vpcf_c
+particles/impact_fx/impact_rock_child_smoke.vpcf_c
+particles/impact_fx/impact_rubber.vpcf_c
+particles/impact_fx/impact_rubber_base.vpcf_c
+particles/impact_fx/impact_rubber_cheap.vpcf_c
+particles/impact_fx/impact_rubber_child_base.vpcf_c
+particles/impact_fx/impact_rubber_child_smoke.vpcf_c
+particles/impact_fx/impact_rubber_flash.vpcf_c
+particles/impact_fx/impact_sand.vpcf_c
+particles/impact_fx/impact_sandbarrel.vpcf_c
+particles/impact_fx/impact_sandbarrel_cheap.vpcf_c
+particles/impact_fx/impact_sandbarrel_sand.vpcf_c
+particles/impact_fx/impact_sand_barrel.vpcf_c
+particles/impact_fx/impact_sand_cheap.vpcf_c
+particles/impact_fx/impact_sand_child_base.vpcf_c
+particles/impact_fx/impact_sand_child_bounce.vpcf_c
+particles/impact_fx/impact_sand_child_burst.vpcf_c
+particles/impact_fx/impact_sand_child_burst2.vpcf_c
+particles/impact_fx/impact_screen_smoke_large.vpcf_c
+particles/impact_fx/impact_screen_smoke_medium.vpcf_c
+particles/impact_fx/impact_screen_smoke_small.vpcf_c
+particles/impact_fx/impact_screen_smoke_snow.vpcf_c
+particles/impact_fx/impact_sheetrock.vpcf_c
+particles/impact_fx/impact_sheetrock_cheap.vpcf_c
+particles/impact_fx/impact_sheetrock_child_base.vpcf_c
+particles/impact_fx/impact_sheetrock_child_bits.vpcf_c
+particles/impact_fx/impact_sheetrock_child_bits2.vpcf_c
+particles/impact_fx/impact_snow.vpcf_c
+particles/impact_fx/impact_snow_base.vpcf_c
+particles/impact_fx/impact_snow_burst.vpcf_c
+particles/impact_fx/impact_snow_burst_puff.vpcf_c
+particles/impact_fx/impact_snow_cheap.vpcf_c
+particles/impact_fx/impact_snow_cheap2.vpcf_c
+particles/impact_fx/impact_snow_child_base.vpcf_c
+particles/impact_fx/impact_snow_child_bounce.vpcf_c
+particles/impact_fx/impact_snow_child_smoke.vpcf_c
+particles/impact_fx/impact_snow_child_smoke_puff.vpcf_c
+particles/impact_fx/impact_snow_debris_small.vpcf_c
+particles/impact_fx/impact_snow_dust.vpcf_c
+particles/impact_fx/impact_spark_glow_lighter.vpcf_c
+particles/impact_fx/impact_spark_glow_lighter_tiny.vpcf_c
+particles/impact_fx/impact_spark_glow_soft.vpcf_c
+particles/impact_fx/impact_spark_glow_soft_parent.vpcf_c
+particles/impact_fx/impact_spark_spray.vpcf_c
+particles/impact_fx/impact_spark_spray_forward.vpcf_c
+particles/impact_fx/impact_spark_spray_large.vpcf_c
+particles/impact_fx/impact_spark_spray_small.vpcf_c
+particles/impact_fx/impact_steam_child_mist_short.vpcf_c
+particles/impact_fx/impact_tile.vpcf_c
+particles/impact_fx/impact_tile_cheap.vpcf_c
+particles/impact_fx/impact_tile_cheap2.vpcf_c
+particles/impact_fx/impact_tile_child_base.vpcf_c
+particles/impact_fx/impact_tile_child_smoke.vpcf_c
+particles/impact_fx/impact_tv_tube_smoke.vpcf_c
+particles/impact_fx/impact_upholstery.vpcf_c
+particles/impact_fx/impact_upholstery_cheap.vpcf_c
+particles/impact_fx/impact_upholstery_cheap2.vpcf_c
+particles/impact_fx/impact_upholstery_child_base.vpcf_c
+particles/impact_fx/impact_upholstery_child_burn.vpcf_c
+particles/impact_fx/impact_upholstery_child_burst.vpcf_c
+particles/impact_fx/impact_upholstery_child_smoke.vpcf_c
+particles/impact_fx/impact_upholstery_debris_small.vpcf_c
+particles/impact_fx/impact_wallbang_heavy.vpcf_c
+particles/impact_fx/impact_wallbang_light.vpcf_c
+particles/impact_fx/impact_wallbang_light_silent.vpcf_c
+particles/impact_fx/impact_water.vpcf_c
+particles/impact_fx/impact_water_cheap.vpcf_c
+particles/impact_fx/impact_water_cheap_2.vpcf_c
+particles/impact_fx/impact_water_child_base.vpcf_c
+particles/impact_fx/impact_water_child_bits.vpcf_c
+particles/impact_fx/impact_water_child_froth.vpcf_c
+particles/impact_fx/impact_water_child_refract.vpcf_c
+particles/impact_fx/impact_water_child_rings.vpcf_c
+particles/impact_fx/impact_water_child_smallrings.vpcf_c
+particles/impact_fx/impact_water_child_splash.vpcf_c
+particles/impact_fx/impact_wet.vpcf_c
+particles/impact_fx/impact_wet_cheap.vpcf_c
+particles/impact_fx/impact_wet_cheap2.vpcf_c
+particles/impact_fx/impact_wet_child_splash.vpcf_c
+particles/impact_fx/impact_wet_grass.vpcf_c
+particles/impact_fx/impact_wet_ripple.vpcf_c
+particles/impact_fx/impact_wet_splash.vpcf_c
+particles/impact_fx/impact_wood.vpcf_c
+particles/impact_fx/impact_wood_cheap.vpcf_c
+particles/impact_fx/impact_wood_child_base.vpcf_c
+particles/impact_fx/impact_wood_child_burn.vpcf_c
+particles/impact_fx/impact_wood_child_burst.vpcf_c
+particles/impact_fx/impact_wood_child_chunks.vpcf_c
+particles/impact_fx/impact_wood_child_smoke.vpcf_c
+particles/impact_fx/ricochet_sparks.vpcf_c
+particles/impact_fx/ricochet_sparks_contrast_glow.vpcf_c
+particles/impact_fx/ricochet_sparks_contrast_glow_soft.vpcf_c
+particles/impact_fx/ricochet_sparks_contrast_shadow.vpcf_c
+particles/impact_fx/ricochet_sparks_dir.vpcf_c
+particles/impact_fx/ricochet_sparks_dots.vpcf_c
+particles/impact_fx/ricochet_sparks_dots_cheap.vpcf_c
+particles/impact_fx/ricochet_sparks_sparse.vpcf_c
+particles/impact_fx/ricochet_sparks_sparse_dots.vpcf_c
+particles/impact_fx/tmp.vpcf_c
+particles/impact_fx/tv_tube_shards_01.vpcf_c
+particles/impact_fx/tv_tube_shards_02.vpcf_c
+particles/impact_fx/wood/impact_wood_chunks.vpcf_c
+particles/generic_fx/fx_electricspark_flare.vpcf_c
+particles/generic_fx/fx_electricspark_follow.vpcf_c
+particles/generic_fx/fx_electricspark_glow.vpcf_c
+particles/generic_fx/fx_electricspark_glow_large.vpcf_c
+particles/generic_fx/fx_electricspark_longtrail.vpcf_c
+particles/generic_fx/fx_electric_arc_spark.vpcf_c
+particles/gameui/particle_line_ui.vpcf_c
+particles/footstep_fx/footstep_dirt.vpcf_c
+particles/footstep_fx/footstep_grass.vpcf_c
+particles/footstep_fx/footstep_grass_b.vpcf_c
+particles/footstep_fx/footstep_mud.vpcf_c
+particles/footstep_fx/footstep_puddle.vpcf_c
+particles/footstep_fx/footstep_puddle_b.vpcf_c
+particles/footstep_fx/footstep_wet.vpcf_c
+particles/explosions_fx/beacon_smoke.vpcf_c
+particles/explosions_fx/bumpmine_detonate.vpcf_c
+particles/explosions_fx/bumpmine_detonate_distort.vpcf_c
+particles/explosions_fx/bumpmine_detonate_ring.vpcf_c
+particles/explosions_fx/bumpmine_detonate_sparks.vpcf_c
+particles/explosions_fx/bumpmine_detonate_sparks_core.vpcf_c
+particles/explosions_fx/bumpmine_detonate_sparks_glow.vpcf_c
+particles/explosions_fx/bumpmine_detonate_splash_up.vpcf_c
+particles/explosions_fx/c4_holstered_light.vpcf_c
+particles/explosions_fx/c4_holstered_light_fp.vpcf_c
+particles/explosions_fx/c4_holstered_light_fp_light.vpcf_c
+particles/explosions_fx/c4_shockwave.vsnap_c
+particles/explosions_fx/c4_timer_light.vpcf_c
+particles/explosions_fx/c4_timer_light_child01.vpcf_c
+particles/explosions_fx/c4_timer_light_child01_small.vpcf_c
+particles/explosions_fx/c4_timer_light_child02.vpcf_c
+particles/explosions_fx/c4_timer_light_child02_yellow.vpcf_c
+particles/explosions_fx/c4_timer_light_dropped.vpcf_c
+particles/explosions_fx/c4_timer_light_dropped_fallback.vpcf_c
+particles/explosions_fx/c4_timer_light_fallback.vpcf_c
+particles/explosions_fx/c4_timer_light_held.vpcf_c
+particles/explosions_fx/c4_timer_light_trigger.vpcf_c
+particles/explosions_fx/c4_timer_light_trigger_child01.vpcf_c
+particles/explosions_fx/c4_train_ground_effect.vpcf_c
+particles/explosions_fx/c4_train_ground_effect_blast.vpcf_c
+particles/explosions_fx/c4_train_ground_fleks.vpcf_c
+particles/explosions_fx/c4_train_ground_glow_01.vpcf_c
+particles/explosions_fx/c4_train_ground_glow_02.vpcf_c
+particles/explosions_fx/c4_train_ground_low_02.vpcf_c
+particles/explosions_fx/c4_train_ground_low_03.vpcf_c
+particles/explosions_fx/c4_train_ground_primary_01.vpcf_c
+particles/explosions_fx/c4_train_ground_smoke_01.vpcf_c
+particles/explosions_fx/explosion_basic.vpcf_c
+particles/explosions_fx/explosion_basic_water.vpcf_c
+particles/explosions_fx/explosion_basic_water_colliders.vpcf_c
+particles/explosions_fx/explosion_basic_water_collision_bounce.vpcf_c
+particles/explosions_fx/explosion_basic_water_foam_surface.vpcf_c
+particles/explosions_fx/explosion_basic_water_foam_surface_2nd.vpcf_c
+particles/explosions_fx/explosion_basic_water_foam_surface_ripples.vpcf_c
+particles/explosions_fx/explosion_basic_water_ripple_rings.vpcf_c
+particles/explosions_fx/explosion_basic_water_ripple_waves.vpcf_c
+particles/explosions_fx/explosion_basic_water_silt.vpcf_c
+particles/explosions_fx/explosion_basic_water_smoke_linger.vpcf_c
+particles/explosions_fx/explosion_basic_water_surface_ripples.vpcf_c
+particles/explosions_fx/explosion_basic_water_trails.vpcf_c
+particles/explosions_fx/explosion_bomb_ghost_1.vpcf_c
+particles/explosions_fx/explosion_c4_500.vpcf_c
+particles/explosions_fx/explosion_c4_500_fallback.vpcf_c
+particles/explosions_fx/explosion_c4_500_groundbase.vpcf_c
+particles/explosions_fx/explosion_c4_core04c_1k.vpcf_c
+particles/explosions_fx/explosion_c4_core04e_1k.vpcf_c
+particles/explosions_fx/explosion_c4_debris.vpcf_c
+particles/explosions_fx/explosion_c4_distort01d_1k.vpcf_c
+particles/explosions_fx/explosion_c4_embers.vpcf_c
+particles/explosions_fx/explosion_c4_flash01b.vpcf_c
+particles/explosions_fx/explosion_c4_flash02b_1k.vpcf_c
+particles/explosions_fx/explosion_c4_flash03b_1k.vpcf_c
+particles/explosions_fx/explosion_c4_groundsmoke.vpcf_c
+particles/explosions_fx/explosion_c4_ground_debris.vpcf_c
+particles/explosions_fx/explosion_c4_ground_particulate.vpcf_c
+particles/explosions_fx/explosion_c4_ground_residual.vpcf_c
+particles/explosions_fx/explosion_c4_ground_residual_ash.vpcf_c
+particles/explosions_fx/explosion_c4_ground_residual_particulate.vpcf_c
+particles/explosions_fx/explosion_c4_ground_residual_smoke.vpcf_c
+particles/explosions_fx/explosion_c4_interior.vpcf_c
+particles/explosions_fx/explosion_c4_interior_c.vpcf_c
+particles/explosions_fx/explosion_c4_interior_d.vpcf_c
+particles/explosions_fx/explosion_c4_interior_debris_small.vpcf_c
+particles/explosions_fx/explosion_c4_interior_distort01b.vpcf_c
+particles/explosions_fx/explosion_c4_interior_embers.vpcf_c
+particles/explosions_fx/explosion_c4_interior_smoke_blasts.vpcf_c
+particles/explosions_fx/explosion_c4_interior_smoke_core.vpcf_c
+particles/explosions_fx/explosion_c4_interior_smoke_ground.vpcf_c
+particles/explosions_fx/explosion_c4_interior_sparktrails.vpcf_c
+particles/explosions_fx/explosion_c4_interior_sparktrails_child.vpcf_c
+particles/explosions_fx/explosion_c4_interior_sparktrails_sparks.vpcf_c
+particles/explosions_fx/explosion_c4_interior_sparktrails_sparks_dots.vpcf_c
+particles/explosions_fx/explosion_c4_light.vpcf_c
+particles/explosions_fx/explosion_c4_player.vpcf_c
+particles/explosions_fx/explosion_c4_ropes.vpcf_c
+particles/explosions_fx/explosion_c4_rope_smoke_trail.vpcf_c
+particles/explosions_fx/explosion_c4_short.vpcf_c
+particles/explosions_fx/explosion_c4_short_smoke.vpcf_c
+particles/explosions_fx/explosion_c4_short_smoke_blasts.vpcf_c
+particles/explosions_fx/explosion_c4_short_smoke_core.vpcf_c
+particles/explosions_fx/explosion_c4_short_smoke_top.vpcf_c
+particles/explosions_fx/explosion_c4_smoke.vpcf_c
+particles/explosions_fx/explosion_c4_smoketrails.vpcf_c
+particles/explosions_fx/explosion_c4_smoketrails_child.vpcf_c
+particles/explosions_fx/explosion_c4_smoketrails_rope.vpcf_c
+particles/explosions_fx/explosion_c4_smoke_blasts.vpcf_c
+particles/explosions_fx/explosion_c4_smoke_core.vpcf_c
+particles/explosions_fx/explosion_c4_smoke_plume.vpcf_c
+particles/explosions_fx/explosion_c4_smoke_top.vpcf_c
+particles/explosions_fx/explosion_c4_smoke_top_collider.vpcf_c
+particles/explosions_fx/explosion_c4_trails.vpcf_c
+particles/explosions_fx/explosion_child_clumps01a.vpcf_c
+particles/explosions_fx/explosion_child_clumps01b.vpcf_c
+particles/explosions_fx/explosion_child_clumps02a.vpcf_c
+particles/explosions_fx/explosion_child_clumps02b.vpcf_c
+particles/explosions_fx/explosion_child_clumps03a.vpcf_c
+particles/explosions_fx/explosion_child_core04b.vpcf_c
+particles/explosions_fx/explosion_child_core04c.vpcf_c
+particles/explosions_fx/explosion_child_core04c_1k.vpcf_c
+particles/explosions_fx/explosion_child_core04e_1k.vpcf_c
+particles/explosions_fx/explosion_child_core06a.vpcf_c
+particles/explosions_fx/explosion_child_core06b.vpcf_c
+particles/explosions_fx/explosion_child_core09b_1k.vpcf_c
+particles/explosions_fx/explosion_child_distort01b.vpcf_c
+particles/explosions_fx/explosion_child_distort01c.vpcf_c
+particles/explosions_fx/explosion_child_distort01d_1k.vpcf_c
+particles/explosions_fx/explosion_child_dust03a.vpcf_c
+particles/explosions_fx/explosion_child_dust04a.vpcf_c
+particles/explosions_fx/explosion_child_dust04b.vpcf_c
+particles/explosions_fx/explosion_child_dust06a.vpcf_c
+particles/explosions_fx/explosion_child_dust07a.vpcf_c
+particles/explosions_fx/explosion_child_dust09a.vpcf_c
+particles/explosions_fx/explosion_child_dust09b.vpcf_c
+particles/explosions_fx/explosion_child_dust10a.vpcf_c
+particles/explosions_fx/explosion_child_flash01b.vpcf_c
+particles/explosions_fx/explosion_child_flash02b.vpcf_c
+particles/explosions_fx/explosion_child_flash02b_1k.vpcf_c
+particles/explosions_fx/explosion_child_flash03b_1k.vpcf_c
+particles/explosions_fx/explosion_child_shrapnel02e_1k.vpcf_c
+particles/explosions_fx/explosion_child_shrapnel03a.vpcf_c
+particles/explosions_fx/explosion_child_smoke01h_1k.vpcf_c
+particles/explosions_fx/explosion_child_smoke03b.vpcf_c
+particles/explosions_fx/explosion_child_smoke03c.vpcf_c
+particles/explosions_fx/explosion_child_smoke03d.vpcf_c
+particles/explosions_fx/explosion_child_smoke03d_ring.vpcf_c
+particles/explosions_fx/explosion_child_smoke03d_ring_copy.vpcf_c
+particles/explosions_fx/explosion_child_smoke03e.vpcf_c
+particles/explosions_fx/explosion_child_smoke03f.vpcf_c
+particles/explosions_fx/explosion_child_smoke04c.vpcf_c
+particles/explosions_fx/explosion_child_smoke06a.vpcf_c
+particles/explosions_fx/explosion_child_smoke07b.vpcf_c
+particles/explosions_fx/explosion_child_smoke07c.vpcf_c
+particles/explosions_fx/explosion_child_smoke08a.vpcf_c
+particles/explosions_fx/explosion_child_smoke09a.vpcf_c
+particles/explosions_fx/explosion_child_smoke_adaptive.vpcf_c
+particles/explosions_fx/explosion_child_smoke_bottom.vpcf_c
+particles/explosions_fx/explosion_child_smoke_pointcloud.vpcf_c
+particles/explosions_fx/explosion_child_smoke_pointcloud_col.vpcf_c
+particles/explosions_fx/explosion_child_snow03a.vpcf_c
+particles/explosions_fx/explosion_child_snow04a.vpcf_c
+particles/explosions_fx/explosion_child_snow06a.vpcf_c
+particles/explosions_fx/explosion_child_snow07a.vpcf_c
+particles/explosions_fx/explosion_child_snow08a.vpcf_c
+particles/explosions_fx/explosion_child_snow09b.vpcf_c
+particles/explosions_fx/explosion_child_snowclumps01a.vpcf_c
+particles/explosions_fx/explosion_child_snowclumps01b.vpcf_c
+particles/explosions_fx/explosion_child_snowclumps01c.vpcf_c
+particles/explosions_fx/explosion_child_snowcore06a.vpcf_c
+particles/explosions_fx/explosion_child_sparks01.vpcf_c
+particles/explosions_fx/explosion_child_water_core01a.vpcf_c
+particles/explosions_fx/explosion_child_water_foam.vpcf_c
+particles/explosions_fx/explosion_child_water_mist02a.vpcf_c
+particles/explosions_fx/explosion_child_water_rings01a.vpcf_c
+particles/explosions_fx/explosion_child_water_rings01b.vpcf_c
+particles/explosions_fx/explosion_child_water_rings01c.vpcf_c
+particles/explosions_fx/explosion_child_water_splash01a.vpcf_c
+particles/explosions_fx/explosion_child_water_splash02a.vpcf_c
+particles/explosions_fx/explosion_child_water_splash03a.vpcf_c
+particles/explosions_fx/explosion_child_water_splash03b.vpcf_c
+particles/explosions_fx/explosion_child_water_splash04a.vpcf_c
+particles/explosions_fx/explosion_child_water_splash05a.vpcf_c
+particles/explosions_fx/explosion_child_water_splash06a.vpcf_c
+particles/explosions_fx/explosion_child_water_splash07a.vpcf_c
+particles/explosions_fx/explosion_coop_mission_c4.vpcf_c
+particles/explosions_fx/explosion_coop_mission_core09b_1k.vpcf_c
+particles/explosions_fx/explosion_coop_mission_shrapnel02e_1k.vpcf_c
+particles/explosions_fx/explosion_coop_mission_smoke01h_1k.vpcf_c
+particles/explosions_fx/explosion_hegrenade.vpcf_c
+particles/explosions_fx/explosion_hegrenade_brief.vpcf_c
+particles/explosions_fx/explosion_hegrenade_brief_debris.vpcf_c
+particles/explosions_fx/explosion_hegrenade_brief_debris_small.vpcf_c
+particles/explosions_fx/explosion_hegrenade_brief_decal.vpcf_c
+particles/explosions_fx/explosion_hegrenade_brief_distort.vpcf_c
+particles/explosions_fx/explosion_hegrenade_brief_embers.vpcf_c
+particles/explosions_fx/explosion_hegrenade_brief_flash_ana.vpcf_c
+particles/explosions_fx/explosion_hegrenade_brief_heattrails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_brief_smoke_blasts.vpcf_c
+particles/explosions_fx/explosion_hegrenade_brief_smoke_core.vpcf_c
+particles/explosions_fx/explosion_hegrenade_brief_smoke_ground.vpcf_c
+particles/explosions_fx/explosion_hegrenade_debris.vpcf_c
+particles/explosions_fx/explosion_hegrenade_debris_small.vpcf_c
+particles/explosions_fx/explosion_hegrenade_decal.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_blasts.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_bursts.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_burst_core.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_core.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_debris.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_debris_small.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_debris_trails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_fallback.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_fallback2.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_ground.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_particulate.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_particulate_trails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_smoketrails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_smoketrails_child.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_smoketrails_rope.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_top.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_trails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dirt_upward_collision_check.vpcf_c
+particles/explosions_fx/explosion_hegrenade_distort.vpcf_c
+particles/explosions_fx/explosion_hegrenade_dust_motes.vpcf_c
+particles/explosions_fx/explosion_hegrenade_embers.vpcf_c
+particles/explosions_fx/explosion_hegrenade_flash01b.vpcf_c
+particles/explosions_fx/explosion_hegrenade_flash02b.vpcf_c
+particles/explosions_fx/explosion_hegrenade_flash_ana.vpcf_c
+particles/explosions_fx/explosion_hegrenade_heattrails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_interior.vpcf_c
+particles/explosions_fx/explosion_hegrenade_interior_fallback.vpcf_c
+particles/explosions_fx/explosion_hegrenade_light.vpcf_c
+particles/explosions_fx/explosion_hegrenade_smoketrails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_smoketrails_child.vpcf_c
+particles/explosions_fx/explosion_hegrenade_smoketrails_rope.vpcf_c
+particles/explosions_fx/explosion_hegrenade_smoke_blasts.vpcf_c
+particles/explosions_fx/explosion_hegrenade_smoke_core.vpcf_c
+particles/explosions_fx/explosion_hegrenade_smoke_ground.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_blasts.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_bursts.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_burst_core.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_core.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_debris.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_debris_small.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_debris_trails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_distort.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_fallback.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_fallback2.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_flakes.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_ground.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_particulate.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_particulate_trails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_smoketrails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_smoketrails_child.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_smoketrails_rope.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_top.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_trails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_snow_upward_collision_check.vpcf_c
+particles/explosions_fx/explosion_hegrenade_sparktrails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_sparktrails_child.vpcf_c
+particles/explosions_fx/explosion_hegrenade_sparktrails_sparks.vpcf_c
+particles/explosions_fx/explosion_hegrenade_sparktrails_sparks_dots.vpcf_c
+particles/explosions_fx/explosion_hegrenade_trails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_blobs.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_column.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_column_central.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_column_sides.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_core.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_core_central.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_core_small.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_debris.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_debris_small.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_distort.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_drops.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_drop_trails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_drop_trails_fall.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_fallback.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_fish.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_intial.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_intial_trail.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_ripple.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_secondary.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_small_splashes.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_surface_bubbles.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_surface_bubbles_2nd.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_surface_distortion.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_surface_foam.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_trails.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_upward_collision_check.vpcf_c
+particles/explosions_fx/explosion_hegrenade_water_vertical.vpcf_c
+particles/explosions_fx/explosion_screen_c4_blood.vpcf_c
+particles/explosions_fx/explosion_screen_c4_blood2.vpcf_c
+particles/explosions_fx/explosion_screen_c4_blood_distance_culled.vpcf_c
+particles/explosions_fx/explosion_screen_c4_blood_old.vpcf_c
+particles/explosions_fx/explosion_screen_c4_fadeout.vpcf_c
+particles/explosions_fx/explosion_screen_c4_fadeout_temp_pax.vpcf_c
+particles/explosions_fx/explosion_screen_c4_red.vpcf_c
+particles/explosions_fx/explosion_screen_c4_red_distance_culled.vpcf_c
+particles/explosions_fx/explosion_screen_hegrenade_dirt.vpcf_c
+particles/explosions_fx/explosion_screen_smokegrenade_new.vpcf_c
+particles/explosions_fx/explosion_smokegrenade.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_adaptive.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_ct.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_distort.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_fallback.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_init.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_refract.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_s1_child_distort01c.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_s1_child_smoke03d_ring.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_s1_child_smoke03e.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_s1_child_smoke07b.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_s1_child_smoke_bottom.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_s1_smokegrenade.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_s1_smokegrenade_fallback.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_simulated.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_t.vpcf_c
+particles/explosions_fx/explosion_smokegrenade_voxel.vpcf_c
+particles/explosions_fx/explosion_smoke_disperse.vpcf_c
+particles/explosions_fx/expl_coopmission_gas_explosion_debris_parents.vpcf_c
+particles/explosions_fx/expl_coopmission_gas_explosion_debris_trails.vpcf_c
+particles/explosions_fx/expl_coopmission_gas_explosion_main.vpcf_c
+particles/explosions_fx/expl_coopmission_skyboom.vpcf_c
+particles/explosions_fx/expl_coopmission_skyboom_core.vpcf_c
+particles/explosions_fx/expl_coopmission_skyboom_shrapnel.vpcf_c
+particles/explosions_fx/expl_coopmission_skyboom_smk01.vpcf_c
+particles/explosions_fx/expl_coopmission_skyboom_sparks01.vpcf_c
+particles/explosions_fx/expl_coopmission_skysmoke.vpcf_c
+particles/explosions_fx/molotov_child_flame02a.vpcf_c
+particles/explosions_fx/screen_blood_splatter.vpcf_c
+particles/explosions_fx/screen_blood_splatter_a.vpcf_c
+particles/explosions_fx/screen_blood_splatter_b.vpcf_c
+particles/explosions_fx/zone_motes.vpcf_c
+particles/explosions_fx/smokegrenade/smokegrendae.vsnap_c
+particles/explosions_fx/smokegrenade/weapon_smokegrenade_adaptive.vsnap_c
+particles/explosions_fx/smokegrenade/weapon_smokegrenade_pointcloud.vsnap_c
+particles/explosions_fx/smokegrenade/weapon_smokegrenade_pointcloud_col.vsnap_c
+particles/error/error.vpcf_c
+particles/environment/ambient_leaves_01.vpcf_c
+particles/environment/ambient_leaves_02.vpcf_c
+particles/environment/ambient_leaves_02_cp.vpcf_c
+particles/environment/ambient_paper_debris.vpcf_c
+particles/environment/ambient_paper_debris_2.vpcf_c
+particles/environment/directionallight_glow01.vpcf_c
+particles/environment/directional_glow01_flare.vpcf_c
+particles/environment/env_dust_emote.vpcf_c
+particles/environment/env_light_glow_01.vpcf_c
+particles/environment/env_light_glow_01_snapshot.vpcf_c
+particles/environment/env_light_glow_beam_snapshot.vpcf_c
+particles/environment/env_stringcablelights_cooltemp_snapshot.vpcf_c
+particles/environment/env_stringcablelights_snapshot.vpcf_c
+particles/environment/env_stringlights_cooltemp_snapshot.vpcf_c
+particles/environment/env_stringlights_snapshot.vpcf_c
+particles/environment/env_sunray_directional_flare.vpcf_c
+particles/environment/env_sunray_glow_beam_noflare_snapshot.vpcf_c
+particles/environment/env_sunray_glow_beam_snapshot.vpcf_c
+particles/environment/env_sun_clear.vpcf_c
+particles/environment/env_sun_clear_child.vpcf_c
+particles/environment/env_sun_cloudy.vpcf_c
+particles/environment/env_sun_floating_island.vpcf_c
+particles/environment/env_sun_moon.vpcf_c
+particles/environment/env_sun_screenspace_flare.vpcf_c
+particles/environment/flared_light01.vpcf_c
+particles/environment/glow01.vpcf_c
+particles/environment/glow01_bloom.vpcf_c
+particles/environment/glow01_flare.vpcf_c
+particles/environment/glow01_snapshot.vpcf_c
+particles/environment/glow01_snapshot_child.vpcf_c
+particles/environment/light_glow_01.vpcf_c
+particles/environment/omnilight_glow01.vpcf_c
+particles/environment/soft_glow01.vpcf_c
+particles/environment/sun_clear.vpcf_c
+particles/environment/water_drip_area_01.vpcf_c
+particles/environment/water_drip_area_01_fewer_drips.vpcf_c
+particles/environment/water_drip_area_01_small.vpcf_c
+particles/environment/water_drip_area_01_smaller_area.vpcf_c
+particles/environment/water_drip_area_01_small_origin.vpcf_c
+particles/environment/water_drip_splash_01.vpcf_c
+particles/environment/de_train/train_coal_dump.vpcf_c
+particles/environment/de_train/train_coal_dump_trails.vpcf_c
+particles/environment/de_train/train_coal_train_smoke.vpcf_c
+particles/environment/de_train/train_lightning.vpcf_c
+particles/entity/grenade_path_snap.vsnap_c
+particles/entity/path_particle_c4_wires.vpcf_c
+particles/entity/path_particle_cable_default.vpcf_c
+particles/entity/path_particle_cable_nuke.vpcf_c
+particles/entity/path_particle_cable_static.vpcf_c
+particles/entity/path_particle_cable_static_cheap.vpcf_c
+particles/entity/path_particle_cable_static_cheap_opaque.vpcf_c
+particles/entity/path_particle_cable_static_translucent.vpcf_c
+particles/entity/path_particle_cable_static_white.vpcf_c
+particles/entity/path_particle_cable_tintable.vpcf_c
+particles/entity/path_particle_cable_yellow.vpcf_c
+particles/entity/spectator_utility_trail.vpcf_c
+particles/entity/env_explosion/explosion_hegrenade_a.vpcf_c
+particles/entity/env_explosion/explosion_hegrenade_b.vpcf_c
+particles/entity/env_explosion/explosion_hegrenade_c.vpcf_c
+particles/entity/env_explosion/explosion_hegrenade_d.vpcf_c
+particles/entity/env_explosion/explosion_hegrenade_e.vpcf_c
+particles/entity/env_explosion/explosion_hegrenade_f.vpcf_c
+particles/entity/env_explosion/explosion_hegrenade_flash.vpcf_c
+particles/entity/env_explosion/explosion_hegrenade_g.vpcf_c
+particles/entity/env_explosion/explosion_hegrenade_h.vpcf_c
+particles/entity/env_explosion/explosion_hegrenade_model.vpcf_c
+particles/entity/env_explosion/explosion_hegrenade_model_sphere.vpcf_c
+particles/entity/env_explosion/test_explosion_smoke_overbright_saturation.vpcf_c
+particles/entity/env_explosion/test_particle_composite_dark_outline.vpcf_c
+particles/entity/env_explosion/test_particle_composite_dark_outline_glow.vpcf_c
+particles/entity/env_explosion/test_particle_composite_dark_outline_smoke.vpcf_c
+particles/entity/env_explosion/test_particle_lighting.vpcf_c
+particles/dev/add_self.vpcf_c
+particles/dev/burning_fire_test.vpcf_c
 particles/dev/dev_cables_preview_color_tga_bb21bf56.vtex_c
 particles/dev/dev_cables_preview_material.vmat_c
 particles/dev/dev_cables_preview_normal_tga_811c816.vtex_c
-particles/dev/dev_snapshot_image_preview_sprites.vpcf_c |
-particles/dev/directional_arrows.vpcf_c |
-particles/dev/directional_arrows_x.vpcf_c |
-particles/dev/directional_arrows_y.vpcf_c |
-particles/dev/directional_arrows_z.vpcf_c |
-particles/dev/empty.vpcf_c |
-particles/dev/exr_hdr_particle_test.vpcf_c |
-particles/dev/image_base.vsnap_c |
-particles/dev/materials_test.vpcf_c |
-particles/dev/materials_test_alpha_thresholding.vpcf_c |
-particles/dev/materials_test_burst.vpcf_c |
-particles/dev/materials_test_cam_dot_01.vpcf_c |
-particles/dev/materials_test_core.vpcf_c |
-particles/dev/materials_test_directional_blasts.vpcf_c |
-particles/dev/materials_test_flash.vpcf_c |
-particles/dev/materials_test_plume.vpcf_c |
-particles/dev/materials_test_puffs.vpcf_c |
-particles/dev/material_test_debris_small.vpcf_c |
-particles/dev/oit_trans_test_a.vpcf_c |
-particles/dev/oit_trans_test_line.vpcf_c |
-particles/dev/remap_luminescence.vpcf_c |
-particles/dev/smoke_alphaedge_parent.vpcf_c |
-particles/dev/smoke_alpha_edge.vpcf_c |
-particles/dev/smoke_burst_flowtest.vpcf_c |
-particles/dev/smoke_sizetofadeaway.vpcf_c |
-particles/critters/chicken/chicken_crumble_death.vpcf_c |
-particles/critters/chicken/chicken_crumble_dust.vpcf_c |
-particles/critters/chicken/chicken_gone.vpcf_c |
-particles/critters/chicken/chicken_gone_cheaper.vpcf_c |
-particles/critters/chicken/chicken_gone_cheapest.vpcf_c |
-particles/critters/chicken/chicken_gone_crumble_halloween.vpcf_c |
-particles/critters/chicken/chicken_gone_feathers.vpcf_c |
-particles/critters/chicken/chicken_gone_feathers_cheaper.vpcf_c |
-particles/critters/chicken/chicken_gone_feathers_fire.vpcf_c |
-particles/critters/chicken/chicken_gone_feathers_zombie.vpcf_c |
-particles/critters/chicken/chicken_gone_fleks.vpcf_c |
-particles/critters/chicken/chicken_gone_zombie.vpcf_c |
-particles/critters/chicken/chicken_goop.vpcf_c |
-particles/critters/chicken/chicken_impact_burst.vpcf_c |
-particles/critters/chicken/chicken_impact_burst2.vpcf_c |
-particles/critters/chicken/chicken_impact_burst3.vpcf_c |
-particles/critters/chicken/chicken_impact_burst_zombie.vpcf_c |
-particles/critters/chicken/chicken_rez.vpcf_c |
-particles/critters/chicken/chicken_rez_dirt_child.vpcf_c |
-particles/critters/chicken/chicken_rez_dirt_child_clumps.vpcf_c |
-particles/critters/chicken/chicken_rez_dirt_smoke_puff.vpcf_c |
-particles/critters/chicken/chicken_roasted.vpcf_c |
-particles/critters/chicken/chicken_roasted_firensteam.vpcf_c |
-particles/critters/chicken/chicken_roasted_steam.vpcf_c |
-particles/characters/smokegrenade_body_fx.vpcf_c |
-particles/characters/smokegrenade_body_fx_temp.vpcf_c |
-particles/characters/smokegrenade_body_fx_trails.vpcf_c |
-particles/characters/taser_body_fx.vpcf_c |
-particles/characters/models/shared/character_fx/character_skinned_leg_fxpoints.vsnap_c |
-particles/characters/models/shared/character_fx/character_smoke_bodyfx.vsnap_c |
-particles/characters/models/shared/character_fx/character_taser_bodyfx.vsnap_c |
-particles/burning_fx/barrel_burning_engine_fire.vpcf_c |
-particles/burning_fx/barrel_burning_engine_fire_glow.vpcf_c |
-particles/burning_fx/barrel_burning_engine_fire_static.vpcf_c |
-particles/burning_fx/barrel_burning_engine_smoke.vpcf_c |
-particles/burning_fx/barrel_burning_engine_smoke_dark.vpcf_c |
-particles/burning_fx/barrel_burning_trail.vpcf_c |
-particles/burning_fx/barrel_embers.vpcf_c |
-particles/burning_fx/barrel_fire_scortch.vpcf_c |
-particles/burning_fx/burning_character.vpcf_c |
-particles/burning_fx/burning_character_b.vpcf_c |
-particles/burning_fx/burning_character_c.vpcf_c |
-particles/burning_fx/burning_character_d.vpcf_c |
-particles/burning_fx/burning_character_e.vpcf_c |
-particles/burning_fx/chaotic_embers_basic.vpcf_c |
-particles/burning_fx/env_embers_large.vpcf_c |
-particles/burning_fx/env_embers_medium.vpcf_c |
-particles/burning_fx/env_embers_small.vpcf_c |
-particles/burning_fx/env_embers_tiny.vpcf_c |
-particles/burning_fx/env_fire_large.vpcf_c |
-particles/burning_fx/env_fire_large_b.vpcf_c |
-particles/burning_fx/env_fire_large_smoke.vpcf_c |
-particles/burning_fx/env_fire_large_smoke_b.vpcf_c |
-particles/burning_fx/env_fire_medium.vpcf_c |
-particles/burning_fx/env_fire_medium_b.vpcf_c |
-particles/burning_fx/env_fire_medium_smoke.vpcf_c |
-particles/burning_fx/env_fire_random_puff.vpcf_c |
-particles/burning_fx/env_fire_small.vpcf_c |
-particles/burning_fx/env_fire_small_b.vpcf_c |
-particles/burning_fx/env_fire_small_base.vpcf_c |
-particles/burning_fx/env_fire_small_coverage.vpcf_c |
-particles/burning_fx/env_fire_small_coverage_b.vpcf_c |
-particles/burning_fx/env_fire_small_coverage_base.vpcf_c |
-particles/burning_fx/env_fire_small_coverage_base_smoke.vpcf_c |
-particles/burning_fx/env_fire_small_coverage_c.vpcf_c |
-particles/burning_fx/env_fire_small_coverage_smoke.vpcf_c |
-particles/burning_fx/env_fire_small_smoke.vpcf_c |
-particles/burning_fx/env_fire_tiny.vpcf_c |
-particles/burning_fx/env_fire_tiny_b.vpcf_c |
-particles/burning_fx/env_fire_tiny_smoke.vpcf_c |
-particles/burning_fx/fireplace_simple_fire.vpcf_c |
-particles/burning_fx/gas_canister_idle_radius.vpcf_c |
-particles/burning_fx/gas_canister_single_smoke.vpcf_c |
-particles/burning_fx/gas_canister_trail.vpcf_c |
-particles/burning_fx/gas_cannister_idle_billow.vpcf_c |
-particles/burning_fx/gas_cannister_idle_embers.vpcf_c |
-particles/burning_fx/gas_cannister_idle_ring_embers.vpcf_c |
-particles/burning_fx/gas_cannister_trail_embers.vpcf_c |
-particles/burning_fx/gas_cannister_trail_smoke.vpcf_c |
-particles/burning_fx/gas_cannister_trail_smoke_copy.vpcf_c |
-particles/burning_fx/gas_cannister_trail_smoke_fire.vpcf_c |
-particles/burning_fx/impact_gas_rocket.vpcf_c |
-particles/burning_fx/impact_gas_rocket_child.vpcf_c |
-particles/burning_fx/impact_gas_rocket_child04a.vpcf_c |
-particles/burning_fx/impact_gas_rocket_child07a.vpcf_c |
-particles/burning_fx/impact_gas_rocket_child08a.vpcf_c |
-particles/burning_fx/impact_gas_rocket_child09b.vpcf_c |
-particles/burning_fx/impact_gas_rocket_child_bits2.vpcf_c |
-particles/burning_fx/impact_gas_rocket_flash.vpcf_c |
-particles/burning_fx/smoke_gib_01.vpcf_c |
-particles/breakable_fx/balloon_pop.vpcf_c |
-particles/breakable_fx/bottles_liquid_break_particles.vpcf_c |
-particles/breakable_fx/bottles_liquid_break_particles_rose.vpcf_c |
-particles/breakable_fx/bottles_liquid_break_particles_white.vpcf_c |
-particles/breakable_fx/breakable_01_paint_flakes.vpcf_c |
-particles/breakable_fx/breakable_dust_expl.vpcf_c |
-particles/breakable_fx/breakable_mail_debris_01.vpcf_c |
-particles/breakable_fx/breakable_mail_debris_onfire_01.vpcf_c |
-particles/breakable_fx/break_cabbage.vpcf_c |
-particles/breakable_fx/break_cabbage_chunks.vpcf_c |
-particles/breakable_fx/break_orange.vpcf_c |
-particles/breakable_fx/break_watermelon.vpcf_c |
-particles/breakable_fx/break_watermelon_chunks.vpcf_c |
-particles/breakable_fx/break_wine_bottles_decal.vpcf_c |
-particles/breakable_fx/break_wine_bottles_decal_1.vpcf_c |
-particles/breakable_fx/break_wine_bottles_decal_3.vpcf_c |
-particles/breakable_fx/break_wine_bottles_decal_4.vpcf_c |
-particles/breakable_fx/break_wine_bottles_decal_5.vpcf_c |
-particles/breakable_fx/break_wine_bottles_red.vpcf_c |
-particles/breakable_fx/break_wine_bottles_rose.vpcf_c |
-particles/breakable_fx/break_wine_bottles_splash.vpcf_c |
-particles/breakable_fx/break_wine_bottles_white.vpcf_c |
-particles/breakable_fx/break_zucchini.vpcf_c |
-particles/breakable_fx/prop_break_particles.vpcf_c |
-particles/blood_impact/blood_impact_basic.vpcf_c |
-particles/blood_impact/blood_impact_basic_fallback.vpcf_c |
-particles/blood_impact/blood_impact_chunks1.vpcf_c |
-particles/blood_impact/blood_impact_directional_highvel_spray.vpcf_c |
-particles/blood_impact/blood_impact_directional_med.vpcf_c |
-particles/blood_impact/blood_impact_directional_spray_med.vpcf_c |
-particles/blood_impact/blood_impact_drops1.vpcf_c |
-particles/blood_impact/blood_impact_dust.vpcf_c |
-particles/blood_impact/blood_impact_friendly.vpcf_c |
-particles/blood_impact/blood_impact_friendly_mist.vpcf_c |
-particles/blood_impact/blood_impact_goop_heavy.vpcf_c |
-particles/blood_impact/blood_impact_goop_light.vpcf_c |
-particles/blood_impact/blood_impact_goop_medium.vpcf_c |
-particles/blood_impact/blood_impact_green_01.vpcf_c |
-particles/blood_impact/blood_impact_headshot.vpcf_c |
-particles/blood_impact/blood_impact_headshot_01b.vpcf_c |
-particles/blood_impact/blood_impact_headshot_01c.vpcf_c |
-particles/blood_impact/blood_impact_headshot_01d.vpcf_c |
-particles/blood_impact/blood_impact_headshot_01e.vpcf_c |
-particles/blood_impact/blood_impact_heavy.vpcf_c |
-particles/blood_impact/blood_impact_high.vpcf_c |
-particles/blood_impact/blood_impact_high_ground_decal.vpcf_c |
-particles/blood_impact/blood_impact_high_ground_decalalt.vpcf_c |
-particles/blood_impact/blood_impact_high_mist_away.vpcf_c |
-particles/blood_impact/blood_impact_high_spray_away.vpcf_c |
-particles/blood_impact/blood_impact_high_vis_spray.vpcf_c |
-particles/blood_impact/blood_impact_high_vis_spray_trail.vpcf_c |
-particles/blood_impact/blood_impact_light.vpcf_c |
-particles/blood_impact/blood_impact_light_headshot.vpcf_c |
-particles/blood_impact/blood_impact_localfrontenemy.vpcf_c |
-particles/blood_impact/blood_impact_localfrontenemy_splatter.vpcf_c |
-particles/blood_impact/blood_impact_localfrontenemy_splatter_lft.vpcf_c |
-particles/blood_impact/blood_impact_localfrontenemy_splatter_rgt.vpcf_c |
-particles/blood_impact/blood_impact_localkillshot.vpcf_c |
-particles/blood_impact/blood_impact_localkillshot_splatter.vpcf_c |
-particles/blood_impact/blood_impact_localplayer.vpcf_c |
-particles/blood_impact/blood_impact_localrearhit.vpcf_c |
-particles/blood_impact/blood_impact_localrearhit_splatter.vpcf_c |
-particles/blood_impact/blood_impact_low.vpcf_c |
-particles/blood_impact/blood_impact_low_ground_decal.vpcf_c |
-particles/blood_impact/blood_impact_low_ground_decal_alt.vpcf_c |
-particles/blood_impact/blood_impact_low_mist_away.vpcf_c |
-particles/blood_impact/blood_impact_low_spray_away.vpcf_c |
-particles/blood_impact/blood_impact_low_spray_screen.vpcf_c |
-particles/blood_impact/blood_impact_low_vis_spray.vpcf_c |
-particles/blood_impact/blood_impact_low_vis_spray_away.vpcf_c |
-particles/blood_impact/blood_impact_low_vis_spray_trail.vpcf_c |
-particles/blood_impact/blood_impact_lp_mist.vpcf_c |
-particles/blood_impact/blood_impact_lp_spray.vpcf_c |
-particles/blood_impact/blood_impact_med.vpcf_c |
-particles/blood_impact/blood_impact_medium.vpcf_c |
-particles/blood_impact/blood_impact_med_ground_decal.vpcf_c |
-particles/blood_impact/blood_impact_med_ground_decalalt.vpcf_c |
-particles/blood_impact/blood_impact_med_ground_decalaltb.vpcf_c |
-particles/blood_impact/blood_impact_med_mist_away.vpcf_c |
-particles/blood_impact/blood_impact_med_spray_away.vpcf_c |
-particles/blood_impact/blood_impact_med_spray_screen.vpcf_c |
-particles/blood_impact/blood_impact_med_vis_spray.vpcf_c |
-particles/blood_impact/blood_impact_med_vis_spray_trail.vpcf_c |
-particles/blood_impact/blood_impact_mist1.vpcf_c |
-particles/blood_impact/blood_impact_mist1_light.vpcf_c |
-particles/blood_impact/blood_impact_mist_away.vpcf_c |
-particles/blood_impact/blood_impact_mist_heavy.vpcf_c |
-particles/blood_impact/blood_impact_red_01.vpcf_c |
-particles/blood_impact/blood_impact_red_01_backspray.vpcf_c |
-particles/blood_impact/blood_impact_red_01_chunk.vpcf_c |
-particles/blood_impact/blood_impact_red_01_drops.vpcf_c |
-particles/blood_impact/blood_impact_red_01_goop_a.vpcf_c |
-particles/blood_impact/blood_impact_red_01_goop_a_backup.vpcf_c |
-particles/blood_impact/blood_impact_red_01_goop_b.vpcf_c |
-particles/blood_impact/blood_impact_red_01_goop_c.vpcf_c |
-particles/blood_impact/blood_impact_red_01_mist.vpcf_c |
-particles/blood_impact/blood_impact_yellow_01.vpcf_c |
-particles/blood_impact/blood_pool.vpcf_c |
-particles/blood_impact/gore_goop_generic.vpcf_c |
-particles/blood_impact/impact_blood_glow.vpcf_c |
-particles/blood_impact/impact_blood_glow_light.vpcf_c |
-particles/blood_impact/impact_blood_glow_light_master.vpcf_c |
-particles/blood_impact/impact_blood_glow_normal_master.vpcf_c |
-particles/blood_impact/impact_taser_bodyfx.vpcf_c |
-particles/blood_impact/impact_taser_bodyfx_ashes.vpcf_c |
-particles/ambient_fx/achieved.vpcf_c |
-particles/ambient_fx/aircraft_navgreen.vpcf_c |
-particles/ambient_fx/aircraft_navred.vpcf_c |
-particles/ambient_fx/aircraft_strobe_orange.vpcf_c |
-particles/ambient_fx/ambient_ground_dust.vpcf_c |
-particles/ambient_fx/ambient_leaf_blow_e.vpcf_c |
-particles/ambient_fx/ambient_leaf_blow_n.vpcf_c |
-particles/ambient_fx/ambient_leaf_blow_s.vpcf_c |
-particles/ambient_fx/ambient_leaf_blow_vertical.vpcf_c |
-particles/ambient_fx/ambient_leaf_blow_vertical_collision_backup.vpcf_c |
-particles/ambient_fx/ambient_leaf_blow_w.vpcf_c |
-particles/ambient_fx/ambient_paper_blow_e.vpcf_c |
-particles/ambient_fx/ambient_paper_blow_n.vpcf_c |
-particles/ambient_fx/ambient_paper_blow_s.vpcf_c |
-particles/ambient_fx/ambient_paper_blow_w.vpcf_c |
-particles/ambient_fx/ambient_smokestack.vpcf_c |
-particles/ambient_fx/ambient_smokestack_noise.vpcf_c |
-particles/ambient_fx/ambient_sparks.vpcf_c |
-particles/ambient_fx/ambient_sparks_backup.vpcf_c |
-particles/ambient_fx/ambient_sparks_core.vpcf_c |
-particles/ambient_fx/ambient_sparks_glow.vpcf_c |
-particles/ambient_fx/apc_wheeldust.vpcf_c |
-particles/ambient_fx/apc_wheeldust_clumps.vpcf_c |
-particles/ambient_fx/apc_wheeldust_clumps_slow.vpcf_c |
-particles/ambient_fx/apc_wheeldust_large.vpcf_c |
-particles/ambient_fx/apc_wheeldust_slow.vpcf_c |
-particles/ambient_fx/cbble_fog_low.vpcf_c |
-particles/ambient_fx/cbbl_movie_fog.vpcf_c |
-particles/ambient_fx/copter_land_loop_1.vpcf_c |
-particles/ambient_fx/copter_land_loop_1_dust_low.vpcf_c |
-particles/ambient_fx/copter_land_loop_1_grass.vpcf_c |
-particles/ambient_fx/copter_takeoff_1.vpcf_c |
-particles/ambient_fx/copter_takeoff_1_dust_low.vpcf_c |
-particles/ambient_fx/copter_takeoff_1_grass.vpcf_c |
-particles/ambient_fx/cratebeacon_light_blink.vpcf_c |
-particles/ambient_fx/cratebeacon_light_blink_a.vpcf_c |
-particles/ambient_fx/cratebeacon_light_blink_b.vpcf_c |
-particles/ambient_fx/dissolve.vpcf_c |
-particles/ambient_fx/dustmotes_64.vpcf_c |
-particles/ambient_fx/engsmokea.vpcf_c |
-particles/ambient_fx/engsmokea_con.vpcf_c |
-particles/ambient_fx/engsmokea_rev.vpcf_c |
-particles/ambient_fx/engsmokeb.vpcf_c |
-particles/ambient_fx/engsmokeb_con.vpcf_c |
-particles/ambient_fx/engsmokeb_rev.vpcf_c |
-particles/ambient_fx/env_sparks_a.vpcf_c |
-particles/ambient_fx/env_sparks_b.vpcf_c |
-particles/ambient_fx/env_sparks_c.vpcf_c |
-particles/ambient_fx/env_sparks_d.vpcf_c |
-particles/ambient_fx/env_sparks_directional.vpcf_c |
-particles/ambient_fx/env_sparks_directional_a.vpcf_c |
-particles/ambient_fx/env_sparks_directional_e.vpcf_c |
-particles/ambient_fx/env_sparks_directional_f.vpcf_c |
-particles/ambient_fx/env_sparks_directional_g.vpcf_c |
-particles/ambient_fx/env_sparks_directional_h.vpcf_c |
-particles/ambient_fx/env_sparks_directional_i.vpcf_c |
-particles/ambient_fx/env_sparks_e.vpcf_c |
-particles/ambient_fx/env_sparks_f.vpcf_c |
-particles/ambient_fx/env_sparks_g.vpcf_c |
-particles/ambient_fx/env_sparks_h.vpcf_c |
-particles/ambient_fx/env_sparks_i.vpcf_c |
-particles/ambient_fx/env_sparks_j.vpcf_c |
-particles/ambient_fx/env_sparks_k.vpcf_c |
-particles/ambient_fx/env_sparks_omni.vpcf_c |
-particles/ambient_fx/ghost_player_whisps.vpcf_c |
-particles/ambient_fx/ghost_player_whisps_b.vpcf_c |
-particles/ambient_fx/ghost_player_whisps_c.vpcf_c |
-particles/ambient_fx/ghost_player_whisps_eye_l.vpcf_c |
-particles/ambient_fx/ghost_player_whisps_eye_r.vpcf_c |
-particles/ambient_fx/ghost_player_whisps_ragdoll.vpcf_c |
-particles/ambient_fx/impact_dirt.vpcf_c |
-particles/ambient_fx/impact_dirt_child_base.vpcf_c |
-particles/ambient_fx/impact_dirt_child_clumps.vpcf_c |
-particles/ambient_fx/impact_dirt_child_smoke_puff.vpcf_c |
-particles/ambient_fx/impact_generic_burst_3.vpcf_c |
-particles/ambient_fx/impact_generic_smoke_large.vpcf_c |
-particles/ambient_fx/leaf_blow_green_horizontal.vpcf_c |
-particles/ambient_fx/leaf_blow_green_vertical.vpcf_c |
-particles/ambient_fx/ricochet_sparks_contrast_glow_soft.vpcf_c |
-particles/ambient_fx/snow_drift_128.vpcf_c |
-particles/ambient_fx/stars_skybox.vpcf_c |
-particles/ambient_fx/stars_skybox_tiny.vpcf_c |
-particles/ambient_fx/survival_bunker_light.vpcf_c |
-particles/ambient_fx/survival_bunker_light_dustmotes.vpcf_c |
-particles/ambient/ambient_water_stream.vpcf_c |
-particles/ambient/ambient_water_stream_b.vpcf_c |
-particles/ambient/ambient_water_stream_c.vpcf_c |
-particles/ambient/ambient_water_stream_d.vpcf_c |
-particles/ambient/ambient_water_stream_e.vpcf_c |
-particles/ambient/ambient_water_stream_f.vpcf_c |
+particles/dev/dev_snapshot_image_preview_sprites.vpcf_c
+particles/dev/directional_arrows.vpcf_c
+particles/dev/directional_arrows_x.vpcf_c
+particles/dev/directional_arrows_y.vpcf_c
+particles/dev/directional_arrows_z.vpcf_c
+particles/dev/empty.vpcf_c
+particles/dev/exr_hdr_particle_test.vpcf_c
+particles/dev/image_base.vsnap_c
+particles/dev/materials_test.vpcf_c
+particles/dev/materials_test_alpha_thresholding.vpcf_c
+particles/dev/materials_test_burst.vpcf_c
+particles/dev/materials_test_cam_dot_01.vpcf_c
+particles/dev/materials_test_core.vpcf_c
+particles/dev/materials_test_directional_blasts.vpcf_c
+particles/dev/materials_test_flash.vpcf_c
+particles/dev/materials_test_plume.vpcf_c
+particles/dev/materials_test_puffs.vpcf_c
+particles/dev/material_test_debris_small.vpcf_c
+particles/dev/oit_trans_test_a.vpcf_c
+particles/dev/oit_trans_test_line.vpcf_c
+particles/dev/remap_luminescence.vpcf_c
+particles/dev/smoke_alphaedge_parent.vpcf_c
+particles/dev/smoke_alpha_edge.vpcf_c
+particles/dev/smoke_burst_flowtest.vpcf_c
+particles/dev/smoke_sizetofadeaway.vpcf_c
+particles/critters/chicken/chicken_crumble_death.vpcf_c
+particles/critters/chicken/chicken_crumble_dust.vpcf_c
+particles/critters/chicken/chicken_gone.vpcf_c
+particles/critters/chicken/chicken_gone_cheaper.vpcf_c
+particles/critters/chicken/chicken_gone_cheapest.vpcf_c
+particles/critters/chicken/chicken_gone_crumble_halloween.vpcf_c
+particles/critters/chicken/chicken_gone_feathers.vpcf_c
+particles/critters/chicken/chicken_gone_feathers_cheaper.vpcf_c
+particles/critters/chicken/chicken_gone_feathers_fire.vpcf_c
+particles/critters/chicken/chicken_gone_feathers_zombie.vpcf_c
+particles/critters/chicken/chicken_gone_fleks.vpcf_c
+particles/critters/chicken/chicken_gone_zombie.vpcf_c
+particles/critters/chicken/chicken_goop.vpcf_c
+particles/critters/chicken/chicken_impact_burst.vpcf_c
+particles/critters/chicken/chicken_impact_burst2.vpcf_c
+particles/critters/chicken/chicken_impact_burst3.vpcf_c
+particles/critters/chicken/chicken_impact_burst_zombie.vpcf_c
+particles/critters/chicken/chicken_rez.vpcf_c
+particles/critters/chicken/chicken_rez_dirt_child.vpcf_c
+particles/critters/chicken/chicken_rez_dirt_child_clumps.vpcf_c
+particles/critters/chicken/chicken_rez_dirt_smoke_puff.vpcf_c
+particles/critters/chicken/chicken_roasted.vpcf_c
+particles/critters/chicken/chicken_roasted_firensteam.vpcf_c
+particles/critters/chicken/chicken_roasted_steam.vpcf_c
+particles/characters/smokegrenade_body_fx.vpcf_c
+particles/characters/smokegrenade_body_fx_temp.vpcf_c
+particles/characters/smokegrenade_body_fx_trails.vpcf_c
+particles/characters/taser_body_fx.vpcf_c
+particles/characters/models/shared/character_fx/character_skinned_leg_fxpoints.vsnap_c
+particles/characters/models/shared/character_fx/character_smoke_bodyfx.vsnap_c
+particles/characters/models/shared/character_fx/character_taser_bodyfx.vsnap_c
+particles/burning_fx/barrel_burning_engine_fire.vpcf_c
+particles/burning_fx/barrel_burning_engine_fire_glow.vpcf_c
+particles/burning_fx/barrel_burning_engine_fire_static.vpcf_c
+particles/burning_fx/barrel_burning_engine_smoke.vpcf_c
+particles/burning_fx/barrel_burning_engine_smoke_dark.vpcf_c
+particles/burning_fx/barrel_burning_trail.vpcf_c
+particles/burning_fx/barrel_embers.vpcf_c
+particles/burning_fx/barrel_fire_scortch.vpcf_c
+particles/burning_fx/burning_character.vpcf_c
+particles/burning_fx/burning_character_b.vpcf_c
+particles/burning_fx/burning_character_c.vpcf_c
+particles/burning_fx/burning_character_d.vpcf_c
+particles/burning_fx/burning_character_e.vpcf_c
+particles/burning_fx/chaotic_embers_basic.vpcf_c
+particles/burning_fx/env_embers_large.vpcf_c
+particles/burning_fx/env_embers_medium.vpcf_c
+particles/burning_fx/env_embers_small.vpcf_c
+particles/burning_fx/env_embers_tiny.vpcf_c
+particles/burning_fx/env_fire_large.vpcf_c
+particles/burning_fx/env_fire_large_b.vpcf_c
+particles/burning_fx/env_fire_large_smoke.vpcf_c
+particles/burning_fx/env_fire_large_smoke_b.vpcf_c
+particles/burning_fx/env_fire_medium.vpcf_c
+particles/burning_fx/env_fire_medium_b.vpcf_c
+particles/burning_fx/env_fire_medium_smoke.vpcf_c
+particles/burning_fx/env_fire_random_puff.vpcf_c
+particles/burning_fx/env_fire_small.vpcf_c
+particles/burning_fx/env_fire_small_b.vpcf_c
+particles/burning_fx/env_fire_small_base.vpcf_c
+particles/burning_fx/env_fire_small_coverage.vpcf_c
+particles/burning_fx/env_fire_small_coverage_b.vpcf_c
+particles/burning_fx/env_fire_small_coverage_base.vpcf_c
+particles/burning_fx/env_fire_small_coverage_base_smoke.vpcf_c
+particles/burning_fx/env_fire_small_coverage_c.vpcf_c
+particles/burning_fx/env_fire_small_coverage_smoke.vpcf_c
+particles/burning_fx/env_fire_small_smoke.vpcf_c
+particles/burning_fx/env_fire_tiny.vpcf_c
+particles/burning_fx/env_fire_tiny_b.vpcf_c
+particles/burning_fx/env_fire_tiny_smoke.vpcf_c
+particles/burning_fx/fireplace_simple_fire.vpcf_c
+particles/burning_fx/gas_canister_idle_radius.vpcf_c
+particles/burning_fx/gas_canister_single_smoke.vpcf_c
+particles/burning_fx/gas_canister_trail.vpcf_c
+particles/burning_fx/gas_cannister_idle_billow.vpcf_c
+particles/burning_fx/gas_cannister_idle_embers.vpcf_c
+particles/burning_fx/gas_cannister_idle_ring_embers.vpcf_c
+particles/burning_fx/gas_cannister_trail_embers.vpcf_c
+particles/burning_fx/gas_cannister_trail_smoke.vpcf_c
+particles/burning_fx/gas_cannister_trail_smoke_copy.vpcf_c
+particles/burning_fx/gas_cannister_trail_smoke_fire.vpcf_c
+particles/burning_fx/impact_gas_rocket.vpcf_c
+particles/burning_fx/impact_gas_rocket_child.vpcf_c
+particles/burning_fx/impact_gas_rocket_child04a.vpcf_c
+particles/burning_fx/impact_gas_rocket_child07a.vpcf_c
+particles/burning_fx/impact_gas_rocket_child08a.vpcf_c
+particles/burning_fx/impact_gas_rocket_child09b.vpcf_c
+particles/burning_fx/impact_gas_rocket_child_bits2.vpcf_c
+particles/burning_fx/impact_gas_rocket_flash.vpcf_c
+particles/burning_fx/smoke_gib_01.vpcf_c
+particles/breakable_fx/balloon_pop.vpcf_c
+particles/breakable_fx/bottles_liquid_break_particles.vpcf_c
+particles/breakable_fx/bottles_liquid_break_particles_rose.vpcf_c
+particles/breakable_fx/bottles_liquid_break_particles_white.vpcf_c
+particles/breakable_fx/breakable_01_paint_flakes.vpcf_c
+particles/breakable_fx/breakable_dust_expl.vpcf_c
+particles/breakable_fx/breakable_mail_debris_01.vpcf_c
+particles/breakable_fx/breakable_mail_debris_onfire_01.vpcf_c
+particles/breakable_fx/break_cabbage.vpcf_c
+particles/breakable_fx/break_cabbage_chunks.vpcf_c
+particles/breakable_fx/break_orange.vpcf_c
+particles/breakable_fx/break_watermelon.vpcf_c
+particles/breakable_fx/break_watermelon_chunks.vpcf_c
+particles/breakable_fx/break_wine_bottles_decal.vpcf_c
+particles/breakable_fx/break_wine_bottles_decal_1.vpcf_c
+particles/breakable_fx/break_wine_bottles_decal_3.vpcf_c
+particles/breakable_fx/break_wine_bottles_decal_4.vpcf_c
+particles/breakable_fx/break_wine_bottles_decal_5.vpcf_c
+particles/breakable_fx/break_wine_bottles_red.vpcf_c
+particles/breakable_fx/break_wine_bottles_rose.vpcf_c
+particles/breakable_fx/break_wine_bottles_splash.vpcf_c
+particles/breakable_fx/break_wine_bottles_white.vpcf_c
+particles/breakable_fx/break_zucchini.vpcf_c
+particles/breakable_fx/prop_break_particles.vpcf_c
+particles/blood_impact/blood_impact_basic.vpcf_c
+particles/blood_impact/blood_impact_basic_fallback.vpcf_c
+particles/blood_impact/blood_impact_chunks1.vpcf_c
+particles/blood_impact/blood_impact_directional_highvel_spray.vpcf_c
+particles/blood_impact/blood_impact_directional_med.vpcf_c
+particles/blood_impact/blood_impact_directional_spray_med.vpcf_c
+particles/blood_impact/blood_impact_drops1.vpcf_c
+particles/blood_impact/blood_impact_dust.vpcf_c
+particles/blood_impact/blood_impact_friendly.vpcf_c
+particles/blood_impact/blood_impact_friendly_mist.vpcf_c
+particles/blood_impact/blood_impact_goop_heavy.vpcf_c
+particles/blood_impact/blood_impact_goop_light.vpcf_c
+particles/blood_impact/blood_impact_goop_medium.vpcf_c
+particles/blood_impact/blood_impact_green_01.vpcf_c
+particles/blood_impact/blood_impact_headshot.vpcf_c
+particles/blood_impact/blood_impact_headshot_01b.vpcf_c
+particles/blood_impact/blood_impact_headshot_01c.vpcf_c
+particles/blood_impact/blood_impact_headshot_01d.vpcf_c
+particles/blood_impact/blood_impact_headshot_01e.vpcf_c
+particles/blood_impact/blood_impact_heavy.vpcf_c
+particles/blood_impact/blood_impact_high.vpcf_c
+particles/blood_impact/blood_impact_high_ground_decal.vpcf_c
+particles/blood_impact/blood_impact_high_ground_decalalt.vpcf_c
+particles/blood_impact/blood_impact_high_mist_away.vpcf_c
+particles/blood_impact/blood_impact_high_spray_away.vpcf_c
+particles/blood_impact/blood_impact_high_vis_spray.vpcf_c
+particles/blood_impact/blood_impact_high_vis_spray_trail.vpcf_c
+particles/blood_impact/blood_impact_light.vpcf_c
+particles/blood_impact/blood_impact_light_headshot.vpcf_c
+particles/blood_impact/blood_impact_localfrontenemy.vpcf_c
+particles/blood_impact/blood_impact_localfrontenemy_splatter.vpcf_c
+particles/blood_impact/blood_impact_localfrontenemy_splatter_lft.vpcf_c
+particles/blood_impact/blood_impact_localfrontenemy_splatter_rgt.vpcf_c
+particles/blood_impact/blood_impact_localkillshot.vpcf_c
+particles/blood_impact/blood_impact_localkillshot_splatter.vpcf_c
+particles/blood_impact/blood_impact_localplayer.vpcf_c
+particles/blood_impact/blood_impact_localrearhit.vpcf_c
+particles/blood_impact/blood_impact_localrearhit_splatter.vpcf_c
+particles/blood_impact/blood_impact_low.vpcf_c
+particles/blood_impact/blood_impact_low_ground_decal.vpcf_c
+particles/blood_impact/blood_impact_low_ground_decal_alt.vpcf_c
+particles/blood_impact/blood_impact_low_mist_away.vpcf_c
+particles/blood_impact/blood_impact_low_spray_away.vpcf_c
+particles/blood_impact/blood_impact_low_spray_screen.vpcf_c
+particles/blood_impact/blood_impact_low_vis_spray.vpcf_c
+particles/blood_impact/blood_impact_low_vis_spray_away.vpcf_c
+particles/blood_impact/blood_impact_low_vis_spray_trail.vpcf_c
+particles/blood_impact/blood_impact_lp_mist.vpcf_c
+particles/blood_impact/blood_impact_lp_spray.vpcf_c
+particles/blood_impact/blood_impact_med.vpcf_c
+particles/blood_impact/blood_impact_medium.vpcf_c
+particles/blood_impact/blood_impact_med_ground_decal.vpcf_c
+particles/blood_impact/blood_impact_med_ground_decalalt.vpcf_c
+particles/blood_impact/blood_impact_med_ground_decalaltb.vpcf_c
+particles/blood_impact/blood_impact_med_mist_away.vpcf_c
+particles/blood_impact/blood_impact_med_spray_away.vpcf_c
+particles/blood_impact/blood_impact_med_spray_screen.vpcf_c
+particles/blood_impact/blood_impact_med_vis_spray.vpcf_c
+particles/blood_impact/blood_impact_med_vis_spray_trail.vpcf_c
+particles/blood_impact/blood_impact_mist1.vpcf_c
+particles/blood_impact/blood_impact_mist1_light.vpcf_c
+particles/blood_impact/blood_impact_mist_away.vpcf_c
+particles/blood_impact/blood_impact_mist_heavy.vpcf_c
+particles/blood_impact/blood_impact_red_01.vpcf_c
+particles/blood_impact/blood_impact_red_01_backspray.vpcf_c
+particles/blood_impact/blood_impact_red_01_chunk.vpcf_c
+particles/blood_impact/blood_impact_red_01_drops.vpcf_c
+particles/blood_impact/blood_impact_red_01_goop_a.vpcf_c
+particles/blood_impact/blood_impact_red_01_goop_a_backup.vpcf_c
+particles/blood_impact/blood_impact_red_01_goop_b.vpcf_c
+particles/blood_impact/blood_impact_red_01_goop_c.vpcf_c
+particles/blood_impact/blood_impact_red_01_mist.vpcf_c
+particles/blood_impact/blood_impact_yellow_01.vpcf_c
+particles/blood_impact/blood_pool.vpcf_c
+particles/blood_impact/gore_goop_generic.vpcf_c
+particles/blood_impact/impact_blood_glow.vpcf_c
+particles/blood_impact/impact_blood_glow_light.vpcf_c
+particles/blood_impact/impact_blood_glow_light_master.vpcf_c
+particles/blood_impact/impact_blood_glow_normal_master.vpcf_c
+particles/blood_impact/impact_taser_bodyfx.vpcf_c
+particles/blood_impact/impact_taser_bodyfx_ashes.vpcf_c
+particles/ambient_fx/achieved.vpcf_c
+particles/ambient_fx/aircraft_navgreen.vpcf_c
+particles/ambient_fx/aircraft_navred.vpcf_c
+particles/ambient_fx/aircraft_strobe_orange.vpcf_c
+particles/ambient_fx/ambient_ground_dust.vpcf_c
+particles/ambient_fx/ambient_leaf_blow_e.vpcf_c
+particles/ambient_fx/ambient_leaf_blow_n.vpcf_c
+particles/ambient_fx/ambient_leaf_blow_s.vpcf_c
+particles/ambient_fx/ambient_leaf_blow_vertical.vpcf_c
+particles/ambient_fx/ambient_leaf_blow_vertical_collision_backup.vpcf_c
+particles/ambient_fx/ambient_leaf_blow_w.vpcf_c
+particles/ambient_fx/ambient_paper_blow_e.vpcf_c
+particles/ambient_fx/ambient_paper_blow_n.vpcf_c
+particles/ambient_fx/ambient_paper_blow_s.vpcf_c
+particles/ambient_fx/ambient_paper_blow_w.vpcf_c
+particles/ambient_fx/ambient_smokestack.vpcf_c
+particles/ambient_fx/ambient_smokestack_noise.vpcf_c
+particles/ambient_fx/ambient_sparks.vpcf_c
+particles/ambient_fx/ambient_sparks_backup.vpcf_c
+particles/ambient_fx/ambient_sparks_core.vpcf_c
+particles/ambient_fx/ambient_sparks_glow.vpcf_c
+particles/ambient_fx/apc_wheeldust.vpcf_c
+particles/ambient_fx/apc_wheeldust_clumps.vpcf_c
+particles/ambient_fx/apc_wheeldust_clumps_slow.vpcf_c
+particles/ambient_fx/apc_wheeldust_large.vpcf_c
+particles/ambient_fx/apc_wheeldust_slow.vpcf_c
+particles/ambient_fx/cbble_fog_low.vpcf_c
+particles/ambient_fx/cbbl_movie_fog.vpcf_c
+particles/ambient_fx/copter_land_loop_1.vpcf_c
+particles/ambient_fx/copter_land_loop_1_dust_low.vpcf_c
+particles/ambient_fx/copter_land_loop_1_grass.vpcf_c
+particles/ambient_fx/copter_takeoff_1.vpcf_c
+particles/ambient_fx/copter_takeoff_1_dust_low.vpcf_c
+particles/ambient_fx/copter_takeoff_1_grass.vpcf_c
+particles/ambient_fx/cratebeacon_light_blink.vpcf_c
+particles/ambient_fx/cratebeacon_light_blink_a.vpcf_c
+particles/ambient_fx/cratebeacon_light_blink_b.vpcf_c
+particles/ambient_fx/dissolve.vpcf_c
+particles/ambient_fx/dustmotes_64.vpcf_c
+particles/ambient_fx/engsmokea.vpcf_c
+particles/ambient_fx/engsmokea_con.vpcf_c
+particles/ambient_fx/engsmokea_rev.vpcf_c
+particles/ambient_fx/engsmokeb.vpcf_c
+particles/ambient_fx/engsmokeb_con.vpcf_c
+particles/ambient_fx/engsmokeb_rev.vpcf_c
+particles/ambient_fx/env_sparks_a.vpcf_c
+particles/ambient_fx/env_sparks_b.vpcf_c
+particles/ambient_fx/env_sparks_c.vpcf_c
+particles/ambient_fx/env_sparks_d.vpcf_c
+particles/ambient_fx/env_sparks_directional.vpcf_c
+particles/ambient_fx/env_sparks_directional_a.vpcf_c
+particles/ambient_fx/env_sparks_directional_e.vpcf_c
+particles/ambient_fx/env_sparks_directional_f.vpcf_c
+particles/ambient_fx/env_sparks_directional_g.vpcf_c
+particles/ambient_fx/env_sparks_directional_h.vpcf_c
+particles/ambient_fx/env_sparks_directional_i.vpcf_c
+particles/ambient_fx/env_sparks_e.vpcf_c
+particles/ambient_fx/env_sparks_f.vpcf_c
+particles/ambient_fx/env_sparks_g.vpcf_c
+particles/ambient_fx/env_sparks_h.vpcf_c
+particles/ambient_fx/env_sparks_i.vpcf_c
+particles/ambient_fx/env_sparks_j.vpcf_c
+particles/ambient_fx/env_sparks_k.vpcf_c
+particles/ambient_fx/env_sparks_omni.vpcf_c
+particles/ambient_fx/ghost_player_whisps.vpcf_c
+particles/ambient_fx/ghost_player_whisps_b.vpcf_c
+particles/ambient_fx/ghost_player_whisps_c.vpcf_c
+particles/ambient_fx/ghost_player_whisps_eye_l.vpcf_c
+particles/ambient_fx/ghost_player_whisps_eye_r.vpcf_c
+particles/ambient_fx/ghost_player_whisps_ragdoll.vpcf_c
+particles/ambient_fx/impact_dirt.vpcf_c
+particles/ambient_fx/impact_dirt_child_base.vpcf_c
+particles/ambient_fx/impact_dirt_child_clumps.vpcf_c
+particles/ambient_fx/impact_dirt_child_smoke_puff.vpcf_c
+particles/ambient_fx/impact_generic_burst_3.vpcf_c
+particles/ambient_fx/impact_generic_smoke_large.vpcf_c
+particles/ambient_fx/leaf_blow_green_horizontal.vpcf_c
+particles/ambient_fx/leaf_blow_green_vertical.vpcf_c
+particles/ambient_fx/ricochet_sparks_contrast_glow_soft.vpcf_c
+particles/ambient_fx/snow_drift_128.vpcf_c
+particles/ambient_fx/stars_skybox.vpcf_c
+particles/ambient_fx/stars_skybox_tiny.vpcf_c
+particles/ambient_fx/survival_bunker_light.vpcf_c
+particles/ambient_fx/survival_bunker_light_dustmotes.vpcf_c
+particles/ambient/ambient_water_stream.vpcf_c
+particles/ambient/ambient_water_stream_b.vpcf_c
+particles/ambient/ambient_water_stream_c.vpcf_c
+particles/ambient/ambient_water_stream_d.vpcf_c
+particles/ambient/ambient_water_stream_e.vpcf_c
+particles/ambient/ambient_water_stream_f.vpcf_c
